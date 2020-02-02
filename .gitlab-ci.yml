@@ -10,6 +10,7 @@ before_script:
   - npm install npm@latest -g # install latest npm
   - npm install gitbook-cli -g # install gitbook
   - gitbook fetch latest # fetch latest stable version
+  - gitbook fetch beta # fetch latest stable version
   - gitbook install # add any requested plugins in book.json
   #- gitbook fetch pre # fetch latest pre-release version
   #- gitbook fetch 2.6.7 # fetch specific version
