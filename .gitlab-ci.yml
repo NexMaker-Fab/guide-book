@@ -1,5 +1,5 @@
 # requiring the environment of NodeJS 8.9.x LTS (carbon)
-image: node:8.9
+image: node:13.7
 
 # add 'node_modules' to cache for speeding up builds
 cache:
