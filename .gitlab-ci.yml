@@ -7,6 +7,7 @@ cache:
     - node_modules/ # Node modules and dependencies
 
 before_script:
+  - npm install npm@latest -g # install latest npm
   - npm install gitbook-cli -g # install gitbook
   - gitbook fetch latest # fetch latest stable version
   - gitbook install # add any requested plugins in book.json
