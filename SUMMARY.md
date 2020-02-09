@@ -16,4 +16,4 @@
 ## NexFab & NexMaker
 
 * [About](about.md)
-* [建立group和project](doc/buildgroup.md)
+* [group](doc/buildgroup.md)
