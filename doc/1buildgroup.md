@@ -1,4 +1,4 @@
-#  1. 建立group 和project
+#  建立group 和project
 
 此文档用于实验室维护者如何使用实验的gitlab文档管理系统。建立group和project的目的是更好的管理文档内容。
 
