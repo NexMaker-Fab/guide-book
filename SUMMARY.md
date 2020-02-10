@@ -4,6 +4,8 @@
 
 * [Guides](guide.md)
     * [How to use Git](https://git-scm.com/docs/gittutorial)
+    * [Build group and project ](doc/1buildgroup.md)
+    * [Git practice](doc/2git.md)
 
 ## Fabs
 
@@ -17,4 +19,5 @@
 ## NexFab & NexMaker
 
 * [About](about.md)
-* [group](doc/buildgroup.md)
+
+
