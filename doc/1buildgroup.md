@@ -24,7 +24,7 @@
 
 
 ### 二、建立project
-3.在fab01（fab第一期）培训中加入学生 "bob's fab", 通过邮件邀请bob
+在fab01（fab第一期）培训中加入学生 "bob's fab", 通过邮件邀请bob
 ![](https://github.com/bobwu0214/dm360.github.io/raw/master/Img/gitlab11.png)
 
 ![](https://github.com/bobwu0214/dm360.github.io/raw/master/Img/gitlab12.png)
