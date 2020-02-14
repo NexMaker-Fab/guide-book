@@ -4,8 +4,8 @@ Git is a free and open source distributed version control system designed to han
 
 Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 
-We can learn the general knowledge on[GIT](https://git-scm.com/)
-We can get the detail information about git on the [GIT pro](https://git-scm.com/book/en/v2)
+We can learn the general knowledge on[Git](https://git-scm.com/)
+We can get the detail information about git on the [Git pro](https://git-scm.com/book/en/v2)
 
 
 
