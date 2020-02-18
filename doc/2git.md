@@ -23,7 +23,7 @@ If you want a new version download it from the main Git site and install like an
 
 * Windows
 
-The best way to get started on Windows is to download Github for Windows
+The best way to get started on Windows is to download Git from [git web](https://git-scm.com/downloads) for Windows and install it.Now we can open [GUI BASH](https://gitforwindows.org/).
 
 
 ##2.Configure,setting up local identity

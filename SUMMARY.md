@@ -6,6 +6,8 @@
     * [How to use Git](https://git-scm.com/docs/gittutorial)
     * [Build group and project ](doc/1buildgroup.md)
     * [Git practice](doc/2git.md)
+    * [Gitbook](doc/4gitbook.md)
+    * [GitFAQ](doc/3gitFAQ.md)
 
 ## Fabs
 

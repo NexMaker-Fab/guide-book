@@ -20,7 +20,7 @@ $ git config user.email “email@test.com”
 ```
 [reference information](https://blog.csdn.net/Esc_Tab_End/article/details/84144063)
 
-2.git push
+2. git push
 
 ```
 $ git push
@@ -82,6 +82,38 @@ Resolving deltas: 100% (58/58), done.
 From gitlab.com:nex-fab/guide-book
  * branch            master     -> FETCH_HEAD
  * [new branch]      master     -> origin/master
+
+``` 
+
+4. go back to old edition
+Some time we would have the problem that our new edition would broken ,so we want to go former edition,there are many method.The below will introduce one method
+
+``` 
+$git log    //we can now many old edition make sure which edition we need to go back 
+$ git checkout add34          //go back  to old edition "commit add3492c"
+$ git branch check                 //add new branch "check"
+$ git branch                     // check the branch status, we can ignore if we now the logic
+* (HEAD detached at add3492)
+  check
+  master
+
+  //next step is use check(the old eidtion"add3492c" we want to go back) content to cover master (the new broken edition )
+$ git branch -D master            //delete old edition
+Deleted branch master (was 952de05).
+$ git branch master               // re- add branch "master"
+$ git checkout master             //covery  
+M	guide-book
+Switched to branch 'master'
+$ git branch 
+  check
+* master
+$ git branch -D check                 //delete history
+Deleted branch check (was add3492).
+$ git branch
+* master
+$ git add --all
+$ git commit -m "branch"
+$ git push origin master -f
 
 ``` 
 
