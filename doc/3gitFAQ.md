@@ -1,4 +1,4 @@
-# git FAQ
+# Git FAQ
 
 
 

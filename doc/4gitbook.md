@@ -1,5 +1,5 @@
 # git book
-this document will show us how to setting gitbook document for ever member.
+This document will show us how to setting gitbook document for ever member.
 
 we can reference the following information:
 * [gitbook from gitlab](https://gitlab.com/pages/gitbook)
