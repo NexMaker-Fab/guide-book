@@ -25,7 +25,7 @@
 
 * [Fab-01](fab-01/README.md)
     * [Bala Wang](fab-01/bala-wang.md)
-    * [Bob](https://gitlab.com/nex-fab/fab-01/bob-s-fab/-/blob/master/README.md)
+    * [Bob](https://nex-fab.gitlab.io/fab-01/bobstudent/)
 
 * [Fab-02](fab-02/README.md)
     * [Student2-1](fab-01/student2-1.md)
