@@ -1,19 +1,18 @@
 # Summary
 
-## Guides
-
+## Introduce
 * [Guides](guide.md)
-    * [How to use Git](https://git-scm.com/docs/gittutorial)
-    * [Build group and project ](doc/1buildgroup.md)
-    * [Git practice](doc/2git.md)
-    * [Gitbook](doc/4gitbook.md)
-    * [GitFAQ](doc/3gitFAQ.md)
-    * [3dprinter background](doc/3dprinter/1.3Dprintingbackground.md)
-	* [3dprinter background](doc/3dprinter/2.FDM3Dprintingbackground.md)
-	* [FDM designguide](doc/3dprinter/3.FDM-designguide.md)
-	* [FDM machine operation](doc/3dprinter/4.FDM-machineoperation.md)
-	* [FDM post process](doc/3dprinter/5.FDM-postprocess.md)
-	* [SLA background](doc/3dprinter/6.SLAbackground.md)
+
+## Guide
+
+
+###Git
+* [How to use Git](https://git-scm.com/docs/gittutorial)
+
+### 3D printer
+* [3D printer background](doc/3dprinter/1.3Dprintingbackground.md)
+* [3dprinter background](doc/3dprinter/2.FDM3Dprintingbackground.md)
+* [SLA background](doc/3dprinter/6.SLAbackground.md)
 
 
     
