@@ -2,6 +2,7 @@
 
 ## Introduce
 * [Guides](guide.md)
+* [Fab Lab ](doc/Fab/FAB.md)
 
 
 *****
@@ -11,11 +12,13 @@
 ###Git
 * [How to use Git](https://git-scm.com/docs/gittutorial)
 
-### 3D printer
+### [3D printer](doc/3dprinter/assignment.md)
 * [3D printer background](doc/3dprinter/1.3Dprintingbackground.md)
 * [3dprinter background](doc/3dprinter/2.FDM3Dprintingbackground.md)
 * [SLA background](doc/3dprinter/6.SLAbackground.md)
 
+### Electric design and manufacture
+* [Electric basic knowledge](doc/electric_design_and_manfucture/basicknowledge.md)
 
     
     
