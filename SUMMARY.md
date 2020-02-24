@@ -18,10 +18,10 @@
     * [3dprinter background](doc/3dprinter/2.FDM3Dprintingbackground.md)
     * [SLA background](doc/3dprinter/6.SLAbackground.md)
 
-* 3. Electric design and manufacture
+* 3 . Electric design and manufacture
     * [Electric basic knowledge](doc/electric_design_and_manfucture/basicknowledge.md)
 
-* 4. Arduino application
+* 4 . Arduino application
     * 开源硬件介绍
     * 代码讲解
     * 库文件
@@ -31,14 +31,14 @@
 		
 		
 		
-* 5.  Laser cutter
+* 5 .  Laser cutter
     * 安全规范
     * 材料
     * 设计原则（应用于激光切割工艺）
     * 雕刻与切割
     * 设备调试
 
-* 6. PCB manufacure
+* 6 . PCB manufacure
     * 介绍
     * 样板制作方式
     * 批量加工、检测
@@ -46,7 +46,7 @@
     * 雕刻
     * 焊接
 		
-* 7.  CNC manufacture
+* 7 .  CNC manufacture
     * 设计原则
     * 安全规范
     * 软件控制
@@ -55,13 +55,13 @@
     * 加工
 		
 		
-* 8. Embedded programming
+* 8 . Embedded programming
     * 编程语言
     * 烧入
     * 调试
     * 仪器检测
 
-* 9. 交互
+* 9 . 交互
     * Arduino 与processing
     * IOT接口
     * 传感激收集数据
