@@ -21,6 +21,59 @@
 * 3. Electric design and manufacture
     * [Electric basic knowledge](doc/electric_design_and_manfucture/basicknowledge.md)
 
+* 4. Arduino application
+    * 开源硬件介绍
+    * 代码讲解
+    * 库文件
+    * 传感器
+    * 执行器件	
+    * 电机与舵机	
+		
+		
+		
+* 5.  Laser cutter
+    * 安全规范
+    * 材料
+    * 设计原则（应用于激光切割工艺）
+    * 雕刻与切割
+    * 设备调试
+
+* 6. PCB manufacure
+    * 介绍
+    * 样板制作方式
+    * 批量加工、检测
+    * PCB设计（altium design 或者eagle）
+    * 雕刻
+    * 焊接
+		
+* 7.  CNC manufacture
+    * 设计原则
+    * 安全规范
+    * 软件控制
+    * 原料固定
+    * 设备测试
+    * 加工
+		
+		
+* 8. Embedded programming
+    * 编程语言
+    * 烧入
+    * 调试
+    * 仪器检测
+
+* 9. 交互
+    * Arduino 与processing
+    * IOT接口
+    * 传感激收集数据
+    * 本地处理
+    * 数据上传云端（存储与处理）
+    * 数据反馈本地
+    * 执行反馈信息
+
+
+
+
+
     
 ## Fabs
 
