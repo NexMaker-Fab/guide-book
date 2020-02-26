@@ -1,15 +1,14 @@
 # Summary
 
-
-* [Fab Lab ](doc/Fab/FAB.md)
-* [Safety](doc/0manage/safety.md)
 * [Lab manage](doc/0manage/labmanage.md)
-* About us ：add later
+    * [Fab Lab ](doc/Fab/FAB.md)
+    * [Safety](doc/0manage/safety.md)
+    * About us 
 
 
 
 ## Guide
-* 1.Git
+* [1.Git](https://git-scm.com/)
     * [How to use Git](https://git-scm.com/docs/gittutorial)
 
 * [2. 3D printer](doc/3dprinter/assignment.md)
@@ -21,7 +20,7 @@
 * 3 . Electric design and manufacture
     * [Electric basic knowledge](doc/electric_design_and_manfucture/basicknowledge.md)
 
-* 4 . Arduino application
+* [4.Arduino application](https://www.arduino.cc/)
     * 开源硬件介绍
     * 代码讲解
     * 库文件
