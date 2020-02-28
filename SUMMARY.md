@@ -16,7 +16,7 @@
     * [3dprinter background](doc/3dprinter/2.FDM3Dprintingbackground.md)
     * [SLA background](doc/3dprinter/6.SLAbackground.md)
 
-* 3 . Electric design and manufacture
+* 3 . Electric design 
     * [Electric basic knowledge](doc/electric_design_and_manfucture/basicknowledge.md)
 
 * [4.Arduino application](https://www.arduino.cc/)
