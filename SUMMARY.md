@@ -3,7 +3,6 @@
 * [Lab manage](doc/0manage/labmanage.md)
     * [Fab Lab ](doc/Fab/FAB.md)
     * [Safety](doc/0manage/safety.md)
-    * About us 
 
 
 
@@ -27,9 +26,7 @@
     * 传感器
     * 执行器件	
     * 电机与舵机	
-		
-		
-		
+	
 * 5 .  Laser cutter
     * 安全规范
     * 材料
@@ -37,7 +34,7 @@
     * 雕刻与切割
     * 设备调试
 
-* 6 . PCB manufacure
+* 6 . PCB manufacture
     * 介绍
     * 样板制作方式
     * 批量加工、检测
@@ -52,8 +49,7 @@
     * 原料固定
     * 设备测试
     * 加工
-		
-		
+
 * 8 . Embedded programming
     * 编程语言
     * 烧入
@@ -69,11 +65,7 @@
     * 数据反馈本地
     * 执行反馈信息
 
-
-
-
-
-    
+  
 ## Fabs
 
 * [Fab-01](fab-01/README.md)
