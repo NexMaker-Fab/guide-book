@@ -9,6 +9,8 @@
 ## Guide
 * [1.Git](https://git-scm.com/)
     * [How to use Git](https://git-scm.com/docs/gittutorial)
+    * [Markdown](doc/1git/markdown.md)
+    * [Image uploader service](doc/1git/imageuploadservice.md)
 
 * [2. 3D printer](doc/3dprinter/assignment.md)
     * [Assignment](doc/3dprinter/assignment.md)
