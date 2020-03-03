@@ -26,8 +26,9 @@
     * 传感器
     * 执行器件	
     * 电机与舵机	
+    * others
 	
-* 5 .  Laser cutter
+* 5 .Laser cutter
     * 安全规范
     * 材料
     * 设计原则（应用于激光切割工艺）
