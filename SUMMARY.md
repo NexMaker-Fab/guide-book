@@ -3,11 +3,11 @@
 * [Lab manage](doc/0manage/labmanage.md)
     * [Fab Lab ](doc/Fab/FAB.md)
     * [Nexmaker Academy](doc/0manage/nexmaker-academy.md)
+    * [Access](doc/0manage/access.md)
     * [Safety](doc/0manage/safety.md)
     * [Hand tool](doc/0manage/handtool.md)
     * [Machine](doc/0manage/machineguide.md)
     * [Open time](doc/0manage/opentime.md)
-    * [Access](doc/0manage/access.md)
     * [Supervisor](doc/0manage/supervisor.md)
     
 
@@ -45,7 +45,6 @@
     * [Safety](https://www.nottingham.edu.cn/en/ehs/laser-safety.aspx)
     * Material
   
-
 * [7. PCB manufacture](https://www.nexpcb.com/blog/smt-pcb-puzzle)
     * [PCB](https://www.nexpcb.com/blog/what-is-a-printed-circuit-board-basic-pcb-concepts)
 		
