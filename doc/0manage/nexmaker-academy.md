@@ -6,15 +6,16 @@ We have series workshops. Every 3 months we would arrange one NexMaker academy. 
 The following is the list of key information:
 
 1. [Git](https://git-scm.com/)
-2. [ 3D printer](doc/3dprinter/assignment.md)
-3. [Electric design ](doc/electric_design_and_manfucture/)
-4. [Arduino application](https://www.arduino.cc/)
-5. Laser cutter
-6. PCB manufacture	
-7. CNC manufacture
-8. Embedded programming
-9.  IOT and Interaction
-10. [Startup weekend maker Ningbo](https://mp.weixin.qq.com/s/c0Ezu0Gmwc_TvyuxWJ4sgA)
+2. CAD design
+3. [ 3D printer](doc/3dprinter/assignment.md)
+4. [Electric design ](doc/electric_design_and_manfucture/)
+5. [Arduino application](https://www.arduino.cc/)
+6. Laser cutter
+7. PCB manufacture	
+8. CNC manufacture
+9. Embedded programming
+10. IOT and Interaction
+11. [Startup weekend maker Ningbo](https://mp.weixin.qq.com/s/c0Ezu0Gmwc_TvyuxWJ4sgA)
 
 Normally every week we would arrange one workshop
 
