@@ -19,22 +19,24 @@
     * [Markdown](doc/1projectmanage/markdown.md)
     * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
 
-*  2. CAD design
+*  [2. CAD design](doc/2cad/cad.md)
     * 3D design:fusion 360
     * 2D design: Autodesk CAD
     * Torelance  
 
 
-* [3 . Electric design ](doc/3electric_design_and_manfucture/basicknowledge.md)
-    * [Electric basic knowledge](doc/3electric_design_and_manfucture/basicknowledge.md)
+
+* [3. 3D printer](doc/3_3dprinter/assignment.md)
+    * [Assignment](doc/3_3dprinter/assignment.md)
+    * [3D printer background](doc/3_3dprinter/1.3Dprintingbackground.md)
+    * [3dprinter background](doc/3_3dprinter/2.FDM3Dprintingbackground.md)
+    * [SLA background](doc/3_3dprinter/6.SLAbackground.md)
+
+* [4 . Electric design ](doc/4electric_design_and_manfucture/basicknowledge.md)
+    * [Electric basic knowledge](doc/4electric_design_and_manfucture/basicknowledge.md)
 
 
 
-* [4. 3D printer](doc/23dprinter/assignment.md)
-    * [Assignment](doc/23dprinter/assignment.md)
-    * [3D printer background](doc/23dprinter/1.3Dprintingbackground.md)
-    * [3dprinter background](doc/23dprinter/2.FDM3Dprintingbackground.md)
-    * [SLA background](doc/23dprinter/6.SLAbackground.md)
 
 * [5.Arduino application](https://www.arduino.cc/)
     * 开源硬件介绍
@@ -45,14 +47,14 @@
     * 电机与舵机	
     * others
 	
-* 6 .Laser cutter
+* 6. Laser cutter
     * 安全规范
     * 材料
     * 设计原则（应用于激光切割工艺）
     * 雕刻与切割
     * 设备调试
 
-* 7 . PCB manufacture
+* 7. PCB manufacture
     * 介绍
     * 样板制作方式
     * 批量加工、检测
@@ -60,7 +62,7 @@
     * 雕刻
     * 焊接
 		
-* 8 .  CNC manufacture
+* 8.  CNC manufacture
     * 设计原则
     * 安全规范
     * 软件控制
@@ -68,13 +70,13 @@
     * 设备测试
     * 加工
 
-* 9 . Embedded programming
+* 9. Embedded programming
     * 编程语言
     * 烧入
     * 调试
     * 仪器检测
 
-* 10 . IOT and Interaction
+* 10. IOT and Interaction
     * Arduino 与processing
     * IOT接口
     * 传感激收集数据
