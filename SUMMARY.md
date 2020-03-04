@@ -18,7 +18,7 @@
     * [3dprinter background](doc/3dprinter/2.FDM3Dprintingbackground.md)
     * [SLA background](doc/3dprinter/6.SLAbackground.md)
 
-* 3 . Electric design 
+* [3 . Electric design ](doc/electric_design_and_manfucture/basicknowledge.md)
     * [Electric basic knowledge](doc/electric_design_and_manfucture/basicknowledge.md)
 
 * [4.Arduino application](https://www.arduino.cc/)
@@ -59,7 +59,7 @@
     * 调试
     * 仪器检测
 
-* 9 . 交互
+* 9 . IOT and Interaction
     * Arduino 与processing
     * IOT接口
     * 传感激收集数据
