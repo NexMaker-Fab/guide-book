@@ -2,7 +2,14 @@
 
 * [Lab manage](doc/0manage/labmanage.md)
     * [Fab Lab ](doc/Fab/FAB.md)
+    * [Nexmaker Academy](doc/0manage/nexmaker-academy.md)
     * [Safety](doc/0manage/safety.md)
+    * [Hand tool](doc/0manage/handtool.md)
+    * [Machine](doc/0manage/machineguide.md)
+    * [Open time](doc/0manage/opentime.md)
+    * [Access](doc/0manage/access.md)
+    * [Supervisor](doc/0manage/supervisor.md)
+    
 
 
 
@@ -69,9 +76,9 @@
     * 执行反馈信息
 
   
-## Fabs
+## FABS
 
-* [NexMaker academy-101](fab-01/README.md)
+* [NexMaker academy-1](fab-01/README.md)
     * [Bala Wang](fab-01/bala-wang.md)
     * [Bob](https://nex-fab.gitlab.io/fab-01/bobstudent/)
 
