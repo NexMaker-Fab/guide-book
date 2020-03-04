@@ -48,22 +48,22 @@
 
 
 	
-* 6. Laser cutter
-    * 安全规范
-    * 材料
+* [6. Laser cutting](https://en.wikipedia.org/wiki/Laser_cutting)
+    * [Safety](https://www.nottingham.edu.cn/en/ehs/laser-safety.aspx)
+    * Material
     * 设计原则（应用于激光切割工艺）
     * 雕刻与切割
     * 设备调试
 
-* 7. PCB manufacture
-    * 介绍
+* [7. PCB manufacture](https://www.nexpcb.com/blog/smt-pcb-puzzle)
+    * [PCB](https://www.nexpcb.com/blog/what-is-a-printed-circuit-board-basic-pcb-concepts)
     * 样板制作方式
     * 批量加工、检测
     * PCB设计（altium design 或者eagle）
     * 雕刻
     * 焊接
 		
-* 8.  CNC manufacture
+* [8. CNC manufacture](https://astromachineworks.com/what-is-cnc-machining/)
     * 设计原则
     * 安全规范
     * 软件控制
@@ -71,13 +71,15 @@
     * 设备测试
     * 加工
 
-* 9. Embedded programming
+* [9. Embedded programming](https://www.techopedia.com/definition/29945/embedded-programming)
     * 编程语言
     * 烧入
     * 调试
     * 仪器检测
 
-* 10. IOT and Interaction
+*  [10.IOT and Interaction](https://en.wikipedia.org/wiki/Internet_of_Things)
+    * [IOT platform](https://internetofthingswiki.com/top-20-iot-platforms/634/)
+    * [Processing](https://processing.org/)
     * Arduino 与processing
     * IOT接口
     * 传感激收集数据
