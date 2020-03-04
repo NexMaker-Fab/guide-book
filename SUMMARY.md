@@ -20,9 +20,9 @@
     * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
 
 *  [2. CAD design](doc/2cad/cad.md)
-    * 3D design:fusion 360
-    * 2D design: Autodesk CAD
-    * Torelance  
+    * [3D design:fusion 360](https://www.autodesk.com/products/fusion-360/overview)
+    * [2D design: Autodesk CAD](https://www.autodesk.com/products/autocad/overview)
+    * [Tolerance](https://en.wikipedia.org/wiki/Engineering_tolerance) 
 
 
 
@@ -34,18 +34,19 @@
 
 * [4 . Electric design ](doc/4electric_design_and_manfucture/basicknowledge.md)
     * [Electric basic knowledge](doc/4electric_design_and_manfucture/basicknowledge.md)
+    *  [EAGLE](https://knowledge.autodesk.com/support/eagle/troubleshooting/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-now-included-with-Fusion-360.html)
+    *  [Fusion 360 electronics](https://www.autodesk.com/products/fusion-360/electronics-engineer)
 
 
 
 
 * [5.Arduino application](https://www.arduino.cc/)
-    * 开源硬件介绍
-    * 代码讲解
-    * 库文件
-    * 传感器
-    * 执行器件	
-    * 电机与舵机	
-    * others
+    * [Open source](https://en.wikipedia.org/wiki/Open_source)
+    * [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+    * [Library](https://www.arduino.cc/en/Tutorial/LibraryExamples)
+    * [Board](https://www.arduino.cc/en/Main/Products)
+
+
 	
 * 6. Laser cutter
     * 安全规范
