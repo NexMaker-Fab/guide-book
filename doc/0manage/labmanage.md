@@ -14,6 +14,10 @@ Looking forward more function from you. [Email us](bob@nexpcb.com)
 
 
 
+*****
+
+Update time:20200304
+
 
 
 

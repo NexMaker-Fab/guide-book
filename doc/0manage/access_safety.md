@@ -1,7 +1,7 @@
 # Access and Safety
 
 For safety, we  divide different members who own different right: 
-* **Visitor** ,**Graduate** ,**Supervisor**
+**Visitor** ,**Graduate** ,**Supervisor**
 
 
 
@@ -19,13 +19,27 @@ For safety, we  divide different members who own different right:
     * You can use all the machine without supervisor during working time;
     * You can apply for material and equipment [(Reference "material")](material.md)
 3. Duty:
-    * You need send application email to supervisor and get approve if you want to use lab after working time.
- 
+    * You need send application email to supervisor and get approve if you want to use lab after working time;
+    * You need get supervisor's surprise if you want to use 3D printer, laser cutter, CNC ,drilling machine and grinder;
+    * Clean your workspace after working, and throw rubbish to bin;
+    * If your project need to do again, you need 
+        * Put your project in specified tool box, if tool box can't hold your project, you can discuss with Bob;
+        * Put tool to origin position;
 
 ##For supervisor
 
+1. Definition: The member who is the administrator of lab, now two member [Bob](bob@nexpcb.com) and [Jacen](jacen@nexpcb.com)
+2. Right: 
+    *   Supervisor can use any machine in the lab;
+    *   Supervisor have right to change the access of member(add or delete)
+
+3. Duty 
+        * Keep the safety of lab;
+        * Keep the clean of lab;
+        * Confirm the condition of door and windows;
 
 
 
+*****
 
-
+Update time:20200304

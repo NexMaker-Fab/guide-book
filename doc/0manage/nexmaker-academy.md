@@ -26,3 +26,9 @@ Normally every week we would arrange one workshop
 * Party for you: we would arrange [Startup weekend maker Ningbo](https://mp.weixin.qq.com/s/c0Ezu0Gmwc_TvyuxWJ4sgA) for you and another engineer ,startup together ,it would last 54 hours. The project would be your finial project.
 
  Obviously,  we can discuss any other time if you want when it would influence daily work. You can book time with [Bob](bob@nexmaker.com)
+
+
+
+*****
+
+Update time:20200304
