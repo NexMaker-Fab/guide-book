@@ -24,8 +24,6 @@
     * [2D design: Autodesk CAD](https://www.autodesk.com/products/autocad/overview)
     * [Tolerance](https://en.wikipedia.org/wiki/Engineering_tolerance) 
 
-
-
 * [3. 3D printer](doc/3_3dprinter/assignment.md)
     * [Assignment](doc/3_3dprinter/assignment.md)
     * [3D printer background](doc/3_3dprinter/1.3Dprintingbackground.md)
@@ -37,56 +35,29 @@
     *  [EAGLE](https://knowledge.autodesk.com/support/eagle/troubleshooting/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-now-included-with-Fusion-360.html)
     *  [Fusion 360 electronics](https://www.autodesk.com/products/fusion-360/electronics-engineer)
 
-
-
-
 * [5.Arduino application](https://www.arduino.cc/)
     * [Open source](https://en.wikipedia.org/wiki/Open_source)
     * [Arduino IDE](https://www.arduino.cc/en/Main/Software)
     * [Library](https://www.arduino.cc/en/Tutorial/LibraryExamples)
     * [Board](https://www.arduino.cc/en/Main/Products)
 
-
-	
 * [6. Laser cutting](https://en.wikipedia.org/wiki/Laser_cutting)
     * [Safety](https://www.nottingham.edu.cn/en/ehs/laser-safety.aspx)
     * Material
-    * 设计原则（应用于激光切割工艺）
-    * 雕刻与切割
-    * 设备调试
+  
 
 * [7. PCB manufacture](https://www.nexpcb.com/blog/smt-pcb-puzzle)
     * [PCB](https://www.nexpcb.com/blog/what-is-a-printed-circuit-board-basic-pcb-concepts)
-    * 样板制作方式
-    * 批量加工、检测
-    * PCB设计（altium design 或者eagle）
-    * 雕刻
-    * 焊接
 		
 * [8. CNC manufacture](https://astromachineworks.com/what-is-cnc-machining/)
-    * 设计原则
-    * 安全规范
-    * 软件控制
-    * 原料固定
-    * 设备测试
-    * 加工
+    * Design rule
 
 * [9. Embedded programming](https://www.techopedia.com/definition/29945/embedded-programming)
-    * 编程语言
-    * 烧入
-    * 调试
-    * 仪器检测
+    * code
 
 *  [10.IOT and Interaction](https://en.wikipedia.org/wiki/Internet_of_Things)
     * [IOT platform](https://internetofthingswiki.com/top-20-iot-platforms/634/)
     * [Processing](https://processing.org/)
-    * Arduino 与processing
-    * IOT接口
-    * 传感激收集数据
-    * 本地处理
-    * 数据上传云端（存储与处理）
-    * 数据反馈本地
-    * 执行反馈信息
 
   
 ## FABS
