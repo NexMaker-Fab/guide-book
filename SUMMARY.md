@@ -7,19 +7,19 @@
 
 
 ## Guide
-* [1.Git](https://git-scm.com/)
+* [1.Projectmanage](https://git-scm.com/)
     * [How to use Git](https://git-scm.com/docs/gittutorial)
-    * [Markdown](doc/1git/markdown.md)
-    * [Image uploader service](doc/1git/imageuploadservice.md)
+    * [Markdown](doc/1projectmanage/markdown.md)
+    * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
 
-* [2. 3D printer](doc/3dprinter/assignment.md)
-    * [Assignment](doc/3dprinter/assignment.md)
-    * [3D printer background](doc/3dprinter/1.3Dprintingbackground.md)
-    * [3dprinter background](doc/3dprinter/2.FDM3Dprintingbackground.md)
-    * [SLA background](doc/3dprinter/6.SLAbackground.md)
+* [2. 3D printer](doc/23dprinter/assignment.md)
+    * [Assignment](doc/23dprinter/assignment.md)
+    * [3D printer background](doc/23dprinter/1.3Dprintingbackground.md)
+    * [3dprinter background](doc/23dprinter/2.FDM3Dprintingbackground.md)
+    * [SLA background](doc/23dprinter/6.SLAbackground.md)
 
-* [3 . Electric design ](doc/electric_design_and_manfucture/basicknowledge.md)
-    * [Electric basic knowledge](doc/electric_design_and_manfucture/basicknowledge.md)
+* [3 . Electric design ](doc/3electric_design_and_manfucture/basicknowledge.md)
+    * [Electric basic knowledge](doc/3electric_design_and_manfucture/basicknowledge.md)
 
 * [4.Arduino application](https://www.arduino.cc/)
     * 开源硬件介绍
@@ -71,11 +71,11 @@
   
 ## Fabs
 
-* [Fab-01](fab-01/README.md)
+* [NexMaker academy-101](fab-01/README.md)
     * [Bala Wang](fab-01/bala-wang.md)
     * [Bob](https://nex-fab.gitlab.io/fab-01/bobstudent/)
 
-* [Fab-02](fab-02/README.md)
+* [NexMaker academy-2](fab-02/README.md)
     * [Student2-1](fab-01/student2-1.md)
 
 
