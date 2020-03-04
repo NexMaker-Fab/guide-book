@@ -34,9 +34,9 @@ For safety, we  divide different members who own different right:
     *   Supervisor have right to change the access of member(add or delete)
 
 3. Duty 
-        * Keep the safety of lab;
-        * Keep the clean of lab;
-        * Confirm the condition of door and windows;
+    * Keep the safety of lab;
+    * Keep the clean of lab;
+    * Confirm the condition of door and windows;
 
 
 
