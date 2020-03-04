@@ -7,7 +7,7 @@
     * [Hand tool](doc/0manage/handtool.md)
     * [Machine](doc/0manage/machineguide.md)
     * [Open time](doc/0manage/opentime.md)
-    * [Supervisor](doc/0manage/supervisor.md)
+  
     
 
 
