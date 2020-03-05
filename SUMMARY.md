@@ -17,9 +17,9 @@
     * [Assessment](doc/1projectmanage/Assessment1Project_manage.md)
     * [Tool](doc/1projectmanage/Tool1Project_manage.md)
     * [How to use Git official document](https://git-scm.com/docs/gittutorial)
-    * [git](doc/1projectmanage/2git.md)
-    * [gitbook](doc/1projectmanage/4gitbook.md)
-    * [gitFAQ](doc/1projectmanage/3gitFAQ.md)
+    * [Git](doc/1projectmanage/2git.md)
+    * [Gitbook](doc/1projectmanage/4gitbook.md)
+    * [GitFAQ](doc/1projectmanage/3gitFAQ.md)
     * [Markdown](doc/1projectmanage/markdown.md)
     * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
 
@@ -42,8 +42,8 @@
     * Assessment
     * Tool
     * [Electric basic knowledge](doc/4electric_design_and_manfucture/basicknowledge.md)
-    *  [EAGLE](https://knowledge.autodesk.com/support/eagle/troubleshooting/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-now-included-with-Fusion-360.html)
-    *  [Fusion 360 electronics](https://www.autodesk.com/products/fusion-360/electronics-engineer)
+    * [EAGLE](https://knowledge.autodesk.com/support/eagle/troubleshooting/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-now-included-with-Fusion-360.html)
+    * [Fusion 360 electronics](https://www.autodesk.com/products/fusion-360/electronics-engineer)
 
 * [5.Arduino application](https://www.arduino.cc/)
     * Assessment
