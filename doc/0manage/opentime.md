@@ -1,2 +1,0 @@
-# Open time and booking
-

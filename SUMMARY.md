@@ -4,12 +4,12 @@
     * [Fab Lab ](doc/Fab/FAB.md)
     * [Nexmaker Academy](doc/0manage/nexmaker-academy.md)
     * [Access and safety](doc/0manage/access_safety.md)
-    * [Hand tool](doc/0manage/handtool.md)
-    * [Machine](doc/0manage/machineguide.md)
-    * [Open time](doc/0manage/opentime.md)
+    * [Material](doc/0manage/material.md)
+    * [Tool](doc/0manage/tool.md)
+ 
+  
   
     
-
 
 
 ## Guide

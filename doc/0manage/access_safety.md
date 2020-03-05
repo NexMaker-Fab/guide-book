@@ -11,6 +11,8 @@ For safety, we  divide different members who own different right:
     * You can apply to attend NexMaker academy and to be a graduate;
     * If you want go to lab for  visit  or doing some working(design, manufacture, test), you  need apply with supervisor through email(detail in "For supervisor" part);
     * Visitor has no right to use 3D printer, laser cutter, CNC ,drilling machine and grinder.
+3. Duty:keep safety
+4. Open time: just in NexPCB's working time,and you need get supervise from supervisor;
 
 ## For graduate
 1. Definition: The member who is graduate from NexMaker academy.
@@ -25,10 +27,15 @@ For safety, we  divide different members who own different right:
     * If your project need to do again, you need 
         * Put your project in specified tool box, if tool box can't hold your project, you can discuss with Bob;
         * Put tool to origin position;
+4. Open time: 
+    * Normal in NexPCB's working time;
+    * If you want to work not in working time, please use email to supervisor and get approve;
+
+
 
 ##For supervisor
 
-1. Definition: The member who is the administrator of lab, now two member [Bob](bob@nexpcb.com) and [Jacen](jacen@nexpcb.com)
+1. Definition: The member who is the administrator of lab, now two member [Bob:bob@nexpcb.com](bob@nexpcb.com) and [Jacen:jacen@nexpcb.com](jacen@nexpcb.com)
 2. Right: 
     *   Supervisor can use any machine in the lab;
     *   Supervisor have right to change the access of member(add or delete)
@@ -37,8 +44,7 @@ For safety, we  divide different members who own different right:
     * Keep the safety of lab;
     * Keep the clean of lab;
     * Confirm the condition of door and windows;
-
-
+4. Open time: You can go to lab anytime you need;
 
 *****
 
