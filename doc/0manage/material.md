@@ -14,12 +14,19 @@ Before your running project ,please check if you have enough material in lab, it
 
 
 
-## LAB material
+## LAB EE material
+
+|  Material   | Link  |Location|
+|  :----: | :----:  |:----:  |
+| | | |
+
+
+## LAB ME material
 
 The following materil is the we own in lab
 
 |  Material   | Link  |Location|
-|  ----  | ----  |----  |
+|  :----: | :----:  |:----:  |
 | 3D printer PLA |[esun](https://detail.tmall.com/item.htm?spm=a230r.1.14.37.3d6a4993wLohQj&id=551633653327&ns=1&abbucket=4) | Location A|
 
 We would update more detail soon
