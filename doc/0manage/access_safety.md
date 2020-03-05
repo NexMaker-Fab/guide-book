@@ -2,6 +2,16 @@
 
 For safety, we  divide different members who own different right: 
 **Visitor** ,**Graduate** ,**Supervisor**
+If you want to to do project, you can apply a tool box for your project,and we attach the link:[Tool box application](https://docs.google.com/spreadsheets/d/16YrZSg6tmvkSPjY2PUaWezGl4p_KxTKG7eFvPwa2ddA/edit?usp=sharing).
+
+For every in the lab, Before you leave the lab, we should make sure the lab is cool for everybody:
+
+* If your project not finish and need to do again after today,
+    * You can put your project in your tool box, put tool to lab cabinet(remind:not in your tool box);
+    * If project is too big and can't put inside the tool box, you need to discuss with supervisor about storage location;
+* If you finish your project ,you should clean your project in the lab and return the tool box,then update [Tool box application form](https://docs.google.com/spreadsheets/d/16YrZSg6tmvkSPjY2PUaWezGl4p_KxTKG7eFvPwa2ddA/edit?usp=sharing)
+
+<font color=#ff0000 size=14 face="黑体">Remind:don't arbitrary put your project on your working space and it would influence lab's manage. Supervisor would deal with them. </font>
 
 
 
@@ -11,7 +21,7 @@ For safety, we  divide different members who own different right:
     * You can apply to attend NexMaker academy and to be a graduate;
     * If you want go to lab for  visit  or doing some working(design, manufacture, test), you  need apply with supervisor through email(detail in "For supervisor" part);
     * Visitor has no right to use 3D printer, laser cutter, CNC ,drilling machine and grinder.
-    * <font color=#ff0000 size=12 face="黑体">If you have any potential dangerous or dangerous, you can use first aid kits(we would add soon) and inform supervisor as soon as possible</font>
+    * <font color=#ff0000 size=14 face="黑体">If you have any potential dangerous or dangerous, you can use first aid kits(we would add soon) and inform supervisor as soon as possible</font>
 
 
 3. Duty:keep safety

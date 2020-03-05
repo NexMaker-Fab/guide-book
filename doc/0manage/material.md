@@ -22,7 +22,7 @@ The following materil is the we own in lab
 |  ----  | ----  |----  |
 | 3D printer PLA |[esun](https://detail.tmall.com/item.htm?spm=a230r.1.14.37.3d6a4993wLohQj&id=551633653327&ns=1&abbucket=4) | Location A|
 
-update more detail laster
+We would update more detail soon
 *****
 
 Update time:20200305
