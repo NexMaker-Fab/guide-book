@@ -11,6 +11,9 @@ For safety, we  divide different members who own different right:
     * You can apply to attend NexMaker academy and to be a graduate;
     * If you want go to lab for  visit  or doing some working(design, manufacture, test), you  need apply with supervisor through email(detail in "For supervisor" part);
     * Visitor has no right to use 3D printer, laser cutter, CNC ,drilling machine and grinder.
+    * <font color=#ff0000 size=12 face="黑体">If you have any potential dangerous or dangerous, you can use first aid kits(we would add soon) and inform supervisor as soon as possible</font>
+
+
 3. Duty:keep safety
 4. Open time: just in NexPCB's working time,and you need get supervise from supervisor;
 
@@ -20,6 +23,7 @@ For safety, we  divide different members who own different right:
     * You can get access for door's key;
     * You can use all the machine without supervisor during working time;
     * You can apply for material and equipment [(Reference "material")](material.md)
+    *  * <font color=#ff0000 size=12 face="黑体">If you have any potential dangerous or dangerous, you can use first aid kits(we would add soon) and inform supervisor as soon as possible</font>
 3. Duty:
     * You need send application email to supervisor and get approve if you want to use lab after working time;
     * You need get supervisor's surprise if you want to use 3D printer, laser cutter, CNC ,drilling machine and grinder;
@@ -39,11 +43,13 @@ For safety, we  divide different members who own different right:
 2. Right: 
     *   Supervisor can use any machine in the lab;
     *   Supervisor have right to change the access of member(add or delete)
+    *    * <font color=#ff0000 size=12 face="黑体">If you have any potential dangerous or dangerous, you can use first aid kits(we would add soon) and inform another supervisor as soon as possible</font>
 
 3. Duty 
     * Keep the safety of lab;
     * Keep the clean of lab;
     * Confirm the condition of door and windows;
+    * You need support dangerous condition as soon as possbile;
 4. Open time: You can go to lab anytime you need;
 
 *****
