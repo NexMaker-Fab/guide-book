@@ -23,9 +23,8 @@
     * [Markdown](doc/1projectmanage/markdown.md)
     * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
 
-
 *  [2. CAD design](doc/2cad/cad.md)
-    * Assessment
+    * Assessment2
     * Tool
     * [3D design:fusion 360](https://www.autodesk.com/products/fusion-360/overview)
     * [2D design: Autodesk CAD](https://www.autodesk.com/products/autocad/overview)
