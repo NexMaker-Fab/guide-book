@@ -12,8 +12,10 @@ Before your running project ,please check if you have enough material in lab, it
     * Communicate With [Bob](bob@nexpcb.com) face to face and he would give you guide how to use it in lab
 3. If you find we are lack of material. You can find material information online or offline supplier ,and then fill the form in [google sheets](https://docs.google.com/spreadsheets/d/16YrZSg6tmvkSPjY2PUaWezGl4p_KxTKG7eFvPwa2ddA/edit?usp=sharing). Then inform Bob face to face or [email](bob@nexpcb.com), he would arrange purchasing.
 
-
+|  Material   | Link  |Location|
+|  ----  | ----  |----  |
+| 3D printer PLA |[esun](https://detail.tmall.com/item.htm?spm=a230r.1.14.37.3d6a4993wLohQj&id=551633653327&ns=1&abbucket=4) | Location A|
 
 *****
 
-Update time:20200304
+Update time:20200305
