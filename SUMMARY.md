@@ -2,7 +2,7 @@
 
 * [Lab manage](doc/0manage/labmanage.md)
     * [Fab Lab ](doc/Fab/FAB.md)
-    * [Nexmaker Academy](doc/0manage/nexmaker-academy.md)
+    * [NexMaker Academy](doc/0manage/nexmaker-academy.md)
     * [Access and safety](doc/0manage/access_safety.md)
     * [Material](doc/0manage/material.md)
     * [Tool](doc/0manage/tool.md)

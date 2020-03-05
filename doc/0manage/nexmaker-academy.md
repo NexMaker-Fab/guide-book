@@ -1,4 +1,4 @@
-# NexMaker academy
+# NexMaker Academy
 
 
 We have series workshops. Every 3 months we would arrange one NexMaker academy. You can apply for attend  through email to Bob:[NexMaker academy](bob@nexpcb.com). 
