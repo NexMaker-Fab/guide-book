@@ -14,8 +14,8 @@
 
 ## Tutorials
 * [1.Project manage](https://git-scm.com/)
-    * [Assessment](doc/1projectmanage/Assessment1Project_manage.md)
-    * [Tool](doc/1projectmanage/Tool1Project_manage.md)
+    * [Assessment](doc/1projectmanage/Assessment1project-manage.md)
+    * [Tool](doc/1projectmanage/Tool1Project-manage.md)
     * [How to use Git official document](https://git-scm.com/docs/gittutorial)
     * [Git](doc/1projectmanage/2git.md)
     * [Gitbook](doc/1projectmanage/4gitbook.md)
