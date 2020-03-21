@@ -91,7 +91,7 @@
     * [Lei chen](https://nex-fab.gitlab.io/fab-01/chenlei/)
     * [Yijun Wang](https://nex-fab.gitlab.io/fab-01/yijunwang/)
     * [luis Li](https://nex-fab.gitlab.io/fab-01/luis/)
-    * [Liang Guo](https://nex-fab.gitlab.io/fab-01/Liang Guo/)
+    * [Liang Guo](https://nex-fab.gitlab.io/fab-01/gl/)
     * [Bob](https://nex-fab.gitlab.io/fab-01/bobstudent/)
 
 * [NexMaker academy-2](fab-02/README.md)
