@@ -32,7 +32,7 @@
 
 * [3. 3D printer](doc/3_3dprinter/assignment.md)
     * Assessment
-    * Tool
+    * Tools
     * [Assignment](doc/3_3dprinter/assignment.md)
     * [3D printer background](doc/3_3dprinter/1.3Dprintingbackground.md)
     * [3dprinter background](doc/3_3dprinter/2.FDM3Dprintingbackground.md)
