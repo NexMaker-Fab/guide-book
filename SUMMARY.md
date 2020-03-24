@@ -91,10 +91,14 @@
     * [Yijun Wang](https://nex-fab.gitlab.io/fab-01/yijunwang/)
     * [luis Li](https://nex-fab.gitlab.io/fab-01/luis/)
     * [Liang Guo](https://nex-fab.gitlab.io/fab-01/gl/)
-    * [Bob](https://nex-fab.gitlab.io/fab-01/bobstudent/)
+    * [Jacen Wang](https://nex-fab.gitlab.io/fab-01/jacen/)
+    * [Mars Ma](https://nex-fab.gitlab.io/fab-01/marsma/)
+    * [Bo Li](https://nex-fab.gitlab.io/fab-01/bo-li/)
+    * [Bob Wu](https://nex-fab.gitlab.io/fab-01/bobstudent/)
+  
 
 * [NexMaker academy-2](fab-02/README.md)
-    * [Student2-1](fab-01/student2-1.md)
+
 
 *****
 

@@ -150,6 +150,16 @@ When the time comes to take your design from digital to fabricated, take advanta
 fusion 360 data:[Assemble](http://a360.co/2szsiZC),[Sheet1](http://a360.co/2C8J7yH),[Sheet2](http://a360.co/2sIUJEM),[Sheet3](http://a360.co/2GqtnoM),[Sheet4](http://a360.co/2sFJOeU),[Sheet5](http://a360.co/2G8PvUs),[Sheet6](http://a360.co/2BCFVdy)
 
 
+## Reference
+
+*  [Official guidebook](http://help.autodesk.com/view/fusion360/ENU/?guid=GUID-E689F85B-0593-44CD-B4AB-0CB438F34365) introduce all command(function and application) one by one;
+* [Fusion 360 Tutorials](https://www.autodesk.com/products/fusion-360/get-started?mktvar004=737433&internalc=true) has some basic official video for reference.More detail in [Youtube](https://www.youtube.com/user/AutodeskFusion360);
+* [Gallery](https://gallery.autodesk.com/fusion360/projects#filters=%5B%5D&sort=popularity) will push some open project shared by fusion 360 designer 
+* [Roadmap](https://www.autodesk.com/products/fusion-360/blog/category/roadmap/) will introduce the update plan
+* [fusion-production](https://www.autodesk.com/products/fusion-production/overview) combines production scheduling, job tracking, and machine monitoring by using cloud computing and the Industrial Internet of Things (IIoT) for smart manufacturing.
+* [Autodesk App store](https://apps.autodesk.com/FUSION/en/Home/Index) for special requirement
+* [Fusion 360 API guide](http://help.autodesk.com/view/fusion360/ENU/?guid=GUID-A92A4B10-3781-4925-94C6-47DA85A4F65A) will give guide for fusion developer
+
 
 
 
