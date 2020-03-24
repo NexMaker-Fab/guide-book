@@ -1,5 +1,6 @@
 ## Fusion 360 prepare
-1. Introduce:Fusion 360 integrated CAD, CAM, and CAE software. Simplify your entire workflow with one unified platform.
+#### 1. Introduce
+   Fusion 360 integrated CAD, CAM, and CAE software. Simplify your entire workflow with one unified platform.
 
    * 3D Design & Modeling
    * Electronics
@@ -10,24 +11,25 @@
    * Manufacturing
 [more detail here](https://www.autodesk.com/products/fusion-360/overview)
  
-2. Link:[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can sign autodesk account and download fusion 360 software
+#### 2. Link
+[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can sign autodesk account and download fusion 360 software
 
 ![](https://gitlab.com/picbed/bed/uploads/22c34b7d8760d82b946fef464996444c/fusion_1.png)
 
 
-3. Install
+#### 3. Install
 Open fusion 360 software package and click run(Mac will direct install software). It will last several minutes  to download data and install it .You just need wait for finish.
 
 ![](https://gitlab.com/picbed/bed/uploads/a20f39270ddeda09a35be4ef6b21abb8/fusion2.png)
 
-4. Open fusion 360 and build your project
-
+#### 4. Open fusion 360 
 
 ![](https://gitlab.com/picbed/bed/uploads/674d7aa21e0aa266d122ade4fbdd9f39/WX20200324-171908_2x.png
 )
+
 We can do project in team together.
 
-5. Interface basic introduce
+#### 5. Interface basic introduce
 ![](https://gitlab.com/picbed/bed/uploads/be2afc24c1cafc821f7cec7f5bc4adec/WX20200324-172126_2x.png)
 In this workshop,we would mainly use design and drawing function.
 
