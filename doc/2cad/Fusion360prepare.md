@@ -1,16 +1,16 @@
 ## Fusion 360 prepare
 1. Introduce:Fusion 360 integrated CAD, CAM, and CAE software. Simplify your entire workflow with one unified platform.
 
-* 3D Design & Modeling
-* Electronics
-* Simulation
-* Generative Design
-* Documentation
-* Collaboration
-* Manufacturing
+   * 3D Design & Modeling
+   * Electronics
+   * Simulation
+   * Generative Design
+   * Documentation
+   * Collaboration
+   * Manufacturing
 [more detail here](https://www.autodesk.com/products/fusion-360/overview)
  
-1. Link:[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can sign autodesk account and download fusion 360 software here 
+2. Link:[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can sign autodesk account and download fusion 360 software
 
 ![](https://gitlab.com/picbed/bed/uploads/22c34b7d8760d82b946fef464996444c/fusion_1.png)
 
