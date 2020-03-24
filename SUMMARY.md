@@ -28,7 +28,6 @@
     * [Fusion 360 prepare](doc/2cad/Fusion360prepare.md)
     * [Guidebook for fusion 360](doc/2cad/3D_Design_Fusion360.md)
 
-
 * [3. 3D printer](doc/3_3dprinter/assignment.md)
     * Assessment
     * Tools
