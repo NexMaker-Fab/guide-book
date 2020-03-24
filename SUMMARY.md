@@ -24,11 +24,10 @@
     * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
 
 *  [2. CAD design](doc/2cad/cad.md)
-    * Assessment2
-    * Tool
-    * [3D design:fusion 360](https://www.autodesk.com/products/fusion-360/overview)
-    * [2D design: Autodesk CAD](https://www.autodesk.com/products/autocad/overview)
-    * [Tolerance](https://en.wikipedia.org/wiki/Engineering_tolerance) 
+    * [Assessment](doc/2cad/Assessment.md)
+    * [Fusion 360 prepare](doc/2cad/Fusion360prepare.md)
+    * [Guidebook for fusion 360](doc/2cad/3D_Design_Fusion360.md)
+
 
 * [3. 3D printer](doc/3_3dprinter/assignment.md)
     * Assessment
