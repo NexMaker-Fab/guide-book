@@ -84,7 +84,14 @@
 ## FABS
 
 * [NexMaker academy-1](fab-01/README.md)
-    * [Bala Wang](fab-01/bala-wang.md)
+   
+    * [Jiahao Liu](https://nex-fab.gitlab.io/fab-01/jiahaoliu/)
+    * [Qihao Bao](https://nex-fab.gitlab.io/fab-01/qihaobao/)
+    * [Jocelin](https://nex-fab.gitlab.io/fab-01/jocelin/)
+    * [Lei chen](https://nex-fab.gitlab.io/fab-01/chenlei/)
+    * [Yijun Wang](https://nex-fab.gitlab.io/fab-01/yijunwang/)
+    * [luis Li](https://nex-fab.gitlab.io/fab-01/luis/)
+    * [Liang Guo](https://nex-fab.gitlab.io/fab-01/gl/)
     * [Bob](https://nex-fab.gitlab.io/fab-01/bobstudent/)
 
 * [NexMaker academy-2](fab-02/README.md)
