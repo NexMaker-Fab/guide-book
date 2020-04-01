@@ -1,6 +1,6 @@
-##assignment##
-1. group assignment:_
-  *  test the design rules for your 3D printer(s)
-2. individual assignment:
-    * design and 3D print an object (small, few cm)that could not be made subtractively
-    * 3D scan an object (and optionally print it)
+#Assessment##
+
+1. learn 3D printer background;
+2. Use slice software to setting parameter;
+3. Use 3D printer to manufacture it;
+4. Postprocess the surface;
