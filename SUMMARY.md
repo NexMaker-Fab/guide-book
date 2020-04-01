@@ -33,6 +33,7 @@
     * [3D printer background](doc/3_3dprinter/1.3Dprintingbackground.md)
     * [3dprinter background](doc/3_3dprinter/2.FDM3Dprintingbackground.md)
     * [SLA background](doc/3_3dprinter/6.SLAbackground.md)
+    * [Slice software](doc/3_3dprinter/3Dslicesoftware.md)
 
 * [4 . Electric design ](doc/4electric_design_and_manfucture/basicknowledge.md)
     * Assessment
