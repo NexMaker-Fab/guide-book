@@ -27,7 +27,7 @@
     * [Guidebook for fusion 360](doc/2cad/3D_Design_Fusion360.md)
 
 * [3. 3D printer](doc/3_3dprinter/assignment.md)
-    * [Assignment](doc/3_3dprinter/assignment.md)
+    * [Assessnment](doc/3_3dprinter/assignment.md)
     * [3D printer background](doc/3_3dprinter/1.3Dprintingbackground.md)
     * [FDM background](doc/3_3dprinter/2.FDM3Dprintingbackground.md)
     * [FDM design guide](doc/3_3dprinter/3.FDM-designguide.md)
