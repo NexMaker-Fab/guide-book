@@ -15,10 +15,10 @@ There are many different kind of 3D slice software which connect CAD to 3D print
 | 8 | [Netfabb   Standard](https://www.autodesk.com/products/netfabb/overview) |  $1000-4300 | Windows | 
 | 15 | [MakerBot   Print](https://www.makerbot.com/3d-printers/apps/makerbot-print/) | free | Windows,   Mac | 
 | 2 | [Astroprint](https://www.astroprint.com/) | free |   Browser,   Raspberry Pi, pcDuino |  
-| 3 | [SliceCrafter](https://icesl.loria.fr/slicecrafter/) | free |  | Browser | 
+| 3 | [SliceCrafter](https://icesl.loria.fr/slicecrafter/) | free | Browser | 
 | 7 | [Craftware](https://craftbot.com/craftware/) | free| Windows,   Mac | 
 | 9 | [SelfCAD](https://www.selfcad.com/)  | $9.99/month | Browser |
-| 11 | [IceSL](https://icesl.loria.fr/) | free |  | Windows,   Linux | 
+| 11 | [IceSL](https://icesl.loria.fr/) | free |  Windows,   Linux | 
 | 12 | [KISSlicer](http://www.kisslicer.com/) | $35| Windows,   Mac, Linux, Raspberry Pie | 
 | 13 | [MatterControl](https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6) | free | Windows,   Mac, Linux | 
 | 14 | [HORI 3D print soft](http://en.hori3d.com/) | free| Windows | 
