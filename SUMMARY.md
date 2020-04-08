@@ -66,12 +66,12 @@
     * Tool
     * Design rule
 
-* [9. Embedded programming](https://www.techopedia.com/definition/29945/embedded-programming)
+[9. Embedded programming](https://www.techopedia.com/definition/29945/embedded-programming)
     * Assessment
     * Tool
     * code
 
-*  [10.IOT and Interaction](https://en.wikipedia.org/wiki/Internet_of_Things)
+*  [9.IOT and Interaction](https://en.wikipedia.org/wiki/Internet_of_Things)
     * Assessment
     * Tool
     * [IOT platform](https://internetofthingswiki.com/top-20-iot-platforms/634/)
