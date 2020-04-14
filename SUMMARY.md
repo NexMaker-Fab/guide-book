@@ -50,7 +50,6 @@
     * [Arduino example](doc/5arduino/arduino_code.md)
     * [Library](https://www.arduino.cc/en/Tutorial/LibraryExamples)
    
-
 * [6. Laser cutting](https://en.wikipedia.org/wiki/Laser_cutting)
     * Assessment
     * Tool
@@ -66,11 +65,6 @@
     * Assessment
     * Tool
     * Design rule
-
-[9. Embedded programming](https://www.techopedia.com/definition/29945/embedded-programming)
-    * Assessment
-    * Tool
-    * code
 
 *  [9.IOT and Interaction](https://en.wikipedia.org/wiki/Internet_of_Things)
     * Assessment
