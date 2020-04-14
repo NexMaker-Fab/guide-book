@@ -43,12 +43,13 @@
     * [Fusion 360 electronics](https://www.autodesk.com/products/fusion-360/electronics-engineer)
 
 * [5.Arduino application](https://www.arduino.cc/)
-    * Assessment
+    * [Assessment](doc/5arduino/assessment.md)
     * Tool
-    * [Open source](https://en.wikipedia.org/wiki/Open_source)
-    * [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+    * [Open source](doc/5arduino/open_source.md)
+    * [Arduino Basic](doc/5arduino/arduino_basic.md)
+    * [Arduino example](doc/5arduino/arduino_code.md)
     * [Library](https://www.arduino.cc/en/Tutorial/LibraryExamples)
-    * [Board](https://www.arduino.cc/en/Main/Products)
+   
 
 * [6. Laser cutting](https://en.wikipedia.org/wiki/Laser_cutting)
     * Assessment
