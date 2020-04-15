@@ -1,10 +1,13 @@
 # Arduino
 
-## 1. Software
+## 1. Layout
+![](https://gitlab.com/picbed/bed/uploads/88dcd4c744fc2bffefb9d28712d87114/UNO-TH_Rev3e_sch.jpg)
+
+## 2. Software
 We can download Arduino IDE from [www.arduino.cc](https://www.arduino.cc/en/Main/Software) according to your PC's version and then install by youself.
 ![](https://gitlab.com/picbed/bed/uploads/fc43aa8769dd9935106558474b9dc073/arduino_ui.png
 )
-## 2. Hardware
+## 3. Hardware
 
 
 ![](https://gitlab.com/picbed/bed/uploads/9d4306ae40072cc40857177a01d4f73c/a000066_featured_5.jpg
@@ -36,3 +39,6 @@ The following is Arduino  family
 
 
 
+## 3.Application
+[Arduino pro](https://www.arduino.cc/pro) is a complete low-code IoT application development platform, making digital transformation possible for companies in simple, realistic, and measurable steps
+![](https://gitlab.com/picbed/bed/uploads/e2ef968d0082d3e31fb685c4e83495fe/1586900339815.jpg)
