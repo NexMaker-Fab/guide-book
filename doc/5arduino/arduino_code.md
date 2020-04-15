@@ -80,20 +80,21 @@ void loop() {
   * value: the duty cycle: between 0 (always off) and 255 (always on). Allowed data types: int.
   * Returns:Nothing
   * Example Code:Sets the output to the LED proportional to the value read from the potentiometer.
- ```
-int ledPin = 9;      // LED connected to digital pin 9
-int analogPin = 3;   // potentiometer connected to analog pin 3
-int val = 0;         // variable to store the read value
+ 
+  ```
+  int ledPin = 9;      // LED connected to digital pin 9
+  int analogPin = 3;   // potentiometer connected to analog pin 3
+  int val = 0;         // variable to store the read value
 
-void setup() {
+  void setup() {
   pinMode(ledPin, OUTPUT);  // sets the pin as output
-}
+  }
 
-void loop() {
+  void loop() {
   val = analogRead(analogPin);  // read the input pin
   analogWrite(ledPin, val / 4); // analogRead values go from 0 to 1023, analogWrite values from 0 to 255
-}
- ```
+  }
+  ```
 
  ### 1.3 Math
 * 1.3.1 abs() 
@@ -118,9 +119,9 @@ void loop() {
     ```
     sensVal = constrain(sensVal, 10, 150);  // limits range of sensor values to between 10 and 150
     ```
-* 1.3.3max()(min() )
+* 1.3.3max()/min() 
   * Description:Calculates the maximum( minimum) of two numbers.
-  * Syntax:max(x, y)   (min(x,y))
+  * Syntax:max(x, y)  /min(x,y)
   * Parameters
     * x: the first number. Allowed data types: any data type.
     * y: the second number. Allowed data types: any data type.
