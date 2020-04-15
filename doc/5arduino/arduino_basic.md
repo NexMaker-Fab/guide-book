@@ -7,6 +7,15 @@
 We can download Arduino IDE from [www.arduino.cc](https://www.arduino.cc/en/Main/Software) according to your PC's version and then install by youself.
 ![](https://gitlab.com/picbed/bed/uploads/fc43aa8769dd9935106558474b9dc073/arduino_ui.png
 )
+
+In the meantime we can use developers' software as following:
+
+* [S4A](http://s4a.cat/)
+* [Mblock](https://www.mblock.cc/zh-cn/)
+* [BlockyDuino](https://sourceforge.net/projects/blocklyduinoenhanced/?css-reload=1)
+* [motoduino/motoblockly](https://www.motoduino.com/motoblockly/)
+* [Webduino Blockly](https://bit.webduino.io/blockly/?lang=zh-hant)
+
 ## 3. Hardware
 
 

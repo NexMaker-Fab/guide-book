@@ -34,9 +34,3 @@ Open source products include permission to use the source code, design documents
   * [Linux china](https://linux.cn/)
   * [Open source in wiki](https://en.wikipedia.org/wiki/Open_source)
   * [Baidu](https://baike.baidu.com/item/%E5%BC%80%E6%94%BE%E6%BA%90%E4%BB%A3%E7%A0%81/114160?fromtitle=Open%20Source&fromid=2667585&fr=aladdin)
-
-* 
-* 
-* 
-* 
-* 

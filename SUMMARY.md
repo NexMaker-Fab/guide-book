@@ -44,7 +44,6 @@
 
 * [5.Arduino application](https://www.arduino.cc/)
     * [Assessment](doc/5arduino/assessment.md)
-    * Tool
     * [Open source](doc/5arduino/open_source.md)
     * [Arduino Basic](doc/5arduino/arduino_basic.md)
     * [Arduino example](doc/5arduino/arduino_code.md)
