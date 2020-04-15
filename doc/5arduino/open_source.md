@@ -1,5 +1,20 @@
 
+##  Define
+Open source products include permission to use the source code, design documents, or content of the product. It most commonly refers to the open-source model, in which open-source software or other products are released under an open-source license as part of the open-source-software movement. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration.
+[from wiki](https://en.wikipedia.org/wiki/Open_source)
 
-hi open source hardware and software
+![](https://gitlab.com/picbed/bed/uploads/725d67b3da36f07f5bc25bf9a3e0db4e/OpenSourceOverTime.png
+)
+[reference from hpcwire](https://www.hpcwire.com/2017/06/15/opensuco-open-source-supercomputing-isc/)
 
+
+
+
+## Difference licence
 ![](https://gitlab.com/picbed/bed/uploads/d617f6a9c86081a24e26d4290e69d31a/PERMISSIVE-VS-COPYLEFT-LICENSES-2.jpg)
+
+
+
+## Reference
+* [Open source in wiki](https://en.wikipedia.org/wiki/Open_source)
+* [Baidu](https://baike.baidu.com/item/%E5%BC%80%E6%94%BE%E6%BA%90%E4%BB%A3%E7%A0%81/114160?fromtitle=Open%20Source&fromid=2667585&fr=aladdin)
