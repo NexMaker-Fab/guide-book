@@ -235,7 +235,9 @@ we can also use  the following 3 command
   * millis() 
 
 
-## 2.OUTPUT:LED
+## 2 OUTPUT
+
+### 2.1 OUTPUT:LED
 [Thinkercad](https://www.tinkercad.com/)(we can use autodesk account to signin)
 We can use Thinkercad to drawing the circuit,coding,even simulation.
 ![](https://gitlab.com/picbed/bed/uploads/7d11837cdd18f5823c819aed39d3f9f5/1586871622107.jpg)
@@ -262,7 +264,7 @@ void loop()
 
 
 
-## 3. OUTPUT LCD displays
+### 2.2. OUTPUT LCD displays
 
 ![](https://gitlab.com/picbed/bed/uploads/f0a8abdb86a3dcc3fee68b1f7dc3af5b/lcd_photo.png)
 ![](https://gitlab.com/picbed/bed/uploads/b3403ee8256dd4ce28c61e31719b3377/LCD_Base_bb_Fritz.png)
@@ -335,8 +337,38 @@ void loop() {
 
 Reference from [arduino cc](https://www.arduino.cc/en/Tutorial/HelloWorld)
 
+### 2.3 serve motor
 
-## Input:switch
+![](https://gitlab.com/picbed/bed/uploads/bfe44b250cd86b93d92d6957812e12a2/sg0.png)
+```
+#include <Servo.h>
+ 
+#define PIN_SERVO 10
+Servo myservo;
+ 
+void setup()
+{
+  myservo.attach(PIN_SERVO);
+}
+ 
+void loop()
+{
+  myservo.write(0);
+  delay(1000);
+  myservo.write(40);
+  delay(1000);
+  myservo.write(80);
+  delay(1000);
+  myservo.write(40);
+  delay(1000);
+  myservo.write(0);
+  delay(1000);
+
+}
+```
+
+## 3. Input
+### 3.1 Input:switch
 We can use swith to control the circuit, in this case we use pin 7 as input port
 ![](https://gitlab.com/picbed/bed/uploads/e8692696c7583ae1fcd16918f94087d8/WX20200414-220404_2x.png)
 
@@ -367,7 +399,65 @@ delay(1000);
 ```
 
 
-## Input:Sensor (Sharp GP2Y10 )
+### 3.2 Input: air sensor
+ We use MQ-2 air sensor to do this test
+
+ ![](https://gitlab.com/picbed/bed/uploads/015c4cc84f7fe84d194f026fff4d20f9/WX20200415-152026_2x.png)
+```
+ void setup()
+{
+    Serial.begin(9600);
+}
+void loop()
+{
+    int val;
+    val=analogRead(0);
+    Serial.println(val,DEC);
+    delay(100);
+}
+```
+
+
+### 3.3 temperature sensor
+![](https://gitlab.com/picbed/bed/uploads/39121a601bd52777197a4c9b5de46621/temperature_tmp36pinout.gif)
+![](https://gitlab.com/picbed/bed/uploads/831b78bcdd7c99281cbcc60f55bf0b5d/TMP36GZ.jpg)
+
+```
+const int temperaturePin = 0;
+
+void setup()
+{ 
+  Serial.begin(9600);
+}
+
+void loop()
+{
+
+  float voltage, degreesC, degreesF;
+
+  voltage = getVoltage(temperaturePin);
+  degreesC = (voltage - 0.5) * 100.0;
+  degreesF = degreesC * (9.0/5.0) + 32.0;
+
+  Serial.print("voltage: ");
+  Serial.print(voltage);
+  Serial.print("  deg C: ");
+  Serial.print(degreesC);
+  Serial.print("  deg F: ");
+  Serial.println(degreesF);
+   
+  delay(1000); // repeat once per second (change as you wish!)
+}
+
+float getVoltage(int pin)
+{
+
+  return (analogRead(pin) * 0.004882814);
+ 
+}
+```
+
+### 3.4  Input:Sharp GP2Y10
 
 
 
@@ -375,80 +465,106 @@ delay(1000);
 )
 
 ```
+#define        COV_RATIO                           0.17           // (ug/m3) / mv
+#define        NO_DUST_VOLTAGE         600            // mv
+#define        SYS_VOLTAGE                     5000          // ADC参考电压    
+
 /*
-Standalone Sketch to use with a Arduino UNO and a
-Sharp Optical Dust Sensor GP2Y1010AU0F
-/**user define**/ int voutPin = A0; 
-//Connect Vo of dust sensor Vo to Arduino A0 pin int ledPin = 2; 
-//Connect LED(3pin) of dust sensor to Arduino D2 pin
+I/O define
 */
-/**system define**/ 
+const int iled = 3;                                           //drive the led of sensor
+const int vout = 0;                                           //analog input
 
-int samplingTime = 280; 
-int deltaTime = 40; 
-int sleepTime = 9680; 
-int voMeasured = 0; 
-float calcVoltage = 0; 
-float dustDensity = 0;
+/*
+variable
+*/
+float density, voltage;
+int   adcvalue;
 
+/*
+private function
+*/
+int Filter(int m)
+{
+  static int flag_first = 0, _buff[10], sum;
+  const int _buff_max = 10;
+  int i;
+  
+  if(flag_first == 0)
+  {
+    flag_first = 1;
 
-void setup(){
-
- Serial.begin(9600);
- pinMode(ledPin,OUTPUT);
-
+    for(i = 0, sum = 0; i < _buff_max; i++)
+    {
+      _buff[i] = m;
+      sum += _buff[i];
+    }
+    return m;
+  }
+  else
+  {
+    sum -= _buff[0];
+    for(i = 0; i < (_buff_max - 1); i++)
+    {
+      _buff[i] = _buff[i + 1];
+    }
+    _buff[9] = m;
+    sum += _buff[9];
+    
+    i = sum / 10.0;
+    return i;
+  }
 }
 
+void setup(void)
+{
+  pinMode(iled, OUTPUT);
+  digitalWrite(iled, LOW);                                     //iled default closed
+  Serial.begin(9600);                                          //send and receive at 9600 baud
+}
 
-void loop(){
-
- digitalWrite(ledPin,LOW); // power on the LED
- delayMicroseconds(samplingTime);
-
- voMeasured = analogRead(voutPin); // read the dust value
-
- delayMicroseconds(deltaTime);
- digitalWrite(ledPin,HIGH); // turn the LED off
- delayMicroseconds(sleepTime);
-
- // 0 - 5V mapped to 0 - 1023 integer values
- // recover voltage
- calcVoltage = (float)voMeasured * (5.0 / 1024.0);
-
- // linear eqaution taken from http://www.howmuchsnow.com/arduino/airquality/
- // Chris Nafis (c) 2012
- if ( calcVoltage >= 0.6 )
- {
-     dustDensity = 0.17 * calcVoltage - 0.1;
- }
- else
- {
-     dustDensity = 0;
- }
-
- Serial.print("Raw Signal Value (0-1023): ");
- Serial.print(voMeasured);
-
- Serial.print(" - Voltage: ");
- Serial.print(calcVoltage);
- Serial.print("V");
-
- Serial.print(" - Dust Density: ");
-
- if( calcVoltage > 3.5 )
- {
-    Serial.print(">");  // unit: mg/m3
- }
- 
- Serial.print(dustDensity);
- Serial.println(" mg/m3");
-
- delay(1000);
-} 
+void loop(void)
+{
+  /*
+  get adcvalue
+  */
+  digitalWrite(iled, HIGH);
+  delayMicroseconds(280);
+  adcvalue = analogRead(vout);
+  delayMicroseconds(40);
+  digitalWrite(iled, LOW);
+  
+  adcvalue = Filter(adcvalue);
+  
+  /*
+  covert voltage (mv)
+  */
+  voltage = (SYS_VOLTAGE / 1024.0) * adcvalue * 11;
+  
+  /*
+  voltage to density
+  */
+  if(voltage >= NO_DUST_VOLTAGE)
+  {
+    voltage -= NO_DUST_VOLTAGE;
+    density = voltage * COV_RATIO;
+  }
+  else
+    density = 0;
+    
+  /*
+  display the result
+  */
+  Serial.print("The current dust concentration is: ");
+  Serial.print(density);
+  Serial.print(" ug/m3\n");  
+  
+  delay(1000);
+}
 ```
 
 ## Reference
 * [Official tutorial](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
 * [How to start](https://www.arduino.cc/en/Guide/HomePage)
-* [Examples from Libraries](https://www.arduino.cc/en/Tutorial/LibraryExamples]
+* [Examples from Libraries](https://www.arduino.cc/en/Tutorial/LibraryExamples)
 * [Language Reference](https://www.arduino.cc/reference/en/)
