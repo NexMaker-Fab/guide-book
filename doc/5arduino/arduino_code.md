@@ -165,8 +165,6 @@ void loop() {
   * Returns:The number’s square root. Data type: double.
 
 * 1.4 Random Numbers
-
-
   * Description:The random function generates pseudo-random numbers.
   * Syntax
     * random(max)
@@ -190,34 +188,34 @@ Description:Sets the data rate in bits per second (baud) for serial data transmi
 
 An optional second argument configures the data, parity, and stop bits. The default is 8 data bits, no parity, one stop bit.
 
-* 1.5.2 Serial.write()
+  * 1.5.2 Serial.write()
 
-```
-void setup() {
-  Serial.begin(9600);
-}
+    ```
+    void setup() {
+     Serial.begin(9600);
+    }
 
-void loop() {
-  Serial.write(45); // send a byte with the value 45
+    void loop() {
+      Serial.write(45); // send a byte with the value 45
 
-  int bytesSent = Serial.write("hello");  //send the string "hello" and return the length of the string.
-}
-```
+      int bytesSent = Serial.write("hello");  //send the string "hello" and return the length of the string.
+    }
+    ```
 
 Description: Writes binary data to the serial port. This data is sent as a byte or series of bytes; to send the characters representing the digits of a number use the print() function instead.
 
 
-* 1.5.3 Serial.print()
+  * 1.5.3 Serial.print()
 
 
 
 
  Description:Prints data to the serial port as human-readable ASCII text. This command can take many forms. Numbers are printed using an ASCII character for each digit. Floats are similarly printed as ASCII digits, defaulting to two decimal places. Bytes are sent as a single character. Characters and strings are sent as is. 
 
- ```
-Serial.print(78) 
-```
-Result :gives "78"
+  ```
+  Serial.print(78) 
+  ```
+  Result :gives "78"
 
 * 1.6 Time
   * delay()
@@ -227,25 +225,26 @@ Result :gives "78"
     * Returns:Nothing
     * Example Code:The code pauses the program for one second before toggling the output pin.
 
-```
-int ledPin = 13;              // LED connected to digital pin 13
+    ```
+    int ledPin = 13;              // LED connected to digital pin 13
 
-void setup() {
-  pinMode(ledPin, OUTPUT);    // sets the digital pin as output
-}
+    void setup() {
+      pinMode(ledPin, OUTPUT);    // sets the digital pin as output 
+    }
 
-void loop() {
-  digitalWrite(ledPin, HIGH); // sets the LED on
-  delay(1000);                // waits for a second
-  digitalWrite(ledPin, LOW);  // sets the LED off
-  delay(1000);                // waits for a second
-}
-```
+    void loop() {
+      digitalWrite(ledPin, HIGH); // sets the LED on
+      delay(1000);                // waits for a second
+      digitalWrite(ledPin, LOW);  // sets the LED off
+      delay(1000);                // waits for a second
+    }
+    ```
 
-we can also use  the following 3 command
-  * delayMicroseconds() 
-  * micros() 
-  * millis() 
+    we can also use  the following 3 command
+
+    * delayMicroseconds() 
+    * micros() 
+    * millis() 
 
 
 ## 2 OUTPUT
