@@ -116,9 +116,13 @@ void loop() {
     * a: if x is less than a.
     * b: if x is greater than b.
   * Example Code:The code limits the sensor values to between 10 to 150.
+    
     ```
-    sensVal = constrain(sensVal, 10, 150);  // limits range of sensor values to between 10 and 150
+    sensVal = constrain(sensVal, 10, 150); 
+    // limits range of sensor values to between 10 and 150
+
     ```
+
 * 1.3.3max()/min() 
   * Description:Calculates the maximum( minimum) of two numbers.
   * Syntax:max(x, y)  /min(x,y)
@@ -129,9 +133,10 @@ void loop() {
     * max:The larger of the two parameter values.
     * min:The larger of the two parameter values.
   * Example Code:The code ensures that sensVal is at least 20.
+  
   ```
-  sensVal = max(sensVal, 20); // assigns sensVal to the larger of sensVal or 20
-                  
+  sensVal = max(sensVal, 20);
+  // assigns sensVal to the larger of sensVal or 20
   ```
 
 * 1.3.4 pow()   
@@ -142,6 +147,7 @@ void loop() {
     * exponent: the power to which the base is raised. Allowed data types: float.
   * Returns:The result of the exponentiation. Data type: double.
   * Example Code:Calculate the value of x raised to 
+  
   `z = pow(x, y);`
 
 
@@ -185,6 +191,7 @@ Description:Sets the data rate in bits per second (baud) for serial data transmi
 An optional second argument configures the data, parity, and stop bits. The default is 8 data bits, no parity, one stop bit.
 
 * 1.5.2 Serial.write()
+
 ```
 void setup() {
   Serial.begin(9600);
@@ -196,16 +203,21 @@ void loop() {
   int bytesSent = Serial.write("hello");  //send the string "hello" and return the length of the string.
 }
 ```
+
 Description: Writes binary data to the serial port. This data is sent as a byte or series of bytes; to send the characters representing the digits of a number use the print() function instead.
 
 
 * 1.5.3 Serial.print()
 
-```
-Serial.print(78) gives "78"
-```
 
- Description:Prints data to the serial port as human-readable ASCII text. This command can take many forms. Numbers are printed using an ASCII character for each digit. Floats are similarly printed as ASCII digits, defaulting to two decimal places. Bytes are sent as a single character. Characters and strings are sent as is. For example-
+
+
+ Description:Prints data to the serial port as human-readable ASCII text. This command can take many forms. Numbers are printed using an ASCII character for each digit. Floats are similarly printed as ASCII digits, defaulting to two decimal places. Bytes are sent as a single character. Characters and strings are sent as is. 
+
+ ```
+Serial.print(78) 
+```
+Result :gives "78"
 
 * 1.6 Time
   * delay()
@@ -553,9 +565,7 @@ void loop(void)
   else
     density = 0;
     
-  /*
-  display the result
-  */
+  
   Serial.print("The current dust concentration is: ");
   Serial.print(density);
   Serial.print(" ug/m3\n");  
