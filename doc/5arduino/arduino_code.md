@@ -177,16 +177,16 @@ void loop() {
 * 1.5 Communication
   * 1.5.1 Serial.begin()
 
-```
-void setup() {
-    Serial.begin(9600); // opens serial port, sets data rate to 9600 bps
-}
-void loop() {}
+    ```
+    void setup() {
+      Serial.begin(9600); // opens serial port, sets data rate to 9600 bps
+    }
+    void loop() {}
 
-```
-Description:Sets the data rate in bits per second (baud) for serial data transmission. For communicating with Serial Monitor, make sure to use one of the baud rates listed in the menu at the bottom right corner of its screen. You can, however, specify other rates - for example, to communicate over pins 0 and 1 with a component that requires a particular baud rate.
+    ```
+    Description:Sets the data rate in bits per second (baud) for serial data transmission. For communicating with Serial Monitor, make sure to use one of the baud rates listed in the menu at the bottom right corner of its screen. You can, however, specify other rates - for example, to communicate over pins 0 and 1 with a component that requires a particular baud rate.
 
-An optional second argument configures the data, parity, and stop bits. The default is 8 data bits, no parity, one stop bit.
+    An optional second argument configures the data, parity, and stop bits. The default is 8 data bits, no parity, one stop bit.
 
   * 1.5.2 Serial.write()
 
@@ -202,7 +202,7 @@ An optional second argument configures the data, parity, and stop bits. The defa
     }
     ```
 
-Description: Writes binary data to the serial port. This data is sent as a byte or series of bytes; to send the characters representing the digits of a number use the print() function instead.
+    Description: Writes binary data to the serial port. This data is sent as a byte or series of bytes; to send the characters representing the digits of a number use the print() function instead.
 
 
   * 1.5.3 Serial.print()
