@@ -164,18 +164,18 @@ void loop() {
   * Parameters x: the number. Allowed data types: any data type.
   * Returns:The number’s square root. Data type: double.
 
-* 1.4 Random Numbers
-  * Description:The random function generates pseudo-random numbers.
-  * Syntax
-    * random(max)
-    * random(min, max)
-  * Parameters
-    * min: lower bound of the random value, inclusive (optional).
-    * max: upper bound of the random value, exclusive.
-  * Returns:A random number between min and max-1. Data type: long.
+### 1.4 Random Numbers
+* Description:The random function generates pseudo-random numbers.
+* Syntax
+  * random(max)
+  * random(min, max)
+* Parameters
+  * min: lower bound of the random value, inclusive (optional).
+  * max: upper bound of the random value, exclusive.
+* Returns:A random number between min and max-1. Data type: long.
 
-* 1.5 Communication
-  * 1.5.1 Serial.begin()
+### 1.5 Communication
+* 1.5.1 Serial.begin()
 
     ```
     void setup() {
@@ -188,7 +188,7 @@ void loop() {
 
     An optional second argument configures the data, parity, and stop bits. The default is 8 data bits, no parity, one stop bit.
 
-  * 1.5.2 Serial.write()
+* 1.5.2 Serial.write()
 
     ```
     void setup() {
@@ -205,7 +205,7 @@ void loop() {
     Description: Writes binary data to the serial port. This data is sent as a byte or series of bytes; to send the characters representing the digits of a number use the print() function instead.
 
 
-  * 1.5.3 Serial.print()
+* 1.5.3 Serial.print()
 
 
 
@@ -217,13 +217,13 @@ void loop() {
   ```
   Result :gives "78"
 
-* 1.6 Time
-  * delay()
-    * Description:Pauses the program for the amount of time (in milliseconds) specified as parameter. (There are 1000 milliseconds in a second.)
-    * Syntax:delay(ms)
-    * Parameters: ms: the number of milliseconds to pause. Allowed data types: unsigned long.
-    * Returns:Nothing
-    * Example Code:The code pauses the program for one second before toggling the output pin.
+### 1.6 Time
+ * delay()
+  * Description:Pauses the program for the amount of time (in milliseconds) specified as parameter. (There are 1000 milliseconds in a second.)
+  * Syntax:delay(ms)
+  * Parameters: ms: the number of milliseconds to pause. Allowed data types: unsigned long.
+  * Returns:Nothing
+  * Example Code:The code pauses the program for one second before toggling the output pin.
 
     ```
     int ledPin = 13;              // LED connected to digital pin 13
@@ -240,11 +240,11 @@ void loop() {
     }
     ```
 
-    we can also use  the following 3 command
+  we can also use  the following 3 commands
 
-    * delayMicroseconds() 
-    * micros() 
-    * millis() 
+  * delayMicroseconds() 
+  * micros() 
+  * millis() 
 
 
 ## 2 OUTPUT
