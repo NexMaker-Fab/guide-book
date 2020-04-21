@@ -1,0 +1,1 @@
+[safety](https://www.nottingham.edu.cn/en/ehs/laser-safety.aspx)

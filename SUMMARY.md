@@ -49,11 +49,15 @@
     * [Arduino example](doc/5arduino/arduino_code.md)
     * [Library](https://www.arduino.cc/en/Tutorial/LibraryExamples)
    
-* [6. Laser cutting](https://en.wikipedia.org/wiki/Laser_cutting)
-    * Assessment
-    * Tool
-    * [Safety](https://www.nottingham.edu.cn/en/ehs/laser-safety.aspx)
-    * Material
+* [6. Laser cutting](doc/6laser_cutter/basic.md)
+    * [Assessment](doc/6laser_cutter/Assessment.md)
+    * [Safety](doc/6laser_cutter/Safety.md)
+    * [Equipment](doc/6laser_cutter/Equipment.md)
+    * [Material](doc/6laser_cutter/Material.md)
+    * [Design guide](doc/6laser_cutter/Design_guide.md)
+    * [AutoCAD](doc/6laser_cutter/AutoCAD.md)
+    
+  
   
 * [7. PCB manufacture](https://www.nexpcb.com/blog/smt-pcb-puzzle)
     * Assessment
