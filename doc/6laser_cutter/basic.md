@@ -14,7 +14,8 @@ Laser cutting is a technology that uses a laser to cut or engraving materials, a
 
 
 * The basic structure of laser cutter
-
+![](https://gitlab.com/picbed/bed/uploads/56743b8fe5e398e3c1a3562977543f97/cnc-laser-system.png)
+Reference from [advanced machinery](https://am.co.za/laser/cabinet)
 
 * The basic Laser path of laser cutter
 	
