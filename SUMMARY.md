@@ -52,10 +52,9 @@
 * [6. Laser cutting](doc/6laser_cutter/basic.md)
     * [Assessment](doc/6laser_cutter/Assessment.md)
     * [Safety](doc/6laser_cutter/Safety.md)
-    * [Equipment](doc/6laser_cutter/Equipment.md)
-    * [Material](doc/6laser_cutter/Material.md)
+    *  * [AutoCAD](doc/6laser_cutter/AutoCAD.md)
     * [Design guide](doc/6laser_cutter/Design_guide.md)
-    * [AutoCAD](doc/6laser_cutter/AutoCAD.md)
+    * [Machine practice](doc/6laser_cutter/Machine_practice.md)
     
   
   

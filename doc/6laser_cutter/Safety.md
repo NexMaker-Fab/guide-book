@@ -5,7 +5,8 @@
 ## 1. Laser safety
 Most types of lasers operating in the visible and near infrared regions are sufficiently intense as to represent a hazard to the eye. Although damage may be caused to all parts of the eyes, the most vulnerable part is the retina, on which the beam may be focussed by the eye lens resulting in the destruction of tissues and the creation of permanent blind spots. High power lasers can also damage the skin. Only trained peaple can operate the machine, and we must close the enclosure before run the machine.
 
-## 2. Laser classes: The current laser classes in national laser classes are: 1, 2, 3A, 3B and 4. The class of each laser must be marked clearly by the supplier. 
+## 2. Laser classes
+The current laser classes in national laser classes are: 1, 2, 3A, 3B and 4. The class of each laser must be marked clearly by the supplier. 
 
 *  Class 1:It is safe in the reasonable working condition, and no specific safety controls are required.
 *  Class 2: Wavelength range from 400nm to 700nm, visible lasers

@@ -1,1 +1,0 @@
-acrylic ,wood,lathe
