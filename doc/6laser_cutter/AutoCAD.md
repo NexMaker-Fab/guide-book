@@ -77,21 +77,13 @@ We can use graphic commands or Command Line to use the function we need.If we wa
 Reference here to install [AutoCAD 2018](http://www.downza.cn/soft/270697.html) , for another version of CAD ,the method is similar. 
 
 
-## 5. Input fusion 360 dwg to AutoCAD
+## 5. Input fusion data to AutoCAD
 
-* DRAWING
-  * Create standard 2D drawings from your 3D geometry by entering the DRAWING workspace. See the Drawings section of the help for more information.
-  * Choice Drawing>from design
-  * In creating drawing,we can determine the size and other information , I choice IOS standard, unit is mmsheet size A4,etc
-  * In the layout page:we need to do the follwoing 6 setps and then output dwg format for laser cutter .
 
-* Output from dwg>dxf.Becasue laser cutter software need dxf format, but fusion 360 can only put dwg(I have communicate with autodesk development team ,they are research laser cutter format)
-  * Open the dwg file in Autodesk
-  * Use the command of ExportLayout
-  * Save as new file
-  * Open it and edit the detail
-  * Save as dxf format    In this part we need to add 
-  * ExportLayout command to change the data   
+* Create standard 2D drawings from your 3D geometry by entering the DRAWING workspace. See the Drawings section of the help for more information.
+* Choice Drawing>from design
+* In creating drawing,we can determine the size and other information , I choice IOS standard, unit is mmsheet size A4,etc
+* Output from dxf formate and then open in AutoCAD  
 
 ## Reference
 * [AutoCAD](https://www.autodesk.com/products/autocad/overview?plc=ACDIST&term=1-YEAR&support=ADVANCED&quantity=1)
