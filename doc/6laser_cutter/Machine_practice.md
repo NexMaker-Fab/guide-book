@@ -1,7 +1,6 @@
 ## 1. Powercut(laser cutter software) install
 
-
-![](https://gitlab.com/picbed/bed/uploads/85034356231598d19d05c68ba699ee25/powercuttinstall.png)
+![](https://gitlab.com/picbed/bed/uploads/967a90f13442f1ee37ed3c96044aff8e/powercut.png)
 
 ## 2.  Prepare machine
 

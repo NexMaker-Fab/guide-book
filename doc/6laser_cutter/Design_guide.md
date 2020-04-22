@@ -19,9 +19,6 @@ In this part ,we use 2mm transparent acrylic.
 
  * We design a demo which can check the best parameter(power and speed).So we design 9 pcs cutting demo(the power is 90%,80%,70%,60%,50%,40%,30%,20%,10%). The speed are 10mm/s, 20mm/s,30mmmm/s,40mm/s,50mm/s,60mm/s;
 
-
-	![](https://ws3.sinaimg.cn/large/006tNc79gy1folmn0cp59j30hf0gf3z3.jpg)
-	![](https://ws4.sinaimg.cn/large/006tNc79gy1follypu90gj31hc0u0ahg.jpg)
  * We change the color to make sure the laser cutter software's requirment
 
 ![](https://gitlab.com/picbed/bed/uploads/ebe5beac6cd8304960a49adb79e8c2f6/WechatIMG102.png)

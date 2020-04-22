@@ -1,3 +1,3 @@
 1. Learn different kind of material which can be manufacture by laser cutter;
-2. Learn some design rule and use AutoCAD to design your project;
-3. Use laser cutter kerf in your design and then assemble them together;
+2. Learn some design rule  and kerf;
+3. Use laser cutter to process your project and then assemble with your arduino project

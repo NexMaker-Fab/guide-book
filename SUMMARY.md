@@ -53,8 +53,9 @@
     * [Assessment](doc/6laser_cutter/Assessment.md)
     * [Safety](doc/6laser_cutter/Safety.md)
     * [AutoCAD](doc/6laser_cutter/AutoCAD.md)
-    * [Design guide](doc/6laser_cutter/Design_guide.md)
     * [Machine practice](doc/6laser_cutter/Machine_practice.md)
+    * [Design guide](doc/6laser_cutter/Design_guide.md)
+  
     
 * [7. PCB manufacture](https://www.nexpcb.com/blog/smt-pcb-puzzle)
     * Assessment
