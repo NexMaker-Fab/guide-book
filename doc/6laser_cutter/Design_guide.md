@@ -41,7 +41,7 @@ After analysis, we can get the following result.
 | 80 |  Y | Y |Y| N | N | N| N |
 | 90 |  Y | Y |Y| N | N | N| N |
 ***Remind:This table for 2mm transparent acrylic***
-In future,we would update more different kind material and thickness.
+In future,we would update more different kinds material and thickness.
 
 
 ## 3. Kerf

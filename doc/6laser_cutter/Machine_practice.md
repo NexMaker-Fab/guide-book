@@ -5,7 +5,7 @@
 ## 2.  Prepare machine
 
 #### 2.1 Check connection
-* Check power for laser cutter and power for smoke exhaust fan open and running
+* Check power for laser cutter, power for smoke exhaust fan open and running
   
 ![](https://gitlab.com/picbed/bed/uploads/7c83e2d3254ba5262d3c7ba00721dcee/part.png)
 
