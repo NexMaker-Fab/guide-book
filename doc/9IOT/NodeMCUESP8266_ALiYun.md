@@ -10,11 +10,11 @@
 
 * Arduino IDE's libraries
   * ESP8266WiFi:Open in Arduino IDE-TOOLs-Manage libraries, and search esp8266 ,then istall(need several minutes). If success,open TOOLS-borads and find "NodeMCU1.0(ESP-12E Module)"
-        ![](https://gitlab.com/picbed/bed/uploads/48ce68210b243129faed1035dd138055/esp8266.png
+    ![](https://gitlab.com/picbed/bed/uploads/48ce68210b243129faed1035dd138055/esp8266.png
 )
-        ![](https://gitlab.com/picbed/bed/uploads/4600dd4c09ced79bd7ee90ddd0839f9f/esp12e.png)
+    ![](https://gitlab.com/picbed/bed/uploads/4600dd4c09ced79bd7ee90ddd0839f9f/esp12e.png)
   * Crypto:[The library is split into four main sections: core, light-weight, legacy, and other.](https://rweather.github.io/arduinolibs/crypto.html)
-        ![](https://gitlab.com/picbed/bed/uploads/46802adc37076bbb33b967b078929ea1/crypto.png)
+    ![](https://gitlab.com/picbed/bed/uploads/46802adc37076bbb33b967b078929ea1/crypto.png)
 
   * PubSubClient:dowload in [google drive](https://drive.google.com/open?id=1pJhtYuMFT3AmbOuwvFcjD2AhxBNycaWU) and install in Arduino IDE(Sketch-Include  Library-Add .ZIP Library)
     ![](https://gitlab.com/picbed/bed/uploads/b492119b4e49ced062c280024f87ca42/addlib.png)
@@ -32,16 +32,22 @@
 ![](https://gitlab.com/picbed/bed/uploads/81b3581c6bf6143b001d22c6449c5503/iotenpage.png)
 #### 2.2 Creat products in Devices part(this time we choice wifi method in networking connection method)
   ![](https://gitlab.com/picbed/bed/uploads/e1a3d564b0fa66a10b142414e4f41a42/1creatproduct.png)
+
   ![](https://gitlab.com/picbed/bed/uploads/d317ee8ea536f919d366353f433fa0c0/2setting_prodcut.png)
 #### 2.3 Create device
 ![](https://gitlab.com/picbed/bed/uploads/88466b8ce48ecf45fd1eb26a96eba872/adddevice.png)
+
 ![](https://gitlab.com/picbed/bed/uploads/d1c50eef31164bb3d422054472766206/adddevice.png)
 #### 2.4 Define feature of product
 Click **Device-Product-Define Feature-Edit Draft**
 ![](https://gitlab.com/picbed/bed/uploads/652339a6cba54246c2af4b1592b20667/definefeature.png)
+
 ![](https://gitlab.com/picbed/bed/uploads/b8be03b445d6b2fab88a3b578cd7007b/editdraft.png)
+
 ![](https://gitlab.com/picbed/bed/uploads/f9967cf6adbc24030cf9826b079a429b/define_compornemnt.png)
+
 You should remind Identifier here and we would use it in Arduino programing
+
 ![](https://gitlab.com/picbed/bed/uploads/71242c9d1354189e435efcda930e33f6/remind.png)
 
 ## 3.Arduino programming
@@ -50,7 +56,9 @@ Download arduino coding in [google drive](https://drive.google.com/open?id=1cAEx
 
 
 get Alibaba Cloud's  device information(Product key,Device name,Device secrect)
+
 ![](https://gitlab.com/picbed/bed/uploads/b85ab619577765eb0d988dee03e47424/deviceview.png)
+
 ![](https://gitlab.com/picbed/bed/uploads/5081bf40696869151c19607d9c9ff4cd/deviceinformation.png)
 
 ```
@@ -67,6 +75,7 @@ Fill your WiFi's name and password, if there is no password,just delete "******"
 ```
 
 Define setting post data and get data 
+
 ```
 void mqtt_interval_post()
 {
@@ -91,18 +100,18 @@ OK ,we can upload data and test example.
 ## 4. Test
 
 * Cleck if it is online  then click **view** to check IP
-    ![](https://gitlab.com/picbed/bed/uploads/9e62026e46b1cb32933dcdb3231c36af/online.png)
-![](https://gitlab.com/picbed/bed/uploads/59fc5031dda373f2884a47823dbd7ee5/online2.png)
+  ![](https://gitlab.com/picbed/bed/uploads/9e62026e46b1cb32933dcdb3231c36af/online.png)
+  ![](https://gitlab.com/picbed/bed/uploads/59fc5031dda373f2884a47823dbd7ee5/online2.png)
 
 * Click Online debug to control the NodeMCU
-    ![](https://gitlab.com/picbed/bed/uploads/82808e57fc4d8a1ee9fca2967637426f/online3.png)
-    ![](https://gitlab.com/picbed/bed/uploads/be9361b1f132843925eea07ed58be88b/online5.png)
-    ![](https://gitlab.com/picbed/bed/uploads/39f8e59a716e1e241bfc62144158ff63/online6.png)
+  ![](https://gitlab.com/picbed/bed/uploads/82808e57fc4d8a1ee9fca2967637426f/online3.png)
+  ![](https://gitlab.com/picbed/bed/uploads/be9361b1f132843925eea07ed58be88b/online5.png)
+  ![](https://gitlab.com/picbed/bed/uploads/39f8e59a716e1e241bfc62144158ff63/online6.png)
 
 
 * We rotate Potentiometer and then check the data if change
 
-    ![](https://gitlab.com/picbed/bed/uploads/a75ff4b98bf2593803a266a46719de9c/onlinedebug.png)
+  ![](https://gitlab.com/picbed/bed/uploads/a75ff4b98bf2593803a266a46719de9c/onlinedebug.png)
   
 ## 5. Reference
 * [NodeMCU](https://nodemcu.readthedocs.io/en/master/)
