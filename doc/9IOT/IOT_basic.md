@@ -5,9 +5,6 @@
 
 [reference from quora](https://www.quora.com/What-are-the-top-IoT-companies)
 
-![](https://gitlab.com/picbed/bed/uploads/7f24a82d11ba652dda54482780fae063/1_N0LCH8hOGeO0x0BKYviYaA.png)
-
-[reference from medium](https://medium.com/@mccannatron/internet-of-things-iot-market-ecosystem-map-28a73d1393f)
 
 
 
