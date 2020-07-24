@@ -6,6 +6,7 @@
     * [Access and safety](doc/0manage/access_safety.md)
     * [Material](doc/0manage/material.md)
     * [Tool](doc/0manage/tool.md)
+    * [ff](doc/
  
   
   
@@ -91,6 +92,11 @@
 
 * [NexMaker academy-2](fab-02/README.md)
   * [June Zhang](https://nex-fab.gitlab.io/fab-02/june/)
+  * [Orkun](https://nex-fab.gitlab.io/fab-02/orkun )
+  * [Otto](https://nex-fab.gitlab.io/fab-02/otto)
+  * [Ciel](https://nex-fab.gitlab.io/fab-02/ciel)
+  * [June](https://nex-fab.gitlab.io/fab-02/jenny)
+
 
 *****
 
