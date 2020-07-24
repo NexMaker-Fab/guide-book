@@ -1,4 +1,4 @@
-# git book
+# gitbook
 This document will show us how to setting gitbook document for ever member.
 
 we can reference the following information:
@@ -9,7 +9,7 @@ we can reference the following information:
 
 
 
-##gitlab-ci.yml
+## gitlab-ci.yml
 ```
 
 # requiring the environment of NodeJS 8.9.x LTS (carbon)
