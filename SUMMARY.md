@@ -90,10 +90,10 @@
   
 
 * [NexMaker academy-2](fab-02/README.md)
-
+  * [June Zhang](https://nex-fab.gitlab.io/fab-02/june/)
 
 *****
 
-Update time:20200305
+Update time:20200724
 
 
