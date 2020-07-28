@@ -97,7 +97,7 @@
   * [Orkun](https://nex-fab.gitlab.io/fab-02/orkun )
   * [Otto](https://nex-fab.gitlab.io/fab-02/otto)
   * [Ciel](https://nex-fab.gitlab.io/fab-02/ciel)
-  * [June](https://nex-fab.gitlab.io/fab-02/jenny)
+  * [Junny](https://nex-fab.gitlab.io/fab-02/jenny)
 
 
 *****
