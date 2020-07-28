@@ -2,11 +2,11 @@
 
 * Due to the use of windows OLE technology, intuitive design technology, advanced Parasolid kernel (provided by Cambridge) and good integration technology with third-party software, SolidWorks has become the most installed and best used software in the world. 
 According to the data, about 280000 SolidWorks software licenses have been issued worldwide, involving about 31000 enterprises in aerospace, locomotives, food, machinery, national defense, transportation, mold, electronic communication, medical devices, entertainment industry, daily necessities / consumer goods, discrete manufacturing, etc., which are distributed in more than 100 countries around the world. In the education market, nearly 145000 students from 4300 educational institutions around the world pass SolidWorks training courses every year.
+
 ![](https://gitlab.com/pic-01/pic-liu/uploads/12c659f3731b29ba9f5fc4ecff30e42b/20200728123120.png)
-
-
-    ![](https://gitlab.com/pic-01/pic-liu/uploads/2769bef3f246e6c423b8ec19c758911d/20200728105213.png)
-    ![](https://gitlab.com/pic-01/pic-liu/uploads/b9433be3313fa8d2bd68cabafa2ff484/20200728105219.png)
+### Practive
+![](https://gitlab.com/pic-01/pic-liu/uploads/2769bef3f246e6c423b8ec19c758911d/20200728105213.png)
+![](https://gitlab.com/pic-01/pic-liu/uploads/b9433be3313fa8d2bd68cabafa2ff484/20200728105219.png)
    
    #### The interface after opening the software
    ![](https://gitlab.com/pic-01/pic-liu/uploads/4971d97f399b4d23d5eb2933f447760b/20200728105227.png)
@@ -88,7 +88,7 @@ According to the data, about 280000 SolidWorks software licenses have been issue
    #### Homework after class: notice that the front and rear wheels are missing shafts, please complete the shafts
    ![](https://gitlab.com/pic-01/pic-liu/uploads/eefbd29493a4ce807cb23f0ad1b45bc1/20200728110127.png)
    
-   ### Reference
+### Reference
 * SW Website：https://www.solidworks.com/zh-hans
 * Functions:sketch, modeling, assembly, rendering, simulation
 * Basic operation: 
@@ -99,3 +99,10 @@ According to the data, about 280000 SolidWorks software licenses have been issue
 * Model base： 
   * [MISUMI](https://www.misumi.com.cn/asia/incadlibrary/?utm_source=baidu&utm_medium=ppc&utm_content=ideanote-%e5%8d%8e%e4%b8%9c&utm_campaign=ideanote-%e5%8d%8e%e4%b8%9c&utm_term=sw%e6%a8%a1%e5%9e%8b)
   * [3D contentcentral](https://www.3dcontentcentral.cn/)
+
+
+
+*******
+Support by [Mars](mars.ma@nexpcb.com) and [Jiahao Liu](declan@nexpcb.com)
+[Reference link](https://nex-fab.gitlab.io/fab-01/marsma/1/1.2/sw-practice.html)
+[Download&Install](https://nex-fab.gitlab.io/fab-01/marsma/1/1.2/sw18.html)

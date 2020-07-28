@@ -45,4 +45,11 @@
   * #### (20)Select " X series product activation" and click "activate express product" below. In the pop-up dialog box, click Yes.
   * ![](https://gitlab.com/pic-01/pic-liu/uploads/8ffc6c65de8a1cb0ca6dfcd3acdc8910/20200723152259.png)
   * #### (21)Finish
-  * ![](https://gitlab.com/pic-01/pic-liu/uploads/e7532a7e6f2b7e5b9b8ba63123e4765c/20200723152329.png)s
+  * ![](https://gitlab.com/pic-01/pic-liu/uploads/e7532a7e6f2b7e5b9b8ba63123e4765c/20200723152329.png)
+
+
+
+*******
+Support by [Mars](mars.ma@nexpcb.com) and [Jiahao Liu](declan@nexpcb.com)
+[Reference link](https://nex-fab.gitlab.io/fab-01/marsma/1/1.2/sw-practice.html)
+[Download&Install](https://nex-fab.gitlab.io/fab-01/marsma/1/1.2/sw18.html)
