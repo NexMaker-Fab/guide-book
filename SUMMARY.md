@@ -26,8 +26,9 @@
     * [Assessment](doc/2cad/Assessment.md)
     * [Fusion 360 prepare](doc/2cad/Fusion360prepare.md)
     * [Fusion 360-Guidebook](doc/2cad/3D_Design_Fusion360.md)
-    * [Solidworks setting](2cad/../doc/2cad/Solidworks_download&installing.md)
-    * [Solidworks-guidebook](2cad/../doc/2cad/Solidworks.md)
+    * [Solidworks setting](doc/2cad/Solidworks_download&installing.md)
+    * [Solidworks-guidebook](doc/2cad/Solidworks.md)
+    * [Parameter design](doc/2cad/parameterdesign.md) 
 
 * [3. 3D printer](doc/3_3dprinter/assignment.md)
     * [Assessnment](doc/3_3dprinter/assignment.md)
