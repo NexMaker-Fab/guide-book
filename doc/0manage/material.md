@@ -14,22 +14,27 @@ Before your running project ,please check if you have enough material in lab, it
 
 
 
-## LAB EE material
+## EE material
 
-|  Material   | Link  |Location|
+|  Material   | Link  |Parameter|
 |  :----: | :----:  |:----:  |
-| | | |
+| Wire| [Taobao](https://detail.tmall.com/item.htm?id=563127070857&spm=a1z09.2.0.0.d9762e8dXaCkKD&_u=v1kvrthkabc2)|Green0.4mm2, Blue0.4mm2,Black0.4mm2,Red0.4mm2,RV1.5mm2  |
 
 
-## LAB ME material
+## ME material
 
 The following materil is the we own in lab
 
 |  Material   | Link  |Location|
 |  :----: | :----:  |:----:  |
 | 3D printer PLA |[esun](https://detail.tmall.com/item.htm?spm=a230r.1.14.37.3d6a4993wLohQj&id=551633653327&ns=1&abbucket=4) | Location A|
+|Cobalt Drill |[Shanggong-Tianmao](https://detail.tmall.com/item.htm?id=44331981441&spm=a1z09.2.0.0.d9762e8d3607rF&_u=v1kvrthk6983) | 1.5,2,2.5,2.6,2.8,3,3.2,3.8,4,4.2,5|
+|High speed Drill |[Komax-Tianmao](https://detail.tmall.com/item.htm?spm=a1z0d.6639537.1997196601.4.24a07484cTtDFV&id=585791040233) | 6,8,10,12|
+
 
 We would update more detail soon
 *****
 
-Update time:20200305
+Update time:
+* V1:20200305
+* V2:20200731
