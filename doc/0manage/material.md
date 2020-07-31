@@ -25,9 +25,9 @@ Before your running project ,please check if you have enough material in lab, it
 
 The following materil is the we own in lab
 
-|  Material   | Link  |Location|
+|  Material   | Link  |Parameter|
 |  :----: | :----:  |:----:  |
-| 3D printer PLA |[esun](https://detail.tmall.com/item.htm?spm=a230r.1.14.37.3d6a4993wLohQj&id=551633653327&ns=1&abbucket=4) | Location A|
+| 3D printer PLA |[esun](https://detail.tmall.com/item.htm?spm=a230r.1.14.37.3d6a4993wLohQj&id=551633653327&ns=1&abbucket=4) | 1.75mm PLA White|
 |Cobalt Drill |[Shanggong-Tianmao](https://detail.tmall.com/item.htm?id=44331981441&spm=a1z09.2.0.0.d9762e8d3607rF&_u=v1kvrthk6983) | 1.5,2,2.5,2.6,2.8,3,3.2,3.8,4,4.2,5|
 |High speed Drill |[Komax-Tianmao](https://detail.tmall.com/item.htm?spm=a1z0d.6639537.1997196601.4.24a07484cTtDFV&id=585791040233) | 6,8,10,12|
 
