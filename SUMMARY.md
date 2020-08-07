@@ -39,14 +39,14 @@
     * [SLA background](doc/3_3dprinter/6.SLAbackground.md)
     * [Slice software](doc/3_3dprinter/3Dslicesoftware.md)
 
-* [4 . Electric design ](doc/4electric_design_and_manfucture/basicknowledge.md)
+* [4. Electric design ](doc/4electric_design_and_manfucture/basicknowledge.md)
     * Assessment
     * Tool
     * [Electric basic knowledge](doc/4electric_design_and_manfucture/basicknowledge.md)
     * [EAGLE](https://knowledge.autodesk.com/support/eagle/troubleshooting/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-now-included-with-Fusion-360.html)
     * [Fusion 360 electronics](https://www.autodesk.com/products/fusion-360/electronics-engineer)
 
-* [5.Arduino application](https://www.arduino.cc/)
+* [5. Arduino application](https://www.arduino.cc/)
     * [Assessment](doc/5arduino/assessment.md)
     * [Open source](doc/5arduino/open_source.md)
     * [Arduino Basic](doc/5arduino/arduino_basic.md)
@@ -70,7 +70,7 @@
     * Tool
     * Design rule
 
-*  [9.IOT and Interaction](https://en.wikipedia.org/wiki/Internet_of_Things)
+*  [9. IOT and Interaction](https://en.wikipedia.org/wiki/Internet_of_Things)
     * [Assessment](doc/9IOT/Assessment.md)
     * [IOT basic introduce](doc/9IOT/IOT_basic.md)
     * [NodeMCU-Aliyun Cloud](doc/9IOT/NodeMCUESP8266_ALiYun.md)
