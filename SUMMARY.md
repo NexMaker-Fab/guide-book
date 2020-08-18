@@ -94,13 +94,15 @@
   
 
 * [NexMaker academy-2](fab-02/README.md)
-  * [June Zhang](https://nex-fab.gitlab.io/fab-02/june/)
+  * [June](https://nex-fab.gitlab.io/fab-02/june/)
   * [Orkun](https://nex-fab.gitlab.io/fab-02/orkun )
   * [Otto](https://nex-fab.gitlab.io/fab-02/otto)
   * [Ciel](https://nex-fab.gitlab.io/fab-02/ciel)
   * [Jenny](https://nex-fab.gitlab.io/fab-02/jenny)
+  * [Candy]( https://nex-fab.gitlab.io/fab-02/candy/)
 
 
 *****
 
 Update time:20200724
+Update time:20200818:add candy's project 
