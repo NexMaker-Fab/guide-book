@@ -113,18 +113,30 @@
     * [Ultrasound basic knowledge](XR/application_solution/Ultrasound.md)
     * [Ultrasound patent](XR/application_solution/xrultrasoudpatent.md)
   * [Brand](XR/brand/aim.md)
-    * [Apple introduce](XR/brand/apple.md)
-    * [Apple patent](XR/brand/applepatent.md)
+    * [Oculus](https://developer.oculus.com/documentation/)
+    * [HTC Vive](https://developer.vive.com/resources/?site=us&_ga=2.168114337.1254247147.1597807540-2051330671.1597807540)
     * [Hololens](XR/brand/Hololens.md)
     * [Magic leap patent](XR/brand/magicleap.md)
-  * [Meet up](XR/meetup/aim.md)
-    * [Plan](XR/meetup/plan.md)
+    * [Nreal](https://www.nreal.ai/)
+    * [Google VR](https://developers.google.cn/vr/design/sticker-sheet)
+    * [Huawei VR](https://consumer.huawei.com/cn/wearables/vr-glass/)
+    * [Apple introduce](XR/brand/apple.md)
+    * [Apple patent](XR/brand/applepatent.md)
   * [Industry Standard](XR/Standard/aim.md)
     * [OpenXR](XR/Standard/OpenXR.md) 
   * [Supply chain](XR/supplychain/aim.md)
     * [Optical](XR/supplychain/Optical.md)
+    * Chip
+    * Memory
+    * Displaymodule
+    * Sensor
+    * Camera
+    * OEM
+    * ODM
   * [Tendency](XR/tendency/aim.md)
     * [Analysis](XR/tendency/Analysis.md) 
+  * [Meet up](XR/meetup/aim.md)
+    * [Plan](XR/meetup/plan.md)
 
 
 
