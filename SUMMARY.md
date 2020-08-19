@@ -91,7 +91,6 @@
     * [Mars Ma](https://nex-fab.gitlab.io/fab-01/marsma/)
     * [Bo Li](https://nex-fab.gitlab.io/fab-01/bo-li/)
     * [Bob Wu](https://nex-fab.gitlab.io/fab-01/bobstudent/)
-  
 
 * [NexMaker academy-2](fab-02/README.md)
   * [June](https://nex-fab.gitlab.io/fab-02/june/)
@@ -101,8 +100,15 @@
   * [Jenny](https://nex-fab.gitlab.io/fab-02/jenny)
   * [Candy]( https://nex-fab.gitlab.io/fab-02/candy/)
 
+
+
+*****
+
 ## XR
 * [How to star](XR/how-to-star/aim.md)
+  * [Software](XR/how-to-star/Software.md)
+  * [Optical](XR/how-to-star/Optical.md)
+  * [Hardware](XR/how-to-star/Hardware.md)
 * [Application & solution](XR/application_solution/aim.md)
   * [Ultrasound basic knowledge](XR/application_solution/Ultrasound.md)
   * [Ultrasound patent](XR/application_solution/xrultrasoudpatent.md)
@@ -113,10 +119,13 @@
   * [Hololens](XR/brand/Hololens.md)
   * [Magic leap patent](XR/application_solution/magicleap.md)
 * [Meet up](XR/meetup/aim.md)
+  * [Plan](XR/meetup/plan.md)
 * [Industry Standard](XR/Standard/aim.md)
   * [OpenXR](XR/Standard/OpenXR.md) 
 * [Supply chain](XR/supplychain/aim.md)
+  * [Optical](XR/supplychain/Optical.md)
 * [Tendency](XR/tendency/aim.md)
+  * [Analysis](XR/tendency/Analysis.md) 
 
 
 
