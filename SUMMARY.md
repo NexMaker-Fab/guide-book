@@ -104,28 +104,28 @@
 
 *****
 
-## XR
-* [How to star](XR/how-to-star/aim.md)
-  * [Software](XR/how-to-star/Software.md)
-  * [Optical](XR/how-to-star/Optical.md)
-  * [Hardware](XR/how-to-star/Hardware.md)
-* [Application & solution](XR/application_solution/aim.md)
-  * [Ultrasound basic knowledge](XR/application_solution/Ultrasound.md)
-  * [Ultrasound patent](XR/application_solution/xrultrasoudpatent.md)
+* XR
+  * [How to star](XR/how-to-star/aim.md)
+    * [Software](XR/how-to-star/Software.md)
+    * [Optical](XR/how-to-star/Optical.md)
+    * [Hardware](XR/how-to-star/Hardware.md)
+  * [Application & solution](XR/application_solution/aim.md)
+    * [Ultrasound basic knowledge](XR/application_solution/Ultrasound.md)
+    * [Ultrasound patent](XR/application_solution/xrultrasoudpatent.md)
   
-* [Brand](XR/brand/aim.md)
-  * [Apple introduce](XR/brand/apple.md)
-  * [Apple patent](XR/application_solution/apple.md)
-  * [Hololens](XR/brand/Hololens.md)
-  * [Magic leap patent](XR/application_solution/magicleap.md)
-* [Meet up](XR/meetup/aim.md)
-  * [Plan](XR/meetup/plan.md)
-* [Industry Standard](XR/Standard/aim.md)
-  * [OpenXR](XR/Standard/OpenXR.md) 
-* [Supply chain](XR/supplychain/aim.md)
-  * [Optical](XR/supplychain/Optical.md)
-* [Tendency](XR/tendency/aim.md)
-  * [Analysis](XR/tendency/Analysis.md) 
+  * [Brand](XR/brand/aim.md)
+    * [Apple introduce](XR/brand/apple.md)
+    * [Apple patent](XR/application_solution/apple.md)
+    * [Hololens](XR/brand/Hololens.md)
+    * [Magic leap patent](XR/application_solution/magicleap.md)
+  * [Meet up](XR/meetup/aim.md)
+    * [Plan](XR/meetup/plan.md)
+  * [Industry Standard](XR/Standard/aim.md)
+    * [OpenXR](XR/Standard/OpenXR.md) 
+  * [Supply chain](XR/supplychain/aim.md)
+    * [Optical](XR/supplychain/Optical.md)
+  * [Tendency](XR/tendency/aim.md)
+    * [Analysis](XR/tendency/Analysis.md) 
 
 
 
