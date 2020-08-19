@@ -102,10 +102,9 @@
 
 
 
-*****
+## OTHERS
 
 * [XR](https://en.wikipedia.org/wiki/X_Reality_(XR))
-
   * [How to star](XR/how_to_star/aim.md)
     * [Software](XR/how_to_star/Software.md)
     * [Optical](XR/how_to_star/Optical.md)
@@ -113,12 +112,11 @@
   * [Application & solution](XR/application_solution/aim.md)
     * [Ultrasound basic knowledge](XR/application_solution/Ultrasound.md)
     * [Ultrasound patent](XR/application_solution/xrultrasoudpatent.md)
-  
   * [Brand](XR/brand/aim.md)
     * [Apple introduce](XR/brand/apple.md)
-    * [Apple patent](XR/application_solution/apple.md)
+    * [Apple patent](XR/brand/applepatent.md)
     * [Hololens](XR/brand/Hololens.md)
-    * [Magic leap patent](XR/application_solution/magicleap.md)
+    * [Magic leap patent](XR/brand/magicleap.md)
   * [Meet up](XR/meetup/aim.md)
     * [Plan](XR/meetup/plan.md)
   * [Industry Standard](XR/Standard/aim.md)
