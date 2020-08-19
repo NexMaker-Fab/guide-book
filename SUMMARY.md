@@ -106,10 +106,10 @@
 
 * [XR](https://en.wikipedia.org/wiki/X_Reality_(XR))
 
-  * [How to star](XR/how-to-star/aim.md)
-    * [Software](XR/how-to-star/Software.md)
-    * [Optical](XR/how-to-star/Optical.md)
-    * [Hardware](XR/how-to-star/Hardware.md)
+  * [How to star](XR/how_to_star/aim.md)
+    * [Software](XR/how_to_star/Software.md)
+    * [Optical](XR/how_to_star/Optical.md)
+    * [Hardware](XR/how_to_star/Hardware.md)
   * [Application & solution](XR/application_solution/aim.md)
     * [Ultrasound basic knowledge](XR/application_solution/Ultrasound.md)
     * [Ultrasound patent](XR/application_solution/xrultrasoudpatent.md)
