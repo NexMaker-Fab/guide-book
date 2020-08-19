@@ -104,7 +104,8 @@
 
 *****
 
-* XR
+* [XR](https://en.wikipedia.org/wiki/X_Reality_(XR))
+
   * [How to star](XR/how-to-star/aim.md)
     * [Software](XR/how-to-star/Software.md)
     * [Optical](XR/how-to-star/Optical.md)
