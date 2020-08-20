@@ -94,10 +94,10 @@
 
 * [NexMaker academy-2](fab-02/README.md)
   * [June](https://nex-fab.gitlab.io/fab-02/june/)
-  * [Orkun](https://nex-fab.gitlab.io/fab-02/orkun )
   * [Otto](https://nex-fab.gitlab.io/fab-02/otto)
   * [Ciel](https://nex-fab.gitlab.io/fab-02/ciel)
   * [Jenny](https://nex-fab.gitlab.io/fab-02/jenny)
+  * [Orkun](https://nex-fab.gitlab.io/fab-02/orkun )
   * [Candy]( https://nex-fab.gitlab.io/fab-02/candy/)
 
 
