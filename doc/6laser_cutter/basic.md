@@ -28,11 +28,32 @@ Reference from [advanced machinery](https://am.co.za/laser/cabinet)
 
 
 
-## 2. Type
+## 2. Computer-Controlled Cutting
+* [Knife](https://www.youtube.com/watch?v=PG9lJOnNTzQ):Use knife to cut the profile of material according to computer control machine. The following is some vendors [Vinyl Cutter Machines](https://www.rolanddga.com/products/vinyl-cutters) ,[Zund](https://www.zund.com/en) ,[Othercutter](https://www.youtube.com/watch?v=PG9lJOnNTzQ)
+  ![](https://gitlab.com/picbed/bed/uploads/b632e9d47d801a0e7dc233cb9afe85e3/VINLY.png)
+ 
+ 
+
+* Laser
+  * [Epilog](https://www.epiloglaser.com/laser-machines/product-line.htm) 
+  * [Universal](https://www.ulsinc.com/technology/products)
+  * [Trotec](https://www.troteclaser.com/) 
+     
+* [Plasma:A process that cuts through electrically conductive materials by means of an accelerated jet of hot plasma.](https://en.wikipedia.org/wiki/Plasma_cutting)
+  * [Forest Scientific](http://forestscientific.com/cnc-plasma-cutters/) 
+  * [Torchmate](https://torchmate.com/how-to-choose)
+* [waterjet:An industrial tool capable of cutting a wide variety of materials using a very high-pressure jet of water, or a mixture of water and an abrasive substance](https://en.wikipedia.org/wiki/Water_jet_cutter)
+![](https://gitlab.com/picbed/bed/uploads/22d4518258963a56bf19a5c66e4dbcc0/abrasive-waterjet.gif)
+
+    hot wire
+       FROGWire Hotwire MTM
+    wire EDM
+       Sodick MTM
+## 3. Laser cutter type
+
 There are three main types of lasers used in laser cutting. 
 * The CO2 laser is suited for cutting, boring, and engraving. CO2 lasers are commonly "pumped" by passing a current through the gas mix (DC-excited) or using radio frequency energy (RF-excited). The RF method is newer and has become more popular. Since DC designs require electrodes inside the cavity, they can encounter electrode erosion and plating of electrode material on glassware and optics. Since RF resonators have external electrodes they are not prone to those problems. CO2 lasers are used for industrial cutting of many materials including titanium, stainless steel, mild steel, aluminium, plastic, wood, engineered wood, wax, fabrics, and paper. 
 * Fiber lasers are a type of solid state laser that is rapidly growing within the metal cutting industry. Unlike CO2, Fiber technology utilizes a solid gain medium, as opposed to a gas or liquid. The “seed laser” produces the laser beam and is then amplified within a glass fiber. With a wavelength of only 1.064 micrometers fiber lasers produce an extremely small spot size (up to 100 times smaller compared to the CO2),making it ideal for cutting reflective metal material. This is one of the main advantages of Fiber compared to CO2.
-
 
 
 * The neodymium (Nd) and neodymium yttrium-aluminium-garnet (Nd:YAG) lasers are identical in style and differ only in application.
@@ -40,14 +61,21 @@ There are three main types of lasers used in laser cutting.
   *  The Nd:YAG laser is used where very high power is needed and for boring and engraving. 
 
 
+material
+Choose your material
+Acrylic
+Glass
+Laminates
+Metal
+Textiles
+Wood
 
 
 
 
 
 
-
-## 3.The laser cutter in our lab
+## 4.The laser cutter in our lab
 
 ![](https://gitlab.com/picbed/bed/uploads/1940a8cbe0f567c4b2e3adc15fee716a/WechatIMG80.jpeg
 )
@@ -66,6 +94,6 @@ There are three main types of lasers used in laser cutting.
 	
 
 
-## Reference
+## 5. Reference
 * [Recording from fablalb 2018](http://fab.academany.org/2018/lectures/fab-20180207.html)
 * [Basic infromation about laser cutter](http://academy.cba.mit.edu/classes/computer_cutting/index.html)

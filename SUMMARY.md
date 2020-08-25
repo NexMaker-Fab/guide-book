@@ -57,8 +57,9 @@
     * [Assessment](doc/6laser_cutter/Assessment.md)
     * [Safety](doc/6laser_cutter/Safety.md)
     * [AutoCAD](doc/6laser_cutter/AutoCAD.md)
-    * [Machine practice](doc/6laser_cutter/Machine_practice.md)
     * [Design guide](doc/6laser_cutter/Design_guide.md)
+    * [Machine practice](doc/6laser_cutter/Machine_practice.md)
+  
   
 * [7. PCB manufacture](https://www.nexpcb.com/blog/smt-pcb-puzzle)
     * Assessment
@@ -110,6 +111,7 @@
     * [Optical](XR/how_to_star/Optical.md)
     * [Hardware](XR/how_to_star/Hardware.md)
   * [Application & solution](XR/application_solution/aim.md)
+    * [Officeworking](XR/application_solution/officeworking.md)
     * [Ultrasound basic knowledge](XR/application_solution/Ultrasound.md)
     * [Ultrasound patent](XR/application_solution/xrultrasoudpatent.md)
   * [Brand](XR/brand/aim.md)

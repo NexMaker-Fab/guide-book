@@ -19,5 +19,5 @@ During normal operation, the machine is enclosed and laser classification is Cla
 
 
 
-## Reference 
+## 3. Reference 
 * [Nottingham laser safety](https://www.nottingham.edu.cn/en/ehs/laser-safety.aspx)

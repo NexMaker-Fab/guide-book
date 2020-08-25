@@ -41,6 +41,34 @@ After analysis, we can get the following result.
 | 80 |  Y | Y |Y| N | N | N| N |
 | 90 |  Y | Y |Y| N | N | N| N |
 ***Remind:This table for 2mm transparent acrylic***
+[More test about 3mm,5mm acrylic in Jiahao Liu's practice](https://nex-fab.gitlab.io/fab-01/jiahaoliu/liuliuliu/6.laser-cut/Introduction.html)
+![](https://gitlab.com/pic-01/pic-liu/uploads/d9c60255bf78c162e26d0c7666d47fa8/20200805145559.png)
+![](https://gitlab.com/pic-01/pic-liu/uploads/97e04d067ef45bc02edce6fc3692ec1f/20200805150451.png)
+![](https://gitlab.com/pic-01/pic-liu/uploads/e6b8c946bf5afef31dd59ad67acb9c60/20200805150523.png)
+
+<center>5MM-TEST</center>
+
+
+| Power\speed   | 10  |  15 |  20 |  25 |  30 |
+| :-----------: |:---:|:---:|:---:|:---:|:---:| 
+| 40            |  N  |  N  |  N  |  N  |  N  | 	
+| 50            |  Y  |  N  |  N  |  N  |  N  | 	
+| 60            |  Y  |  N  |  N  |  N  |  N  | 	
+| 70            |  Y  |  N  |  N  |  N  |  N  | 	
+| 80            |  Y  |  N  |  N  |  N  |  N  | 	
+
+
+<center>3MM-TEST</center>
+
+| Power\speed   | 20  |  25 |  30 |  35 |  40 |
+| :-----------: |:---:|:---:|:---:|:---:|:---:| 
+| 40            |  Y  |  N  |  N  |  N  |  N  | 	
+| 50            |  Y  |  N  |  N  |  N  |  N  | 	
+| 60            |  Y  |  Y  |  N  |  N  |  N  | 	
+| 70            |  Y  |  Y  |  N  |  N  |  N  | 	
+| 80            |  Y  |  Y  |  N  |  N  |  N  | 	
+
+
 In future,we would update more different kinds material and thickness.
 
 
@@ -77,6 +105,7 @@ kerf= (50-48.06)/20=0.097mm
 1. [test.dxf](http://a360.co/2FfR0Bh)
 2. [sheet1.dxf-sheet6.dxf](http://a360.co/2GqvwRm)
 3. [Assembly model in fusion](https://a360.co/2r6WJmN)
+4. [Jiahao Liu's practice ](https://nex-fab.gitlab.io/fab-01/jiahaoliu/liuliuliu/6.laser-cut/Introduction.html)
 
 
 

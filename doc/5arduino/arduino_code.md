@@ -15,7 +15,7 @@ void loop() {
   val = digitalRead(inPin);   // read the input pin
   digitalWrite(ledPin, val);  // sets the LED to the button's value
 ```
-
+```
 * 1.1.1digitalRead()
   * Description: Reads the value from a specified digital pin, either HIGH or LOW.
   * Syntax:digitalRead(pin)
