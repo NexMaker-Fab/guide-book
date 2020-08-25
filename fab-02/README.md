@@ -10,15 +10,15 @@ we launch this academy from 20200722
 ||    Question        | time           | Condation  |	
 | ------------- | ------------- |:-------------:| -----:|
 | 1PM| Add document for my final project     | 20200820 | OK |
-| 2CAD| the link for 2.cad(https://www.nexmaker.com/doc/2cad/Assessment2CAD-design.html) is wrong  | 20200820   |   ok |
+| 2CAD| the link for 2.cad is wrong  | 20200820   |   ok |
 |2CAD | ball ,add some information to give guide, for example " reference my solidworks data" |20200820 |  OK|
-|33d printing| the link  (https://www.nexmaker.com/doc/33d-printing/Assessment33D-printer.html)is wrong|20200820| OK|
-|5 arduino application|  the link  (https://www.nexmaker.com/doc/4arduino/Assessment5Arduino-application.html)is wrong|20200820| OK|
-|5Arduino applcation|  Add markdown document ,and prepare show your demo during workshop| 20200825| Wait|
+|33d printing| the link is wrong|20200820| OK|
+|5 arduino application|  the link  is wrong|20200820| OK|
+|5Arduino applcation|  Add markdown document ,    and prepare show your demo during workshop| 20200825| Wait|
 |1PM|  From "My finial project" to "My final project"|20200825| Wait|
 |1PM|  You can add your partner's link for your finial project|20200825| Wait|
 |33D PRINITNG | Add machine setting and post process(especial safety)|20200825| Wait|
-| 1PM| Add some tech paramenter for your final project and we can prepare for it |20200825| Wait|
+| 1PM| Add some tech paramenter for your final project  |20200825| Wait|
 
 
 

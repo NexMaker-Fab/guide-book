@@ -33,11 +33,7 @@ Reference from [advanced machinery](https://am.co.za/laser/cabinet)
   ![](https://gitlab.com/picbed/bed/uploads/b632e9d47d801a0e7dc233cb9afe85e3/VINLY.png)
  
  
-
-* Laser
-  * [Epilog](https://www.epiloglaser.com/laser-machines/product-line.htm) 
-  * [Universal](https://www.ulsinc.com/technology/products)
-  * [Trotec](https://www.troteclaser.com/) 
+* Laser:we can divide  CO2 laser,Fiber lasers and The neodymium (Nd) and neodymium yttrium-aluminium-garnet (Nd:YAG) lasers ,introduce in the below PART3. The following is some vendors:[Epilog](https://www.epiloglaser.com/laser-machines/product-line.htm) ,[Universal](https://www.ulsinc.com/technology/products),[Trotec](https://www.troteclaser.com/) 
      
 * [Plasma:A process that cuts through electrically conductive materials by means of an accelerated jet of hot plasma.](https://en.wikipedia.org/wiki/Plasma_cutting)
   * [Forest Scientific](http://forestscientific.com/cnc-plasma-cutters/) 
