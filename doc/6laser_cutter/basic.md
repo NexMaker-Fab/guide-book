@@ -35,16 +35,18 @@ Reference from [advanced machinery](https://am.co.za/laser/cabinet)
  
 * Laser:we can divide  CO2 laser,Fiber lasers and The neodymium (Nd) and neodymium yttrium-aluminium-garnet (Nd:YAG) lasers ,introduce in the below PART3. The following is some vendors:[Epilog](https://www.epiloglaser.com/laser-machines/product-line.htm) ,[Universal](https://www.ulsinc.com/technology/products),[Trotec](https://www.troteclaser.com/) 
      
-* [Plasma:A process that cuts through electrically conductive materials by means of an accelerated jet of hot plasma.](https://en.wikipedia.org/wiki/Plasma_cutting)
-  * [Forest Scientific](http://forestscientific.com/cnc-plasma-cutters/) 
-  * [Torchmate](https://torchmate.com/how-to-choose)
+* [Plasma:A process that cuts through electrically conductive materials by means of an accelerated jet of hot plasma.](https://en.wikipedia.org/wiki/Plasma_cutting). The following is some vendors,[Forest Scientific](http://forestscientific.com/cnc-plasma-cutters/) ,[Torchmate](https://torchmate.com/how-to-choose)
+![](https://gitlab.com/picbed/bed/uploads/a0a3eaaac5305b1d6e4d096a24ba3fe7/PlasmaCutteractionpix.jpg)
+
 * [waterjet:An industrial tool capable of cutting a wide variety of materials using a very high-pressure jet of water, or a mixture of water and an abrasive substance](https://en.wikipedia.org/wiki/Water_jet_cutter)
 ![](https://gitlab.com/picbed/bed/uploads/22d4518258963a56bf19a5c66e4dbcc0/abrasive-waterjet.gif)
 
-    hot wire
-       FROGWire Hotwire MTM
-    wire EDM
-       Sodick MTM
+* Hot wire,Used to cut foam. The following is some vendors:[FROGWire](http://www.3dcutting.com/solutions/frogwire.html) ,[Hotwire](https://hotwiresystems.com/hot-wire-cnc-foam-cutters/), [MTM](http://ng.cba.mit.edu/show/video/14.08.modular.mp4)
+* [Electrical discharge machining (EDM), also known as spark machining, spark eroding, die sinking, wire burning or wire erosion, is a metal fabrication process whereby a desired shape is obtained by using electrical discharges (sparks)](https://en.wikipedia.org/wiki/Electrical_discharge_machining). The following is some vendors:[Sodick MTM](https://www.sodick.com/),[Mitsubishielectric](https://www.mitsubishielectric.co.jp/fa/products/mecha/edm/premium/index.html)
+
+![](https://gitlab.com/picbed/bed/uploads/3abfee1919052b48973291dffe78a9c2/edm1.jpg)
+![](https://gitlab.com/picbed/bed/uploads/4a943064c01aab8550101aa55d06dfa1/edm2.jpg)
+![](https://gitlab.com/picbed/bed/uploads/2547df2f87a855d0f7f661260c1344f2/Electrical_discharge_Machining.gif)
 ## 3. Laser cutter type
 
 There are three main types of lasers used in laser cutting. 
@@ -57,14 +59,13 @@ There are three main types of lasers used in laser cutting.
   *  The Nd:YAG laser is used where very high power is needed and for boring and engraving. 
 
 
-material
-Choose your material
-Acrylic
-Glass
-Laminates
-Metal
-Textiles
-Wood
+#### 4.Material
+
+* Acrylic
+* Glass
+* Metal
+* Textiles
+* Wood
 
 
 
