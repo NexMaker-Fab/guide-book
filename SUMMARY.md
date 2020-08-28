@@ -104,7 +104,7 @@
 
 ## OTHERS
 
-* [XR](https://en.wikipedia.org/wiki/X_Reality_(XR))
+* [XR](XR/readme.md)
   * [How to star](XR/how_to_star/aim.md)
     * [Software](XR/how_to_star/Software.md)
     * [Optical](XR/how_to_star/Optical.md)
