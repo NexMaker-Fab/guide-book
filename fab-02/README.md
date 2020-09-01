@@ -10,7 +10,7 @@ we launch this academy from 20200722
 ||    Question        | time           | Condation  |	
 | ------------- | ------------- |:-------------:| -----:|
 | 1PM| Add document for my final project     | 20200820 | OK |
-| 2CAD| the link for 2.cad is wrong  | 20200820   |   ok |
+| 2CAD| the link for 2.cad is wrong  | 20200820   |   OK |
 |2CAD | ball ,add some information to give guide, for example " reference my solidworks data" |20200820 |  OK|
 |33d printing| the link is wrong|20200820| OK|
 |5 arduino application|  the link  is wrong|20200820| OK|
@@ -42,31 +42,6 @@ we launch this academy from 20200722
 
 
 
-
-  
-#### Orkun
-
-|  Workshop|    Question        | time           | Condation  |	
-| -------------| ------------- |:-------------:| -----:|
-|1PM|Add introduce myself link(same with readme.md) | 20200820 | Wait |
-|1PM|maybe you can keep your old idea for final project | 20200820 | OK, discuss about it |
-|1PM|Add  a link for candy in final project introduce | 20200820 | Wait |
-|2CAD|Wrong link  | 20200820 | Wait |
-|33d printing|Add practice document | 20200820 | Wait |
-|5Arduino application|Add  practice document  | 20200825 | Wait |
-
-
-
-#### Candy
-| Workshop |    Question        | time           | Condation  |	
-| ------------- | ------------- |:-------------:| -----:|
-|2CAD | Book time for training | 20200820 | Wait |
-|33d printing| Need add  document | 20200820 | OK |
-|33d printing|Add cura parameter setting screenshot  | 20200820 | Wait |
-|5arduino|Add arduino code and app link | 20200820 | Wait |
-
-
-
 #### Ciel 
 | workshop|   Question      | time           | Condation  |	
 | ------------- | ------------- |:-------------:| -----:|
@@ -90,6 +65,31 @@ we launch this academy from 20200722
 |33D printing| Add data for 3d printing |20200825| Wait|
 |5Arduino|New version for this document|20200825| OK|
 |33D printing| Check practice link,it can't work|20200826| Wait|
+
+
+
+
+  
+#### Orkun
+
+|  Workshop|    Question        | time           | Condation  |	
+| -------------| ------------- |:-------------:| -----:|
+|1PM|Add introduce myself link(same with readme.md) | 20200820 | Wait |
+|1PM|maybe you can keep your old idea for final project | 20200820 | OK, discuss about it |
+|1PM|Add  a link for candy in final project introduce | 20200820 | Wait |
+|2CAD|Wrong link  | 20200820 | Wait |
+|33d printing|Add practice document | 20200820 | Wait |
+|5Arduino application|Add  practice document  | 20200825 | Wait |
+
+
+
+#### Candy
+| Workshop |    Question        | time           | Condation  |	
+| ------------- | ------------- |:-------------:| -----:|
+|2CAD | Book time for training | 20200820 | Wait |
+|33d printing| Need add  document | 20200820 | OK |
+|33d printing|Add cura parameter setting screenshot  | 20200820 | Wait |
+|5arduino|Add arduino code and app link | 20200820 | Wait |
 
 
 
