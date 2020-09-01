@@ -19,3 +19,9 @@ ASML后来把目光投向AR和VR，疫情的爆发加速了所述计划的进行
 为了尽量减少医护人员和新冠肺炎患者之间的直接接触，[犹太人综合医院（Jewish General Hospital）](https://www.jgh.ca/)成为了北美第一家实时实验混合现实头显的医疗机构之一。通过利用微软HoloLens及Dynamics 365 Remote Assist和解决方案，医护人员能够更安全地为患者提供最优的个性化护理(减少直接接触并加强咨询)。在实际操作过程中，医生或其他医护人员可以穿戴个人防护装备和HoloLens进入病房，而同事则在医院的其他安全地点查看相关图像和提供咨询
 ![](https://gitlab.com/picbed/bed/uploads/e4d695db327a51505f5ebb1e3c1d0e18/WX20200731-110152.png)
 ![](https://gitlab.com/picbed/bed/uploads/d1154501e41927b731230b3154b06634/WX20200731-110223.png)
+
+
+## 20200901
+microsoft patent：US020200271932A120200827
+![](https://gitlab.com/picbed/bed/uploads/3839880be0810c9ae7741e380fdc7aeb/microled.png)
+MicroLED arrays offer a small form factor solution for the HMD image sources since they do not need a separate illumination optics. Features of the present disclosure implement a MicroLED display system that incorporate a plurality of monochrome projectors (e.g., three MicroLED projectors) to generate three monochrome images (e.g., red, blue, and green images) that are separately input into a single waveguide of the HMD and combined to form an image that is displayed to the user. By utilizing a single waveguide that includes a plurality of spatially separated input regions (e.g., a region for inputting blue light, a region for inputting red light, a region for inputting green light), the MicroLED display system of the present disclosure may reduce the form factor of the HMD device because of the reduced number of plates that may be required to combine the three monochrome images.

@@ -113,6 +113,7 @@
     * [Officeworking](XR/application_solution/officeworking.md)
     * [Ultrasound basic knowledge](XR/application_solution/Ultrasound.md)
     * [Ultrasound patent](XR/application_solution/xrultrasoudpatent.md)
+    * [Hand tracking](XR/application_solution/hand_tracking.md)
   * [Brand](XR/brand/aim.md)
     * [Oculus](https://developer.oculus.com/documentation/)
     * [HTC Vive](https://developer.vive.com/resources/?site=us&_ga=2.168114337.1254247147.1597807540-2051330671.1597807540)
