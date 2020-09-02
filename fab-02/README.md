@@ -96,3 +96,17 @@ we launch this academy from 20200722
 
 
 
+
+
+
+
+1. aim
+2. tech analysis
+ # ee
+ ## me
+ ## code
+ ## material
+ ## iot
+
+
+(50-47.88)/10=0.212

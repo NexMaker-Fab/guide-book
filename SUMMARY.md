@@ -119,13 +119,26 @@
     * [HTC Vive](https://developer.vive.com/resources/?site=us&_ga=2.168114337.1254247147.1597807540-2051330671.1597807540)
     * [Hololens](XR/brand/Hololens.md)
     * [Magic leap patent](XR/brand/magicleap.md)
-    * [Nreal](https://www.nreal.ai/)
     * [Google VR](https://developers.google.cn/vr/design/sticker-sheet)
+    * [Apple ](XR/brand/apple.md)
+    * [Nreal](https://www.nreal.ai/)
     * [Huawei VR](https://consumer.huawei.com/cn/wearables/vr-glass/)
-    * [Apple introduce](XR/brand/apple.md)
-    * [Apple patent](XR/brand/applepatent.md)
+    * [Pico](XR/brand/pico.md)
+    * [Shadow creator](XR/brand/Shadow_creator.md)
+    * [Emdoor](XR/brand/emdoor.md)
+    * [DPVR](XR/brand/dpvr.md)
+    * [7Invensun](XR/brand/7invensun.md)
+    * [RealWear](XR/brand/realwear.md)
+    * [3Glasses](XR/brand/3glasses.md)
+    * [Ximmerse](XR/brand/XIMMERSE.md)
+
   * [Industry Standard](XR/Standard/aim.md)
     * [OpenXR](XR/Standard/OpenXR.md) 
+    * CCC:China Compulsory Certification
+    * TUV
+    * CE
+    * FCC
+    * RoHS
   * [Supply chain](XR/supplychain/aim.md)
     * [Optical](XR/supplychain/Optical.md)
     * Chip
