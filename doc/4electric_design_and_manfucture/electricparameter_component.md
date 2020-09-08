@@ -1,8 +1,8 @@
 ## Calculation
 *  U=I*R
 *  P=U*I
-*  X<sub>L</sub>=2 $\pi$fL       (just in AC)
-*  X<sub>C</sub>=1/(2 $\pi$fC)   (just in DC)
+*  X<sub>L</sub>=2 $\pi$ fL       (just in AC)
+*  X<sub>C</sub>=1/(2 $\pi$ fC)   (just in AC)
 
 
 ## AC and DC
@@ -18,6 +18,5 @@
 
 
 ## Reference
-[Tempoautomation](https://www.tempoautomation.com/blog/how-the-electronics-component-list-can-make-or-break-pcb-development/)
-
-[Electronic components](http://www.caraudiohelp.com/electronic_components.html)
+* [Tempoautomation](https://www.tempoautomation.com/blog/how-the-electronics-component-list-can-make-or-break-pcb-development/)
+* [Electronic components](http://www.caraudiohelp.com/electronic_components.html)
