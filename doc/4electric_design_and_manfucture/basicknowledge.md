@@ -36,6 +36,7 @@ The CAD Layer stackup is the following:
 
 
 The following picture shows 3 different stackups. The orange color highlights the layers in each stackup. The stackup height, or board thickness can vary depending on the application, however the most used is 1.6 [mm] or 62 [mils]. In some countries [thou] is used as a synonym for [mils]. ( `1 [mil] = 0.001 [inch] = 0.0254 [mm]` )
+
 ![](https://gitlab.com/picbed/bed/uploads/b20ea51f5da79c03e011bdb8d3879eb3/WX20200519-151704.png)
 
 **Example of 3 different PCB stackups: 2 layers (a), 4 layers (b) and 6 layers (c)**
@@ -134,7 +135,7 @@ It is important to highlight that in high frequencies is necessary to calculate 
 ## 6. Design 
 
 #### 6.1 Design software
-eagle
+[Autodesk Eagle](https://www.autodesk.com/products/eagle/overview)
 
 #### 6.2  Design rules
 width/spacing (15, 5 mils)
@@ -153,9 +154,9 @@ Basically there exist 3 big families of electronic packages:
 
 | Package |  Description |  Example Image | 
 | ----- | ----- | ----- | 
-| Thru-Hole | Are all those components that have pins intended to be mounted through a plated hole in the PCB. This kind of component is soldered to the opposite side of the board from which the component was inserted. Generally these components are mounted on one surface of the board only.|  ![thru-hole components - printed circuit board concepts PCB](https://resources.nexpcb.com/hs-fs/hubfs/Imported_Blog_Media/thruhole-printed-circuit-board-concepts-1.jpg?t=1517371339312&amp;width=100&amp;height=100&amp;name=thruhole-printed-circuit-board-concepts-1.jpg) |  
-| SMD/SMT (surface mount device/surface mount technology)| Are all those components that are soldered in the same side of the board from which the component was placed. The advantage of this type of package is that it can be mounted on both sides of the PCB. Also, these components are smaller than the thru-hole type, which allows the design of smaller and denser printed circuit boards. These types of components are useful for frequencies up to 200 [MHz] (fundamental clock frequency).|  ![smd components - printed circuit board concepts PCB](https://resources.nexpcb.com/hs-fs/hubfs/Imported_Blog_Media/smd-printed-circuit-board-concepts-1.jpg?t=1517371339312&amp;width=100&amp;height=100&amp;name=smd-printed-circuit-board-concepts-1.jpg)|
-| BGA (Ball grid array) | These types of components are frequently used for high density pin integrated circuits. For soldering them to the printed circuit boards it is required to have specialized machinery due that the pins are made of solder balls that have to be melted for making the electrical contact with the pads.BGA components are ideal for high frequency integrated circuits due to the very small parasitic inductances present in the joint between the pad and the balls. These type of components are very common in computer hardware like motherboards and video accelerator cards.|  ![bga components -  printed circuit board concepts PCB](https://resources.nexpcb.com/hs-fs/hubfs/Imported_Blog_Media/bga-printed-circuit-board-concepts-1.jpg?t=1517371339312&amp;width=100&amp;height=100&amp;name=bga-printed-circuit-board-concepts-1.jpg) | 
+| Thru-Hole | Are all those components that have pins intended to be mounted through a plated hole in the PCB. This kind of component is soldered to the opposite side of the board from which the component was inserted. Generally these components are mounted on one surface of the board only.| ![](https://gitlab.com/picbed/bed/uploads/9d7c42c19e0c96b61570a74151518982/thruhole-printed-circuit-board-concepts-1.jpg) |  
+| SMD/SMT (surface mount device/surface mount technology)| Are all those components that are soldered in the same side of the board from which the component was placed. The advantage of this type of package is that it can be mounted on both sides of the PCB. Also, these components are smaller than the thru-hole type, which allows the design of smaller and denser printed circuit boards. These types of components are useful for frequencies up to 200 [MHz] (fundamental clock frequency).| ![](https://gitlab.com/picbed/bed/uploads/0f471a87e193f17ba085e577a6d06b22/smd-printed-circuit-board-concepts-1.jpg)|
+| BGA (Ball grid array) | These types of components are frequently used for high density pin integrated circuits. For soldering them to the printed circuit boards it is required to have specialized machinery due that the pins are made of solder balls that have to be melted for making the electrical contact with the pads.BGA components are ideal for high frequency integrated circuits due to the very small parasitic inductances present in the joint between the pad and the balls. These type of components are very common in computer hardware like motherboards and video accelerator cards.|  ![](https://gitlab.com/picbed/bed/uploads/1206630544ef6bf14fe195af41e80055/bga-printed-circuit-board-concepts-1.jpg) | 
 
 
 For more information,reference wikipedia.[Surface Mount Technology - Wikipedia](http://en.wikipedia.org/wiki/Surface-mount_technology "Tecnología de Montaje Superficial - Wikipedia")
