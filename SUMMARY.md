@@ -130,6 +130,8 @@
     * [RealWear](XR/brand/realwear.md)
     * [3Glasses](XR/brand/3glasses.md)
     * [Ximmerse](XR/brand/XIMMERSE.md)
+    * [Rokid](XR/brand/rokid.md)
+    * [HiAR](XR/brand/hiar.md)
 
   * [Industry Standard](XR/Standard/aim.md)
     * [OpenXR](XR/Standard/OpenXR.md) 
