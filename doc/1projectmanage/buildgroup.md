@@ -1,16 +1,22 @@
-#  建立group 和project
+#  Build group  and project
 
-此文档用于实验室维护者如何使用实验的gitlab文档管理。建立group和project的目的是更好的管理文档内容。
+This document is used to maintain the gitlab. The aim of ["group"](https://docs.gitlab.com/ee/user/group/subgroups/)and  ["project" ](https://docs.gitlab.com/ee/user/project/)is used to maintain our project
 
 
 
-### 一、 建立group
 
-1.进入gitlab.com后注册并且登陆，首页左上角选择Group-Your Group;
+## 1 Build group
+
+#### 1.Register
+* Go to gitlab.com and register;
+* Sign in
+* Choice Group-Your Group in the upper left corner
+
+
 
 ![](https://github.com/bobwu0214/dm360.github.io/raw/master/Img/gitlab1.png)
 
-2.此处我们已经建立“Nex-fab”group，根据实际情况建立需要组;
+2.Build group
 目前计划的几个基础板块内容为
 
 * manageproject:此处用于存放管理员使用的文档资料；（不放到gitbook上）

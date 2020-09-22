@@ -1,4 +1,23 @@
-# Git Practice introduce
+# Gitbook for webpage
+We would use the following tool to build our own webpage
+* [Git](https://git-scm.com/) is used to control our version in gitlab;
+* [Gitlab](https://gitlab.com/) is used as a servicer for our webpage;
+* [Gitbook](https://www.gitbook.com/) is a style for our webpage;
+* [Markdown  language](https://www.nexmaker.com/doc/1projectmanage/markdown.html) to write our document;
+* [Image upload service](https://www.nexmaker.com/doc/1projectmanage/imageuploadservice.html) to storage our image on cloud and used in markdwon document;
+
+#### Tool 
+
+* [Git](https://git-scm.com/downloads),mac don't need to install,it use to setting git and gitlab;
+* [Nodejs](https://nodejs.org/en/) ,it use to setting environment for gitbook;
+* [VScode](https://code.visualstudio.com/) for write document;
+* [Picgo image upload service](https://github.com/Molunerfinn/PicGo/releases/tag/v2.2.2);it is used to storage picture in gitlab;
+
+
+
+
+
+**Git Practice introduce**
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
@@ -9,7 +28,7 @@ We can get the detail information about git on the [Git pro](https://git-scm.com
 
 
 
-##1.Installation
+## 1.Installation
    
 * Linux
 
@@ -224,7 +243,162 @@ index b0b9fc8..835f9c0 100644
 * git push:   Push the local data to gitlab
 
 
-## 5. Reference
+## 5.Gitbook
+
+This document will show us how to setting gitbook document for ever member.
+
+we can reference the following two document:
+* [gitbook from gitlab](https://gitlab.com/pages/gitbook)
+* [gitbook practice from bob](http://archive.fabacademy.org/2018/labs/fablaboshanghai/students/bob-wu/Fabclass/week2_project_management/gitbook.html)
+
+**gitlab-ci.yml**
+```
+
+# requiring the environment of NodeJS 8.9.x LTS (carbon)
+image: node:10.18
+
+# add 'node_modules' to cache for speeding up builds
+cache:
+  paths:
+    - node_modules/ # Node modules and dependencies
+
+before_script:
+  - npm install npm@latest -g # install latest npm
+  - npm install gitbook-cli -g # install gitbook
+  #- gitbook fetch latest # fetch latest stable version
+  - gitbook install # add any requested plugins in book.json
+  - gitbook fetch pre # fetch latest pre-release version
+  #- gitbook fetch 2.6.7 # fetch specific version
+
+# the 'pages' job will deploy and build your site to the 'public' path
+pages:
+  stage: deploy
+  script:
+    - gitbook build . public # build to public path
+  artifacts:
+    paths:
+      - public
+  only:
+    - master # this job will affect only the 'master' branch
+
+```
+
+## 6. Git QA
+
+**6.1 git config**
+
+```
+$ git config user.name "Bob Wu"
+fatal: not in a git directory
+```
+solution:
+
+```
+$ git init 
+$ git config user.email “email@test.com” 
+```
+[reference information](https://blog.csdn.net/Esc_Tab_End/article/details/84144063)
+
+**6.2 git push**
+
+```
+$ git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+ 
+    git remote add <name> <url>
+ 
+and then push using the remote name
+ 
+    git push <name>
+```
+solution:
+
+```
+$ git remote add origin 'remote url'
+$ git push -u origin   'remote branch , for example master'
+ 
+``` 
+ next time ,you can direct operate
+ 
+ 
+```  
+$ git add --all
+$ git commit -m "note"
+$ git push
+
+``` 
+[reference](https://blog.csdn.net/COCOLI_BK/article/details/97921497)
+
+
+**6.3　git pull**
+
+``` 
+
+git pull origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+``` 
+solution : we need connect remote as origin 
+
+`git remote add origin git@github:bx_reader/bx-reader-api.git`
+
+
+``` 
+
+douboydeMacBook-Pro-3:nexfab douboy$ git remote add origin git@gitlab.com:nex-fab/guide-book.git
+douboydeMacBook-Pro-3:nexfab douboy$ git pull origin master
+Enter passphrase for key '/Users/douboy/.ssh/id_rsa': 
+remote: Enumerating objects: 130, done.
+remote: Counting objects: 100% (130/130), done.
+remote: Compressing objects: 100% (74/74), done.
+remote: Total 130 (delta 58), reused 103 (delta 43), pack-reused 0
+Receiving objects: 100% (130/130), 903.89 KiB | 60.00 KiB/s, done.
+Resolving deltas: 100% (58/58), done.
+From gitlab.com:nex-fab/guide-book
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> origin/master
+
+``` 
+
+**6.4 go back to old edition**
+Some time we would have the problem that our new edition would broken ,so we want to go former edition,there are many method.The below will introduce one method
+
+``` 
+$git log    //we can now many old edition make sure which edition we need to go back 
+$ git checkout add34          //go back  to old edition "commit add3492c"
+$ git branch check                 //add new branch "check"
+$ git branch                     // check the branch status, we can ignore if we now the logic
+* (HEAD detached at add3492)
+  check
+  master
+
+  //next step is use check(the old eidtion"add3492c" we want to go back) content to cover master (the new broken edition )
+$ git branch -D master            //delete old edition
+Deleted branch master (was 952de05).
+$ git branch master               // re- add branch "master"
+$ git checkout master             //covery  
+M	guide-book
+Switched to branch 'master'
+$ git branch 
+  check
+* master
+$ git branch -D check                 //delete history
+Deleted branch check (was add3492).
+$ git branch
+* master
+$ git add --all
+$ git commit -m "branch"
+$ git push origin master -f
+
+``` 
+
+
+
+## 7. Reference
 
 * [guide from fab academy ](http://fabacademy.org/2018/recitations/version-control.html#60) 
 * [SSH key](https://docs.gitlab.com/ce/ssh/README.html)

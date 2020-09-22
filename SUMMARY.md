@@ -13,14 +13,13 @@
 
 ## Tutorials
 * [1.Project manage](https://git-scm.com/)
-    * [Assessment](doc/1projectmanage/Assessment1project-manage.md)
+    * [Assessment](doc/1projectmanage/Assessment1.md)
+    * [Wordpress web servier](doc/1projectmanage/wordpresswebservier.md)
+    * [Tech Stack - HTML+CSS+Github](doc/1projectmanage/htmlcssgithub.md)
+    * [Gitbook for webpage](doc/1projectmanage/git_gitbook.md)
     * [Tool](doc/1projectmanage/Tool1Project-manage.md)
-    * [How to use Git official document](https://git-scm.com/docs/gittutorial)
-    * [Git](doc/1projectmanage/2git.md)
-    * [Gitbook](doc/1projectmanage/4gitbook.md)
-    * [GitFAQ](doc/1projectmanage/3gitFAQ.md)
-    * [Markdown](doc/1projectmanage/markdown.md)
-    * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
+      * [Markdown](doc/1projectmanage/markdown.md)
+      * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
 
 *  [2. CAD design](doc/2cad/cad.md)
     * [Assessment](doc/2cad/Assessment.md)
