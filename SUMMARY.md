@@ -17,7 +17,7 @@
     * [Wordpress web servier](doc/1projectmanage/wordpresswebservier.md)
     * [Tech Stack - HTML+CSS+Github](doc/1projectmanage/htmlcssgithub.md)
     * [Gitbook for webpage](doc/1projectmanage/git_gitbook.md)
-    * [Tool](doc/1projectmanage/Tool1Project-manage.md)
+    * [Tool](doc/1projectmanage/Tool1.md)
       * [Markdown](doc/1projectmanage/markdown.md)
       * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
 

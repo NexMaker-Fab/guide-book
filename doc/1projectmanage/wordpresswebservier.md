@@ -21,7 +21,8 @@ Structure of a WordPress Website(with LAMP):
 * [Aliyun](<https://www.aliyun.com/>)
 * [Tencent Cloud](<https://cloud.tencent.com/>)
 
-ECS with deployed WordPress environment is also provided:AMP(Apache+MySQL+PHP) (Recommended)
+(ECS with deployed WordPress environment is also provided:)
+## *AMP(Apache+MySQL+PHP) (Recommended)
 
 #### 2.2 Tutorials
 
@@ -57,4 +58,4 @@ ECS with deployed WordPress environment is also provided:AMP(Apache+MySQL+PHP) (
 
 [![MySQL](<https://labs.mysql.com/common/logos/mysql-logo.svg?v2>)](<https://www.mysql.com/>)
 
-From Zili Zhou's document  and  Xinyao Wang , WeilinZhang's edit 20200921
+From [Zili Zhou](zhouzili0911@gmail.com)'s document  and   [Xinyao Wang](xinyao_w@126.com) , [Wiley Zhang](wileyzhang001@163.com)'s edit 20200921

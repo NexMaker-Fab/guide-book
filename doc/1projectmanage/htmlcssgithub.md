@@ -25,4 +25,4 @@ git push -u origin master
 * [how to create a github pages?](https://docs.github.com/en/github/working-with-github-pages/getting-started-with-github-pages)
 
 
-From Chao Zhang's document  and  Xinyao Wang , WeilinZhang's edit 20200921
+From [Chao Zhang](zhangchaodesign@zju.edu.cn)'s document  and  [Xinyao Wang](xinyao_w@126.com) , [Wiley Zhang](wileyzhang001@163.com)'s edit 20200921
