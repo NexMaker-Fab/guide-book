@@ -56,7 +56,7 @@ Initialized empty Git repository
 `Initialized empty Git repository in /Users/douboy/Documents/nexfab`
 
 
-##3.Clone
+## 3.Clone
 
 ` $ git clone git@gitlab.com:nex-fab/guide-book.git `
 "git@gitlab.com:nex-fab/guide-book.git"get from gitlab
