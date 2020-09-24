@@ -29,8 +29,7 @@ We would use the following tool to build our own webpage
 
 * Mac
 `$ git`
-If you don't have it, OSX will ask you to install XCode Developer tools.
-If you want a new version download it from the main Git site and install like any other mac app.
+If you don't have it, OSX will ask you to install [XCode Developer tools:command line tools](developer.apple.com/download/).
 
 
 * Windows
@@ -38,8 +37,10 @@ If you want a new version download it from the main Git site and install like an
 The best way to get started on Windows is to download Git from [git web](https://git-scm.com/downloads) for Windows and install it.Now we can open [GUI BASH](https://gitforwindows.org/).
 
 
-##2.Configure,setting up local identity
+## 2.Configure,setting up local identity
+You need register [gitlab now](https://gitlab.com/) and we would use the accout later
 
+In Git
 Configure user's name, user's email ,in our case, it connect with gitlab
 
 ```

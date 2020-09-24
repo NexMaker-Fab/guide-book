@@ -18,8 +18,10 @@
     * [Tech Stack - HTML+CSS+Github](doc/1projectmanage/htmlcssgithub.md)
     * [Gitbook for webpage](doc/1projectmanage/git_gitbook.md)
     * [Tool](doc/1projectmanage/Tool1.md)
+      * [Git](http://fabacademy.org/2018/recitations/version-control.html#1)
       * [Markdown](doc/1projectmanage/markdown.md)
       * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
+  
 
 *  [2. CAD design](doc/2cad/cad.md)
     * [Assessment](doc/2cad/Assessment.md)
