@@ -1,21 +1,4 @@
 # Gitbook for webpage
-We would use the following tool to build our own webpage
-* [Git](https://git-scm.com/) is used to control our version in gitlab;
-* [Gitlab](https://gitlab.com/) is used as a servicer for our webpage;
-* [Gitbook](https://www.gitbook.com/) is a style for our webpage;
-* [Markdown  language](https://www.nexmaker.com/doc/1projectmanage/markdown.html) to write our document;
-* [Image upload service](https://www.nexmaker.com/doc/1projectmanage/imageuploadservice.html) to storage our image on cloud and used in markdwon document;
-
-#### Tool 
-
-* [Git](https://git-scm.com/downloads),mac don't need to install,it use to setting git and gitlab;
-* [Nodejs](https://nodejs.org/en/) ,it use to setting environment for gitbook;
-* [VScode](https://code.visualstudio.com/) for write document;
-* [Picgo image upload service](https://github.com/Molunerfinn/PicGo/releases/tag/v2.2.2);it is used to storage picture in gitlab;
-
-
-
-
 
 **Git Practice introduce**
 
@@ -25,6 +8,16 @@ Git is easy to learn and has a tiny footprint with lightning fast performance. I
 
 We can learn the general knowledge on[Git](https://git-scm.com/)
 We can get the detail information about git on the [Git pro](https://git-scm.com/book/en/v2)
+
+#### Tool 
+We would use the following tool to build our own webpage
+* [Git](https://git-scm.com/downloads) is used to control our version in gitlab，mac don't need to install,it use to setting git and gitlab;
+* [Nodejs](https://nodejs.org/en/) ,it use to setting environment for gitbook;
+* [Gitlab](https://gitlab.com/) is used as a servicer for our webpage;
+* [Gitbook](https://www.gitbook.com/) is a style for our webpage;
+* [VScode](https://code.visualstudio.com/) for write document;
+* [Markdown  language](https://www.nexmaker.com/doc/1projectmanage/markdown.html) to write our document;
+* [Image upload service](https://www.nexmaker.com/doc/1projectmanage/imageuploadservice.html) ，we use [Picgo](https://github.com/Molunerfinn/PicGo/releases/tag/v2.2.2) to storage our image on cloud( for example in gitlab) and used in markdwon document;
 
 
 
