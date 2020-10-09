@@ -22,7 +22,6 @@
       * [Markdown](doc/1projectmanage/markdown.md)
       * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
   
-
 *  [2. CAD design](doc/2cad/cad.md)
     * [Assessment](doc/2cad/Assessment.md)
     * [Fusion 360 prepare](doc/2cad/Fusion360prepare.md)
@@ -54,10 +53,6 @@
     * [Arduino Input](doc/5arduino/Arduino_Input.md)
     * [Arduino Output](doc/5arduino/Arduino_output.md)
     * [Arduino IOT](doc/9IOT/NodeMCUESP8266_ALiYun.md)
-
-
-
-    * [Arduino example](doc/5arduino/arduino_code.md)
     * [Library](https://www.arduino.cc/en/Tutorial/LibraryExamples)
    
 * [6. Laser cutting](doc/6laser_cutter/basic.md)
