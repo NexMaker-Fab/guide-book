@@ -50,6 +50,13 @@
     * [Assessment](doc/5arduino/assessment.md)
     * [Open source](doc/5arduino/open_source.md)
     * [Arduino Basic](doc/5arduino/arduino_basic.md)
+    * [Arduino Code](doc/5arduino/arduino_code.md)
+    * [Arduino Input](doc/5arduino/Arduino_Input.md)
+    * [Arduino Output](doc/5arduino/Arduino_output.md)
+    * [Arduino IOT](doc/9IOT/NodeMCUESP8266_ALiYun.md)
+
+
+
     * [Arduino example](doc/5arduino/arduino_code.md)
     * [Library](https://www.arduino.cc/en/Tutorial/LibraryExamples)
    
