@@ -143,6 +143,7 @@
     * CE
     * FCC
     * RoHS
+    * [LaSAR](XR/Standard/lasar.md)
   * [Supply chain](XR/supplychain/aim.md)
     * [Optical](XR/supplychain/Optical.md)
     * Chip

@@ -1,0 +1,1 @@
+2020年10月06日,英伟达日前宣布，NVIDIA CloudXR平台(NVIDIA CloudXR SDK、NVIDIA Virtual Workstation和NVIDIA AI SDKs)将采用支持英伟达V100和T4显卡的Amazon EC2 P3和G4实例，从而允许云用户将高质量的沉浸式体验流式传输到远程VR和AR设备。

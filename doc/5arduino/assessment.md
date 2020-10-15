@@ -1,6 +1,5 @@
-1. Try to build environment measure project(dust,temperature,humitidy,etc),which need include input ,output, screen, sensor,switch,LED;
-2. Add your own function
-   
+## Assessment
+
 
 ## Arduino Open source hardware and Arduino basic you and your team need do at least the following:
   

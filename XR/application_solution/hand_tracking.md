@@ -16,3 +16,12 @@ Ultraleap was formed when Leap Motion and Ultrahaptics came together in 2019. It
 So leapmotion and STRATOS can interact wiht human in input and output.
 ![](https://gitlab.com/picbed/bed/uploads/fe98065532ead2176237e1117019481d/w2b-tracking.png)
 ![](https://gitlab.com/picbed/bed/uploads/af235019f876a2811e365dcfb65cd0a2/UHP01296_VISXXX_1-00_U7_Touch_Assembled_02.png)
+
+
+## Facebook FRL Research
+FRL Research正在与康奈尔大学的研究人员开发一种搭载柔性气动执行器、可以“测量局部力”、并为用户提供“触觉反馈”的3D打印型手套。
+
+要求：轻便适应手和手指的灵活运动；足够耐用
+![](https://gitlab.com/picbed/bed/uploads/08c588b48320874088d9c25f6426ee6c/sidns.png)
+
+[参考论文](https://www.nature.com/articles/s41467-020-17816-y.pdf)
