@@ -27,7 +27,6 @@ void loop()
 ```
 
 
-
 ### 2. OUTPUT LCD displays
 
 ![](https://gitlab.com/picbed/bed/uploads/f0a8abdb86a3dcc3fee68b1f7dc3af5b/lcd_photo.png)
@@ -518,7 +517,7 @@ Reference from [Arduino.cc](https://www.arduino.cc/en/Tutorial/BuiltInExamples/t
 
 ### Relay
 
-
+Soon
 
 
 
