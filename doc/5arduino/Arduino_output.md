@@ -488,7 +488,10 @@ We can learn ULN 2003AN information in the following web:[Ti](https://www.ti.com
 ![](https://gitlab.com/picbed/bed/uploads/023f80978f9310c798cb7ab8d22246a6/Tone_Fritzing.png)
 
 ![](https://gitlab.com/picbed/bed/uploads/3668ee44de6e52ea85624dd9f43e42d4/Tone_Schematic.png)
+
+**Example1**
 ```
+
 void setup() {
 
 }
@@ -514,6 +517,111 @@ void loop() {
 }
 ```
 Reference from [Arduino.cc](https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody)
+
+**Example2: music**
+we  need "buzzer.ino" as main programming and "music_note.c" as attachment.
+
+*buzzer.ino*
+```
+
+#include "music_note.c" //phonetic signs
+
+int buzzer=3; 
+int scale[]={G,A,EE,A,G,A,G,A,EE,A,G,
+             A,EE,A,G,A,E,
+             G,D,E,G,A,B,
+             A,EE,A,G,A,G,
+             A,EE,B,CC,B,CC,B,A,E,
+             D,E,G,A,B,A,EE,A,G,A,
+             G,A,EE,A,G,A,EE,A,G,A,
+             E,G,D,E,G,A,B,A,EE,A,G,A,
+             G,A,EE,B,CC,B,CC,DD,EE,AA};  //melody
+float duration[]={2,1,1,1,1,7,1,1,1,1,1,
+                  1,1,1,1,3,1,
+                  3,1,1,1,1,1,
+                  1,1,1,1,7,1,
+                  1,1,1,1,1,1,1,1,6,
+                  1,1,1,1,1,1,1,1,1,7,
+                  1,1,1,1,1,1,1,1,1,3,
+                  1,3,1,1,1,1,1,1,1,1,1,7,
+                  1,1,1,1,1,1,1,1,1,4}; //时间
+int len=0;                 
+void setup() {
+  pinMode(buzzer,OUTPUT);
+  len=sizeof(scale)/sizeof(scale[0]);
+}
+
+void loop() {
+  for(int i=0;i<len;i++){ 
+    tone(buzzer,scale[i]);
+    delay(250*duration[i]);
+    noTone(buzzer);
+    delay(100);
+  }
+  delay(1000);
+
+}
+```
+*music_note.c*
+```
+
+/**
+**	
+*/
+//音符唱名记法
+#define Do  262
+#define Re  294
+#define Mi  330
+#define Fa  350
+#define Sol 393
+#define La  441
+#define Si  495
+#define Doo 882 
+
+//音名记法
+#define C  262
+#define D  294
+#define E  330
+#define F  350
+#define G 393
+#define A  441
+#define B  495
+#define CC 525
+#define DD 589
+#define EE 661
+#define AA 882
+
+/**
+**	音符表，记录乐谱用到的音的频率
+*/
+//音符唱名记法
+#define Do  262
+#define Re  294
+#define Mi  330
+#define Fa  350
+#define Sol 393
+#define La  441
+#define Si  495
+#define Doo 882 
+
+//音名记法
+#define C  262
+#define D  294
+#define E  330
+#define F  350
+#define G 393
+#define A  441
+#define B  495
+#define CC 525
+#define DD 589
+#define EE 661
+#define AA 882
+
+
+#define O -1 //no sound
+
+```
+
 
 ### Relay
 
