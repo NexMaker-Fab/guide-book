@@ -624,12 +624,51 @@ void loop() {
 
 
 ### Relay
+![](https://gitlab.com/picbed/bed/uploads/f30a4df0c354685c88cbaf905c5e7877/Relay-Construction.jpg)
 
-Soon
+[A relay is an electromagnetic switch that uses a small current to drive a larger circuitry. Basically, a signal is applied at the input which switches on another circuit connected at the output, without the need of human supervision.
 
+Relays work on the principle of electromagnetic induction, which implies that if current passes through a coil that is wound around a piece of metal, then a magnetic field will be produced by the current, turning the metal core into an electromagnet.](https://solectroshop.com/en/blog/a-beginners-guide-to-using-relay-modules-in-arduino-projects-n28)
+
+
+
+<font color=#FF0000 size=18>Remind:safety is most important,  you just can practice in the supervise</font>
+![](https://gitlab.com/picbed/bed/uploads/e23a786735b5cd8a5b7e7470ffdf5942/Relay_cableado.png)
+
+
+
+
+We will consider the example of a very simple project – switching on an AC bulb using a relay. For this, you will need a relay module, an Arduino (we are using an UNO board here), an AC bulb and a power cord with a 2-pin plug. First, take the power cord and separate the live and neutral wires present inside it. Connect the live (red) wire with the bulb and connect the neutral (black or blue) wire to the normally open (NO) connector on the relay module. Then, connect the second wire of the bulb to the COM connector on the relay module. This is how you connect a relay with an AC bulb for switching purposes.
+
+Now, we need to supply power to the relay module and supply it with a signal from the Arduino that tells the relay to switch the bulb on and off. For this, you need to connect the pin with a minus (-) sign on the relay module to the ground (GND) on Arduino and the positive (+) pin of the relay module to the 5V supply on your Arduino board. The third pin left on the relay module is the command pin, which must be connected to an I/O pin on Arduino. We are considering pin 7 for this purpose. You can choose any digital I/O pin that you like, but make sure to program your Arduino accordingly. 
+
+After connecting the hardware as described, you need to write a simple code that establishes pin 7 as an output pin and sends a signal to switch the bulb on and off via the relay module. Here is how you can write the code for the circuit shown in the picture above.
+
+```
+void setup() {
+
+  // initialize the digital pin as an output.
+
+  pinMode(7, OUTPUT);
+
+}
+
+void loop() {
+
+  digitalWrite(7, HIGH);   // turn the BULB on (HIGH is the voltage level)
+
+  delay(1000);               // wait for a second
+
+  digitalWrite(7, LOW);    // turn the BULB off by making the voltage LOW
+
+  delay(1000);               // wait for a second
+
+}
+```
 
 
 ## Reference
 
 * [Arduino.cc](https://www.arduino.cc/en/Reference/Stepper)
 * [Tinkercad](https://www.tinkercad.com/)
+* [Solectroshop](https://solectroshop.com/en/blog/a-beginners-guide-to-using-relay-modules-in-arduino-projects-n28)
