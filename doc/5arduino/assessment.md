@@ -11,7 +11,7 @@
 * Find some open source projects which are similar with  your final project, compare advantage and disadvantage
 
 
-## Arduino output
+## Arduino Output
 * Do project which contain LED, relay, motor ,1602 screen
 
 ## Arduino Input
