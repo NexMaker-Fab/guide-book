@@ -138,6 +138,7 @@
     * [Ximmerse](XR/brand/XIMMERSE.md)
     * [Rokid](XR/brand/rokid.md)
     * [HiAR](XR/brand/hiar.md)
+    * [Pimax](XR/brand/pimax.md)
 
   * [Industry Standard](XR/Standard/aim.md)
     * [OpenXR](XR/Standard/OpenXR.md) 
