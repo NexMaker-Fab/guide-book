@@ -151,3 +151,8 @@ We finish the NC data program. In next step,we need use CNC to manufacture it.
 ## Reference
 
 * [Autodesk Fusion 360 manufacture(CAM) detail ](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-BEC5DEA9-AC3E-4FA8-998E-4AE8CD0D0B1E)
+
+
+
+
+**This document support by Bob Wu and Ciel Luo 20201020**

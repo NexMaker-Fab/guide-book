@@ -46,3 +46,8 @@ In Candle software, click <font color=Blue >Send</font> to run the machine
 * [Candle software](https://github.com/Denvi/Candle) 
 * [DIY CNC machine](https://item.taobao.com/item.htm?spm=a230r.1.14.85.736a3286COaS7g&id=605504955634&ns=1&abbucket=18#detail)
  
+
+
+
+
+**This document support by Bob Wu and Ciel Luo 20201020**
