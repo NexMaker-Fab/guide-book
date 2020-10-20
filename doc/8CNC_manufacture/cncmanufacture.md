@@ -36,3 +36,13 @@ Use hand to fix the spindle and then use tool to fix again.
 ## 3. Running the machine
 Before running the machine ,please check the following aspect again:<font color=Red >Wear mask,keep the machine clean, don't put body near  the machine during operation</font>
 In Candle software, click <font color=Blue >Send</font> to run the machine
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sweTLV0GCKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Reference
+* [Candle software](https://github.com/Denvi/Candle) 
+* [DIY CNC machine](https://item.taobao.com/item.htm?spm=a230r.1.14.85.736a3286COaS7g&id=605504955634&ns=1&abbucket=18#detail)
+ 

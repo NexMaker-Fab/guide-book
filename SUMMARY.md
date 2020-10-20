@@ -72,7 +72,6 @@
 * [8. CNC manufacture](https://astromachineworks.com/what-is-cnc-machining/)
     * [Assessment](doc/8CNC_manufacture/Assessment.md)
     * [Tool](doc/8CNC_manufacture/tool.md)
-    * [Design rule](doc/8CNC_manufacture/CNCpcbsetting.md)
     * [Program](doc/8CNC_manufacture/cncprogram.md)
     * [Manufacture](doc/8CNC_manufacture/cncmanufacture.md)
 
