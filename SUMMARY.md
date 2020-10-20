@@ -66,11 +66,15 @@
     * Assessment
     * Tool
     * [PCB](https://www.nexpcb.com/blog/what-is-a-printed-circuit-board-basic-pcb-concepts)
+    * SMT
+    * Manual Soldering
 		
 * [8. CNC manufacture](https://astromachineworks.com/what-is-cnc-machining/)
-    * Assessment
-    * Tool
-    * Design rule
+    * [Assessment](doc/8CNC_manufacture/Assessment.md)
+    * [Tool](doc/8CNC_manufacture/tool.md)
+    * [Design rule](doc/8CNC_manufacture/CNCpcbsetting.md)
+    * [Program](doc/8CNC_manufacture/cncprogram.md)
+    * [Manufacture](doc/8CNC_manufacture/cncmanufacture.md)
 
 *  [9. IOT and Interaction](https://en.wikipedia.org/wiki/Internet_of_Things)
     * [Assessment](doc/9IOT/Assessment.md)
