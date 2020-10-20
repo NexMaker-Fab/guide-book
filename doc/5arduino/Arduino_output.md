@@ -1,7 +1,7 @@
 
 ## OUTPUT
 
-### 1. OUTPUT:LED
+### 1. LED
 [Tinkercad](https://www.tinkercad.com/)(we can use autodesk account to signin)
 We can use Tinkercad to draw the circuit,coding,even simulation.
 ![](https://gitlab.com/picbed/bed/uploads/7d11837cdd18f5823c819aed39d3f9f5/1586871622107.jpg)
@@ -27,7 +27,7 @@ void loop()
 ```
 
 
-### 2. OUTPUT LCD displays
+### 2.  LCD displays
 
 ![](https://gitlab.com/picbed/bed/uploads/f0a8abdb86a3dcc3fee68b1f7dc3af5b/lcd_photo.png)
 ![](https://gitlab.com/picbed/bed/uploads/b3403ee8256dd4ce28c61e31719b3377/LCD_Base_bb_Fritz.png)

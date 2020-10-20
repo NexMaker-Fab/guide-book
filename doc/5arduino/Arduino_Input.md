@@ -1,10 +1,10 @@
 
 ## Arduino Input
-### 1. Input:switch
+### 1. Switch
 We can use swith to control the circuit, in this case we use pin 7 as input port
 ![](https://gitlab.com/picbed/bed/uploads/e8692696c7583ae1fcd16918f94087d8/WX20200414-220404_2x.png)
 
-```
+```cpp
 const int LED1=12;
 const int LED2=13;
 int val=0; 
@@ -31,11 +31,11 @@ delay(1000);
 ```
 
 
-### 2. Input: air sensor
+### 2.  Air sensor
  We use MQ-2 air sensor to do this test
 
  ![](https://gitlab.com/picbed/bed/uploads/015c4cc84f7fe84d194f026fff4d20f9/WX20200415-152026_2x.png)
-```
+```cpp
  void setup()
 {
     Serial.begin(9600);
@@ -50,11 +50,11 @@ void loop()
 ```
 
 
-### 3. temperature sensor
+### 3. Temperature sensor
 ![](https://gitlab.com/picbed/bed/uploads/39121a601bd52777197a4c9b5de46621/temperature_tmp36pinout.gif)
 ![](https://gitlab.com/picbed/bed/uploads/831b78bcdd7c99281cbcc60f55bf0b5d/TMP36GZ.jpg)
 
-```
+```cpp
 const int temperaturePin = 0;
 
 void setup()
@@ -89,14 +89,14 @@ float getVoltage(int pin)
 }
 ```
 
-### 4.  Input:Sharp GP2Y10
+### 4.Sharp GP2Y10
 
 
 
 ![](https://gitlab.com/picbed/bed/uploads/6f700260306bc7f920364993e5e7cd44/9770feae06.png
 )
 
-```
+```cpp
 #define        COV_RATIO                           0.17           // (ug/m3) / mv
 #define        NO_DUST_VOLTAGE         600            // mv
 #define        SYS_VOLTAGE                     5000          // ADC参考电压    
@@ -192,3 +192,90 @@ void loop(void)
   delay(1000);
 }
 ```
+
+
+
+### 5. Ultrasonic sensor 
+
+|Name|Parameter|
+|----|----|
+|Voltage|DC 5V|
+|Current|15mA|
+|Ultrasonic frequence|40KHz|
+|Distance|20mm~4000mm|
+|Precision|3mm|
+|Degree|15|
+|Signal|10us TTL|
+
+
+
+##### Example 
+
+```cpp
+// circuit
+
+/*
+Arduino		SR04
+5V		---	VCC
+A0		---	Trig
+A1		---	Echo
+GND		---	GND
+*/
+
+// pin setting
+
+#define TrigPin A0	
+// __|^|_____________
+// 10us or more HITH SIGNAL will drive it work for one time
+
+#define EchoPin A1	
+// ______|^^^^^^^^|__ 
+// PULSE WIDTH stand for distance(the time of ultrasound transmit, both go and back)
+// pulse width WILL NOT long than 38ms, it means timeout
+// Distance = Speed x Time
+// Speed of sound ~= 340m/s = 0.340mm/us
+
+int count = 0;
+
+long duration;
+// PULSE WIDTH
+
+void setup() {
+    // set Serial communication
+    Serial.begin(115200);
+    // set pin mode
+    pinMode(TrigPin, OUTPUT);
+    pinMode(EchoPin, INPUT);
+    // init pin
+    digitalWrite(TrigPin, LOW);
+    delay(1);
+}
+
+void loop() {
+    Serial.println(count++);
+    Serial.println(getDistance());
+    Serial.println("");
+    Serial.println("");
+    delay(1000);
+}
+
+long getDistance() {
+    // trig
+    digitalWrite(TrigPin, LOW);
+    delayMicroseconds(2);
+    digitalWrite(TrigPin, HIGH);
+    delayMicroseconds(10);
+    digitalWrite(TrigPin, LOW);
+    // echo
+    duration = pulseIn(EchoPin, HIGH); 	// unit: us
+    return duration * 0.34029 / 2; 		// unit: mm
+}
+
+```
+##### reference
+
+[Arduino:HC-SR04  ultrasonic sensor](https://www.qutaojiao.com/8643.html)
+
+[Arduino in W3CSCHOOL](https://www.w3cschool.cn/arduino/arduino_ultrasonic_sensor.html)
+
+[Arduino PIR sensor](https://www.w3cschool.cn/arduino/arduino_pir_sensor.html)
