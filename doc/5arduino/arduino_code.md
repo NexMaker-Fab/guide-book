@@ -1,7 +1,7 @@
 ## Basic Language Reference
 ### 1. Digital I/O
 
-```
+```cpp
 int ledPin = 13;  // LED connected to digital pin 13
 int inPin = 7;    // pushbutton connected to digital pin 7
 int val = 0;      // variable to store the read value
@@ -50,7 +50,7 @@ void loop() {
 * 2.1 analogRead(pin)
     * Example Code:The code reads the voltage on analogPin and displays it.
 
-  ```
+  ```cpp
   int analogPin = A3; // potentiometer wiper (middle terminal) connected to analog pin 3
                     // outside leads to ground and +5V
   int val = 0;  // variable to store the value read
@@ -83,7 +83,7 @@ void loop() {
   * Returns:Nothing
   * Example Code:Sets the output to the LED proportional to the value read from the potentiometer.
  
-  ```
+  ```cpp
   int ledPin = 9;      // LED connected to digital pin 9
   int analogPin = 3;   // potentiometer connected to analog pin 3
   int val = 0;         // variable to store the read value
@@ -119,7 +119,7 @@ void loop() {
     * b: if x is greater than b.
   * Example Code:The code limits the sensor values to between 10 to 150.
     
-    ```
+    ```cpp
     sensVal = constrain(sensVal, 10, 150); 
     // limits range of sensor values to between 10 and 150
 
@@ -136,7 +136,7 @@ void loop() {
     * min:The larger of the two parameter values.
   * Example Code:The code ensures that sensVal is at least 20.
   
-  ```
+  ```cpp
   sensVal = max(sensVal, 20);
   // assigns sensVal to the larger of sensVal or 20
   ```
@@ -179,7 +179,7 @@ void loop() {
 ### 5. Communication
 * 5.1 Serial.begin()
 
-    ```
+    ```cpp
     void setup() {
       Serial.begin(9600); // opens serial port, sets data rate to 9600 bps
     }
@@ -192,7 +192,7 @@ void loop() {
 
 * 5.2 Serial.write()
 
-    ```
+    ```cpp
     void setup() {
      Serial.begin(9600);
     }
@@ -214,7 +214,7 @@ void loop() {
 
  Description:Prints data to the serial port as human-readable ASCII text. This command can take many forms. Numbers are printed using an ASCII character for each digit. Floats are similarly printed as ASCII digits, defaulting to two decimal places. Bytes are sent as a single character. Characters and strings are sent as is. 
 
-  ```
+  ```cpp
   Serial.print(78) 
   ```
   Result :gives "78"
@@ -227,7 +227,7 @@ void loop() {
   * Returns:Nothing
   * Example Code:The code pauses the program for one second before toggling the output pin.
 
-    ```
+    ```cpp
     int ledPin = 13;              // LED connected to digital pin 13
 
     void setup() {

@@ -61,7 +61,7 @@ get Alibaba Cloud's  device information(Product key,Device name,Device secrect)
 
 ![](https://gitlab.com/picbed/bed/uploads/5081bf40696869151c19607d9c9ff4cd/deviceinformation.png)
 
-```
+```cpp
 #define PRODUCT_KEY     "******"//1.exchange  PRODUCT_KEY
 #define DEVICE_NAME     "******"//2.exchange  DEVICE_NAME
 #define DEVICE_SECRET   "******"//3.exchange DEVICE_SECRET
@@ -69,14 +69,14 @@ get Alibaba Cloud's  device information(Product key,Device name,Device secrect)
 Fill your WiFi's name and password, if there is no password,just delete "******"and keep it empty
 
 
-```
+```cpp
 #define WIFI_SSID       "******"//4.exchange WIFI
 #define WIFI_PASSWD     "******"//5.exchange WIFI password
 ```
 
 Define setting post data and get data 
 
-```
+```cpp
 void mqtt_interval_post()
 {
     char param[512];

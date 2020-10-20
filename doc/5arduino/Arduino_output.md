@@ -7,7 +7,7 @@ We can use Tinkercad to draw the circuit,coding,even simulation.
 ![](https://gitlab.com/picbed/bed/uploads/7d11837cdd18f5823c819aed39d3f9f5/1586871622107.jpg)
 ![](https://gitlab.com/picbed/bed/uploads/e864b069379a90bf83f9521268adfd73/Screen_Shot_2020-04-14_at_21.38.14.png)
 
-```
+```cpp
 int LED1=12;
 int LED2=13;
 void setup()
@@ -34,7 +34,7 @@ void loop()
 ![](https://gitlab.com/picbed/bed/uploads/1330716fffb7ce1d6e07ac6446c25863/LCD_Base_bb_Schem__1_.png)
 
 
-```
+```cpp
 /*
   LiquidCrystal Library - Hello World
 
@@ -110,7 +110,7 @@ Connect this 8*8 LED matrix with Arduino UNO
 
 The following show another method
 
-```
+```cpp
 int C[] = {2,7,A5,5,13,A4,12,A2};   
 
 int R[] = {6,11,10,3,9,8,4,A3};     
@@ -193,7 +193,7 @@ void Clear()                          //clear
 ![](https://gitlab.com/picbed/bed/uploads/f0e0576d4c2b0165315b4d0a6c81d234/5-1557192084.jpg)
 *Remind:Example1 and example2 use same connection*
 **Example1:4numbers**
-```
+```cpp
 
 int ledCount=8;
 
@@ -293,7 +293,7 @@ i=0;
 ```
 
 **Example2:timer**
-```
+```cpp
 int ledCount=8;
 
 int segCount=4;
@@ -393,7 +393,7 @@ i=0;
 **Example3:Nixie tube**
 
 ![](https://gitlab.com/picbed/bed/uploads/bba1be4ffacfce45a9ebb29814e438af/20190716212343308.jpg)
-```
+```cpp
 
 int pin_a = 7;
 int pin_b = 6;
@@ -451,7 +451,7 @@ delay(200);
 ### 5. Serve motor
 
 ![](https://gitlab.com/picbed/bed/uploads/bfe44b250cd86b93d92d6957812e12a2/sg0.png)
-```
+```cpp
 #include <Servo.h>
  
 #define PIN_SERVO 10
@@ -490,7 +490,7 @@ We can learn ULN 2003AN information in the following web:[Ti](https://www.ti.com
 ![](https://gitlab.com/picbed/bed/uploads/3668ee44de6e52ea85624dd9f43e42d4/Tone_Schematic.png)
 
 **Example1**
-```
+```cpp
 
 void setup() {
 
@@ -522,7 +522,7 @@ Reference from [Arduino.cc](https://www.arduino.cc/en/Tutorial/BuiltInExamples/t
 we  need "buzzer.ino" as main programming and "music_note.c" as attachment.
 
 *buzzer.ino*
-```
+```cpp
 
 #include "music_note.c" //phonetic signs
 
@@ -563,7 +563,7 @@ void loop() {
 }
 ```
 *music_note.c*
-```
+```cpp
 
 /**
 **	
@@ -644,7 +644,7 @@ Now, we need to supply power to the relay module and supply it with a signal fro
 
 After connecting the hardware as described, you need to write a simple code that establishes pin 7 as an output pin and sends a signal to switch the bulb on and off via the relay module. Here is how you can write the code for the circuit shown in the picture above.
 
-```
+```cpp
 void setup() {
 
   // initialize the digital pin as an output.
