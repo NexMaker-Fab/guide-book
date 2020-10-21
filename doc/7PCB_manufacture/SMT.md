@@ -10,14 +10,14 @@
 SMT involves a wide variety of parts and styles, many of which have formed industry-wide standards. These are mainly chips, capacitors, resistors, and other types of components. Many are still undergoing constant changes, especial IC parts. 
 **The part specifications** is the external dimensions of part. The size specifications of standard parts are expressed in Metric representation(1206 0805 0603 0402) ,Imperial representation(3216 2125 1608 1005)
 
-#### 2.1 Resistor
+#### 2.1. Resistor
 A resistor is an electrical component that limits or regulates the flow of electrical current in an electronic circuit.The following is different kinds of resistors
 ![](https://gitlab.com/picbed/bed/uploads/32d9c45fcfbf1f72fc83631d6e31a3ad/SMT_Chip_Resistor_1.png)
 The shape of resistor in SMT is the following picture 
 
 ![](https://gitlab.com/picbed/bed/uploads/7169e2954e966f7c36bbd563c4d700fc/Screen_Shot_2020-10-21_at_14.10.44.png)
 
-#### 2.2 Capacitor
+#### 2.2. Capacitor
 
 
 A capacitor is a device that stores electrical energy in an electric field(C=Q/U,1F= 10^3^mF =10^6^μF =10^9^nF=10^12^pF）. It is a passive electronic component with two terminals.Can be divided into two categories: non-polar and polar
@@ -27,7 +27,7 @@ A capacitor is a device that stores electrical energy in an electric field(C=Q/U
 ![](https://gitlab.com/picbed/bed/uploads/1682e19d733ed671c2c01d2399b1eaa3/Solid-And-Polymer-Tantalum-Capacitors-Vs.-SMT-MLCCs-1100x477.jpg)
 ![](https://gitlab.com/picbed/bed/uploads/f237915c315123fde03c4f60b53d4ee0/Capacitors__7189597135_.jpg)
 
-#### 2.3 Diode
+#### 2.3. Diode
 
 There are three types of commonly used packaging: 0805, 1206, 1210. According to the limits of the current, the package form is roughly divided into two categories.
 
@@ -36,7 +36,7 @@ There are three types of commonly used packaging: 0805, 1206, 1210. According to
 
 In addition ,Light-emitting diodes: the colors are red, yellow, green, and blue. The brightness is bright, bright, and super bright.
 
-#### 2.4 IC parts
+#### 2.4. IC parts
 
 * SOP (Small Outline Package): The parts have feet on both sides and the feet are flared outward (generally called gull wing type pins).
 * SOJ (small outline J-lead package): The part has feet on both sides, and the foot is bent toward the bottom of the part (J-type pin).
@@ -73,7 +73,7 @@ In addition,we need learn the following points:
 
 
 
-## 4 Steel mesh
+## 4. Steel mesh
 
 Stencil printing is contact printing, so the thickness of the stencil and the size of the aperture determine the amount of solder paste needed to print. Too much solder paste will produce a short circuit, whereas too little solder paste will produce solder shortage at the solder joints,the template and shape of the aperture and the smoothness of the opening which can also affect the quality of the release. Additionally, the template aperture must have a bell-shaped mouth, otherwise the solder paste will be removed from the chamfering of the bell jar during demolding.
 ![](https://gitlab.com/picbed/bed/uploads/584dc1c9fd037cf25ef8523e594f60de/Printing_machine_and_steel_mesh.png)
@@ -82,7 +82,7 @@ Stencil printing is contact printing, so the thickness of the stencil and the si
 
 
 
-## 5 Solder paste printing
+## 5. Solder paste printing
 ![](https://gitlab.com/picbed/bed/uploads/f90985c28ba206202743d58c47832320/Screen_Shot_2020-10-21_at_11.30.16.png)
 
 The picture reference from [semanticscholar](https://www.semanticscholar.org/paper/DMAIC-Approach-to-Improve-the-Capability-of-SMT-Li-Al-Refaie/99d7d6d9ecf5301336d6653fb0a81d04abf1f46f) 
@@ -94,10 +94,10 @@ The viscous friction of the solder paste causes the solder paste to shear at the
 
 
 
-## 6  Mounting
+## 6.  Mounting
 ![](https://gitlab.com/picbed/bed/uploads/8f0f5bff14696de7e3c3fc4129f2be59/Capture4.png)
 ![](https://gitlab.com/picbed/bed/uploads/c69b5a9a12788bedbab09c296b97ba55/ezgif.com-video-to-gif-2.gif)
-## 7 Reflow
+## 7. Reflow
 With the increase of assembly density, Nitrogen for Reflow Process were created and it has the following advantage:
 * Prevents oxidation in components during heating
 * Improves the wetting power of welding and speed up the wetting speed
@@ -119,7 +119,7 @@ Reflow soldering is an extremely vital step in the SMT process. The temperature 
 
 * **Cooling zone** to gradually cool the processed board and solidify the solder joints. Proper cooling inhibits excess intermetallic formation or thermal shock to the components. Typical temperatures in the cooling zone range from 30–100 °C (86–212 °F). A cooling rate of 4°C/s is commonly suggested. It is a parameter to consider when analyzing process results.
 
-## 8 CHECKING
+## 8. CHECKING
 
 * AOI: The term AOI stands for Automatic optical inspection in which an inspection machine take pictures or measure height , volume and area (using laser beam) of SMT material and compare it to reference (image frame or value) and decide if it's defect or good product
 
