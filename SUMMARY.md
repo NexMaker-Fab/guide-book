@@ -67,7 +67,7 @@
 * [7. PCB manufacture](https://www.nexpcb.com/blog/smt-pcb-puzzle)
     * Assessment
     * Tool
-    * [PCB](https://www.nexpcb.com/blog/what-is-a-printed-circuit-board-basic-pcb-concepts)
+    * [PCB](doc/4electric_design/electricparameter_component.md)
     * SMT
     * Manual Soldering
 		
