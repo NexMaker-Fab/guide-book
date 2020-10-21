@@ -39,9 +39,9 @@
     * [SLA background](doc/3_3dprinter/6.SLAbackground.md)
     * [Slice software](doc/3_3dprinter/3Dslicesoftware.md)
 
-* [4. Electric design ](doc/4electric_design_and_manfucture/basicknowledge.md)
-    * [Assessment](doc/4electric_design_and_manfucture/Assessment.md)
-    * [Electric component](doc/4electric_design_and_manfucture/electricparameter_component.md)
+* [4. Electric design ](doc/4electric_design/basicknowledge.md)
+    * [Assessment](doc/4electric_design/Assessment.md)
+    * [Electric component](doc/4electric_design/electricparameter_component.md)
     * [EAGLE](https://knowledge.autodesk.com/support/eagle/troubleshooting/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-now-included-with-Fusion-360.html)
     * [Fusion 360 electronics](https://www.autodesk.com/products/fusion-360/electronics-engineer)
 
