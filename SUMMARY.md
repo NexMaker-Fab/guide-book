@@ -65,11 +65,10 @@
     * [Machine practice](doc/6laser_cutter/Machine_practice.md)
   
 * [7. PCB manufacture](https://www.nexpcb.com/blog/smt-pcb-puzzle)
-    * Assessment
-    * Tool
+    * [Assessment](doc/8CNC_manufacture/Assessment.md)
     * [PCB](doc/4electric_design/electricparameter_component.md)
-    * SMT
-    * Manual Soldering
+    * [SMT](doc/7PCB_manufacture/SMT.md)
+    * [Manual Soldering](doc/7PCB_manufacture/manual.md)
 		
 * [8. CNC manufacture](https://astromachineworks.com/what-is-cnc-machining/)
     * [Assessment](doc/8CNC_manufacture/Assessment.md)
