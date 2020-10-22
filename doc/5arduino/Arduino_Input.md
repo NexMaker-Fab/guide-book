@@ -273,13 +273,10 @@ void loop() {
 
 #### 6. IR-remote:
 
-![遥控器与接收器](https://upload-images.jianshu.io/upload_images/1437476-d078b4886cde7d74.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/600/format/webp)
+![](https://gitlab.com/picbed/bed/uploads/eabd8ceb348af1596368633ad55794a6/WechatIMG21.png)
 
+![](https://gitlab.com/picbed/bed/uploads/e367029fd38ab5be80796359e0f054e2/WechatIMG22.png)
 
-
-![电路接线图1](https://upload-images.jianshu.io/upload_images/1437476-725f1c84b5662aee.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/700/format/webp)
-
-![电路接线图2](https://upload-images.jianshu.io/upload_images/1437476-f404cacd109ae5ad.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/600/format/webp)
 
 *  Library
    *  在库管理器中安装 IR-remote 库文件
