@@ -2,7 +2,7 @@
 ## Arduino Input
 ### 1. Switch
 We can use swith to control the circuit, in this case we use pin 7 as input port
-![](https://gitlab.com/picbed/bed/uploads/e8692696c7583ae1fcd16918f94087d8/WX20200414-220404_2x.png)
+![](https://gitlab.com/picbed/bed/uploads/bde2c8d1973b1726a17db1c23e7e18c2/Screen_Shot_2020-10-22_at_15.20.02.png)
 
 ```cpp
 const int LED1=12;
