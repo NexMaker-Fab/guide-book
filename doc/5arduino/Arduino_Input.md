@@ -187,11 +187,204 @@ void loop()
 ```
 
 
+### 5. DHT-11: 温湿度传感器
+
+![DHT-11](https://exp-picture.cdn.bcebos.com/fb738d9c2cf7dfb2348d5598d01b1edef5dc1329.jpg?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_500%2Climit_1)
+
+电路接线图:
+
+![接线图](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603355783986&di=9005eb341a2820dc2824a7b296a83495&imgtype=0&src=http%3A%2F%2Fsimple-circuit.com%2Fwp-content%2Fuploads%2F2018%2F11%2Farduino-nokia-5110-dht11-circuit.png)
+
+
+* 引入库文件:
+  * 在库管理器中安装 DHTsensor 库文件
+  * 通过 菜单栏-项目-加载库 加载 DHT Sensor library
 
 
 
 
-### 5.Sharp GP2Y10
+```cpp
+// Example testing sketch for various DHT humidity/temperature sensors
+// Written by ladyada, public domain
+
+// REQUIRES the following Arduino libraries:
+// - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
+// - Adafruit Unified Sensor Lib: https://github.com/adafruit/Adafruit_Sensor
+
+#include "DHT.h"
+
+#define DHTPIN 2     // Digital pin connected to the DHT sensor
+// Feather HUZZAH ESP8266 note: use pins 3, 4, 5, 12, 13 or 14 --
+// Pin 15 can work but DHT must be disconnected during program upload.
+
+// Uncomment whatever type you're using!
+//#define DHTTYPE DHT11   // DHT 11
+#define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321
+//#define DHTTYPE DHT21   // DHT 21 (AM2301)
+
+// Connect pin 1 (on the left) of the sensor to +5V
+// NOTE: If using a board with 3.3V logic like an Arduino Due connect pin 1
+// to 3.3V instead of 5V!
+// Connect pin 2 of the sensor to whatever your DHTPIN is
+// Connect pin 4 (on the right) of the sensor to GROUND
+// Connect a 10K resistor from pin 2 (data) to pin 1 (power) of the sensor
+
+// Initialize DHT sensor.
+// Note that older versions of this library took an optional third parameter to
+// tweak the timings for faster processors.  This parameter is no longer needed
+// as the current DHT reading algorithm adjusts itself to work on faster procs.
+DHT dht(DHTPIN, DHTTYPE);
+
+void setup() {
+  Serial.begin(9600);
+  Serial.println(F("DHTxx test!"));
+
+  dht.begin();
+}
+
+void loop() {
+  // Wait a few seconds between measurements.
+  delay(2000);
+
+  // Reading temperature or humidity takes about 250 milliseconds!
+  // Sensor readings may also be up to 2 seconds 'old' (its a very slow sensor)
+  float h = dht.readHumidity();
+  // Read temperature as Celsius (the default)
+  float t = dht.readTemperature();
+  // Read temperature as Fahrenheit (isFahrenheit = true)
+  float f = dht.readTemperature(true);
+
+  // Check if any reads failed and exit early (to try again).
+  if (isnan(h) || isnan(t) || isnan(f)) {
+    Serial.println(F("Failed to read from DHT sensor!"));
+    return;
+  }
+
+  // Compute heat index in Fahrenheit (the default)
+  float hif = dht.computeHeatIndex(f, h);
+  // Compute heat index in Celsius (isFahreheit = false)
+  float hic = dht.computeHeatIndex(t, h, false);
+
+  Serial.print(F("Humidity: "));
+  Serial.print(h);
+  Serial.print(F("%  Temperature: "));
+  Serial.print(t);
+  Serial.print(F("°C "));
+  Serial.print(f);
+  Serial.print(F("°F  Heat index: "));
+  Serial.print(hic);
+  Serial.print(F("°C "));
+  Serial.print(hif);
+  Serial.println(F("°F"));
+}
+
+```
+
+#### 6. IR-remote:
+
+![遥控器与接收器](https://upload-images.jianshu.io/upload_images/1437476-d078b4886cde7d74.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/600/format/webp)
+
+
+
+![电路接线图1](https://upload-images.jianshu.io/upload_images/1437476-725f1c84b5662aee.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/700/format/webp)
+
+![电路接线图2](https://upload-images.jianshu.io/upload_images/1437476-f404cacd109ae5ad.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/600/format/webp)
+
+*  Library
+   *  在库管理器中安装 IR-remote 库文件
+   *  通过 菜单栏-项目-加载库 加载 IRremote 
+
+* Example
+
+
+```cpp
+/*
+ * IRrecvDemo
+ * 红外控制，接收红外命令控制板载LED灯亮灭
+ */
+
+#include <IRremote.h>
+
+int RECV_PIN = 11;
+int LED_PIN = 13;
+
+IRrecv irrecv(RECV_PIN);
+
+decode_results results;
+
+void setup()
+{
+  Serial.begin(9600);
+  irrecv.enableIRIn(); // Start the receiver
+  pinMode(LED_PIN, OUTPUT);
+  digitalWrite(LED_PIN, HIGH);
+}
+
+void loop() {
+  if (irrecv.decode(&results)) {
+    Serial.println(results.value, HEX);
+    if (results.value == 0xFFA25D) //开灯的值
+    {
+      digitalWrite(LED_PIN, LOW);
+    } else if (results.value == 0xFF629D) //关灯的值
+    {
+      digitalWrite(LED_PIN, HIGH);
+    }
+    irrecv.resume(); // Receive the next value
+  }
+  delay(100);
+}
+
+```
+
+
+
+
+
+### 7. Keypad
+
+![](https://gitlab.com/picbed/bed/uploads/521c1059e701576e9521f44873db7dd5/Screen_Shot_2020-10-22_at_12.26.43.png)
+
+Add Library in   Sketch/Include Library/Manage Libraries
+
+![](https://gitlab.com/picbed/bed/uploads/06d98b0e17ffa0e3103d49c76a92d632/WX20201022-123119_2x.png)
+
+
+```cpp
+
+#include <Keypad.h>
+
+
+ 
+const byte ROWS = 4; //four rows
+const byte COLS = 4; //three columns
+char keys[ROWS][COLS] = {
+  {'1','2','3','A'},
+  {'4','5','6','B'},
+  {'7','8','9','C'},
+  {'*','0','#','D'}
+};
+byte rowPins[ROWS] = {5, 4, 3, 2}; //connect to the row pinouts of the keypad
+byte colPins[COLS] = {9,8, 7, 6}; //connect to the column pinouts of the keypad
+ 
+Keypad keypad = Keypad( makeKeymap(keys), rowPins, colPins, ROWS, COLS );
+ 
+void setup(){
+  Serial.begin(9600);
+}
+  
+void loop(){
+  char key = keypad.getKey();
+  
+  if (key){
+    Serial.println(key);
+  }
+}
+```
+[Library information](https://www.arduino.cc/reference/en/libraries/keypad/)
+
+
+### 8.Sharp GP2Y10
 
 
 
@@ -297,49 +490,10 @@ void loop(void)
 
 
 
-### 6. Keypad
-
-![](https://gitlab.com/picbed/bed/uploads/521c1059e701576e9521f44873db7dd5/Screen_Shot_2020-10-22_at_12.26.43.png)
-
-Add Library in   Sketch/Include Library/Manage Libraries
-
-![](https://gitlab.com/picbed/bed/uploads/06d98b0e17ffa0e3103d49c76a92d632/WX20201022-123119_2x.png)
 
 
-```cpp
 
-#include <Keypad.h>
-
-
- 
-const byte ROWS = 4; //four rows
-const byte COLS = 4; //three columns
-char keys[ROWS][COLS] = {
-  {'1','2','3','A'},
-  {'4','5','6','B'},
-  {'7','8','9','C'},
-  {'*','0','#','D'}
-};
-byte rowPins[ROWS] = {5, 4, 3, 2}; //connect to the row pinouts of the keypad
-byte colPins[COLS] = {9,8, 7, 6}; //connect to the column pinouts of the keypad
- 
-Keypad keypad = Keypad( makeKeymap(keys), rowPins, colPins, ROWS, COLS );
- 
-void setup(){
-  Serial.begin(9600);
-}
-  
-void loop(){
-  char key = keypad.getKey();
-  
-  if (key){
-    Serial.println(key);
-  }
-}
-```
-[Library information](https://www.arduino.cc/reference/en/libraries/keypad/)
-
-##### reference
+##### Reference
 
 [Arduino:HC-SR04  ultrasonic sensor](https://www.qutaojiao.com/8643.html)
 
