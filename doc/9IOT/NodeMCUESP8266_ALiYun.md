@@ -9,9 +9,9 @@
     
 
 * Arduino IDE's libraries
-  * ESP8266WiFi:Open in <font color=Blue size=18 >Arduino IDE-TOOLs-board-board Manager</font>, and search esp8266 ,then istall(need several minutes). If success,open TOOLS-borads and find "NodeMCU1.0(ESP-12E Module)"
-    ![](https://gitlab.com/picbed/bed/uploads/48ce68210b243129faed1035dd138055/esp8266.png
-)
+  * ESP8266WiFi:Open in <font color=Blue size=14 >Arduino IDE-TOOLs-board-board Manager</font>, and search esp8266 ,then istall(need several minutes). If success,open TOOLS-borads and find "NodeMCU1.0(ESP-12E Module)"
+    ![](https://gitlab.com/picbed/bed/uploads/1255223b829332b006d0a45d024bb6c9/esp8266pic.png)
+
     ![](https://gitlab.com/picbed/bed/uploads/4600dd4c09ced79bd7ee90ddd0839f9f/esp12e.png)
   * Crypto:[The library is split into four main sections: core, light-weight, legacy, and other.](https://rweather.github.io/arduinolibs/crypto.html)
     ![](https://gitlab.com/picbed/bed/uploads/46802adc37076bbb33b967b078929ea1/crypto.png)
