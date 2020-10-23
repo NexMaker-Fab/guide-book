@@ -9,7 +9,7 @@
     
 
 * Arduino IDE's libraries
-  * ESP8266WiFi:Open in Arduino IDE-TOOLs-Manage libraries, and search esp8266 ,then istall(need several minutes). If success,open TOOLS-borads and find "NodeMCU1.0(ESP-12E Module)"
+  * ESP8266WiFi:Open in <font color=Blue size=18 >Arduino IDE-TOOLs-board-board Manager</font>, and search esp8266 ,then istall(need several minutes). If success,open TOOLS-borads and find "NodeMCU1.0(ESP-12E Module)"
     ![](https://gitlab.com/picbed/bed/uploads/48ce68210b243129faed1035dd138055/esp8266.png
 )
     ![](https://gitlab.com/picbed/bed/uploads/4600dd4c09ced79bd7ee90ddd0839f9f/esp12e.png)
