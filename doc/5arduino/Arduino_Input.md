@@ -2,7 +2,7 @@
 ## Arduino Input
 ### 1. Switch
 We can use swith to control the circuit, in this case we use pin 7 as input port
-![](https://gitlab.com/picbed/bed/uploads/bde2c8d1973b1726a17db1c23e7e18c2/Screen_Shot_2020-10-22_at_15.20.02.png)
+![](https://gitlab.com/picbed/bed/uploads/52a1ceb83850823feb5775e01e0a5ba5/Screen_Shot_2020-10-23_at_09.07.12.png)
 
 ```cpp
 const int LED1=12;
@@ -189,11 +189,8 @@ void loop()
 
 ### 5. DHT-11: Humidity/Temperature sensors
 
-![DHT-11](https://exp-picture.cdn.bcebos.com/fb738d9c2cf7dfb2348d5598d01b1edef5dc1329.jpg?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_500%2Climit_1)
-
-Connection
-
-![接线图](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603355783986&di=9005eb341a2820dc2824a7b296a83495&imgtype=0&src=http%3A%2F%2Fsimple-circuit.com%2Fwp-content%2Fuploads%2F2018%2F11%2Farduino-nokia-5110-dht11-circuit.png)
+![](https://gitlab.com/picbed/bed/uploads/bf7bc916bb1a43e2ab5e2db77ae4bd92/arduinodht11connect.jpeg)
+![](https://gitlab.com/picbed/bed/uploads/b4c2cbfc14b4ddb5258cd1d4aea9fbb9/Arduinodht11.png)
 
 
 Add Library in   Sketch/Include Library/Manage Libraries ,search DHT Sensor library
