@@ -187,20 +187,16 @@ void loop()
 ```
 
 
-### 5. DHT-11: 温湿度传感器
+### 5. DHT-11: Humidity/Temperature sensors
 
 ![DHT-11](https://exp-picture.cdn.bcebos.com/fb738d9c2cf7dfb2348d5598d01b1edef5dc1329.jpg?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_500%2Climit_1)
 
-电路接线图:
+Connection
 
 ![接线图](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603355783986&di=9005eb341a2820dc2824a7b296a83495&imgtype=0&src=http%3A%2F%2Fsimple-circuit.com%2Fwp-content%2Fuploads%2F2018%2F11%2Farduino-nokia-5110-dht11-circuit.png)
 
 
-* 引入库文件:
-  * 在库管理器中安装 DHTsensor 库文件
-  * 通过 菜单栏-项目-加载库 加载 DHT Sensor library
-
-
+Add Library in   Sketch/Include Library/Manage Libraries ,search DHT Sensor library
 
 
 ```cpp
@@ -271,24 +267,21 @@ void loop() {
 
 ```
 
-#### 6. IR-remote:
+#### 6. IR-remote
 
 ![](https://gitlab.com/picbed/bed/uploads/eabd8ceb348af1596368633ad55794a6/WechatIMG21.png)
 
 ![](https://gitlab.com/picbed/bed/uploads/e367029fd38ab5be80796359e0f054e2/WechatIMG22.png)
 
+Add Library in   Sketch/Include Library/Manage Libraries ,search IR-remote
 
-*  Library
-   *  在库管理器中安装 IR-remote 库文件
-   *  通过 菜单栏-项目-加载库 加载 IRremote 
 
-* Example
 
 
 ```cpp
 /*
  * IRrecvDemo
- * 红外控制，接收红外命令控制板载LED灯亮灭
+ * Receive singal and the PCB LED light
  */
 
 #include <IRremote.h>
@@ -311,10 +304,10 @@ void setup()
 void loop() {
   if (irrecv.decode(&results)) {
     Serial.println(results.value, HEX);
-    if (results.value == 0xFFA25D) //开灯的值
+    if (results.value == 0xFFA25D) //light on
     {
       digitalWrite(LED_PIN, LOW);
-    } else if (results.value == 0xFF629D) //关灯的值
+    } else if (results.value == 0xFF629D) //light off
     {
       digitalWrite(LED_PIN, HIGH);
     }
