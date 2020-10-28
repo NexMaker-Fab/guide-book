@@ -1,5 +1,5 @@
 ## 1. Prepare
-![](https://gitlab.com/picbed/bed/uploads/252f28c87892aa33d94ae34d929cca27/sensors-19-00676-g001.png)
+
 ![](https://gitlab.com/picbed/bed/uploads/6a8d834ffb50b0a2219cdfabda2de400/mcu-1.png)
 
 * Hardware: [NodeMCU](https://www.nodemcu.com/index_en.html)(In this example we choice [NodeMCU CP2102](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.271a2e8ddxUY1V&id=540886181835&_u=e1kvrthkacf4))

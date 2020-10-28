@@ -22,3 +22,13 @@
 
 
 
+
+
+联系人：Lucas Chen int-tech亚洲区AR/VR设计总监
+需求：目前台湾Int-tech采购我们两套XR Development Kit with Type-C input（DM-DevKit-AR0701）后，他们进行拆解分析后，希望我们给他们提供服务：基于他们自己的的0.7寸屏幕做控制板的开发（目前仅限于PCB开发，后期在项目过程中考虑打样生产事项）。
+判断：int-tech的客户需要整套的AR眼镜（或者光机套件）的开发，他们委托我们进行开发，此处目前风险在int-tech的客户情况不了解
+下面是邮件原文信息
+
+
+
+请提供交期,MOQ 与 报价
