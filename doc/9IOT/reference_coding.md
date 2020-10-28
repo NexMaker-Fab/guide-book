@@ -6,8 +6,7 @@
 #include <aliyun_mqtt.h>
  
 
-
-#define SENSOR_PIN 13
+#define SENSOR_PIN 13    //pin define
 #define LED D4
 #define LED2 D5
 #define PRODUCT_KEY     "*****"//exchange  PRODUCT_KEY
