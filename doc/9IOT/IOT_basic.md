@@ -6,15 +6,19 @@
 [reference from quora](https://www.quora.com/What-are-the-top-IoT-companies)
 
 
+![](https://gitlab.com/picbed/bed/uploads/252f28c87892aa33d94ae34d929cca27/sensors-19-00676-g001.png)
+
 
 
 ## 2. Platform
-
-* [Onenet](https://open.iot.10086.cn/)
 * [Alinyun](https://www.aliyun.com/)
-* [gizwits](https://www.gizwits.com/)
-* [Xiaomi IOT](https://iot.mi.com/new/index.html)
-* [IBM Watson IoT](https://www.ibm.com/internet-of-things/solutions/iot-platform/watson-iot-platform)
-* [AWS](https://www.amazonaws.cn/)
-* [Azure IoT](https://azure.microsoft.com/zh-cn/overview/iot/)
 * [Autodesk Fusion connect](http://www.autodeskfusionconnect.com/)
+* [AWS](https://www.amazonaws.cn/)
+* [Azure IoT](https://azure.microsoft.com/zh-cn/overview/iot/) 
+* [Gizwits](https://www.gizwits.com/)
+* [IBM Watson IoT](https://www.ibm.com/internet-of-things/solutions/iot-platform/watson-iot-platform)
+* [Onenet](https://open.iot.10086.cn/)
+* [Xiaomi IOT](https://iot.mi.com/new/index.html)
+
+
+

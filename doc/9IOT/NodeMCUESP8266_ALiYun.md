@@ -1,6 +1,8 @@
 ## 1. Prepare
+![](https://gitlab.com/picbed/bed/uploads/252f28c87892aa33d94ae34d929cca27/sensors-19-00676-g001.png)
+![](https://gitlab.com/picbed/bed/uploads/6a8d834ffb50b0a2219cdfabda2de400/mcu-1.png)
 
-* Hardware: NodeMCU(In this example we choice [NodeMCU CP2102](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.271a2e8ddxUY1V&id=540886181835&_u=e1kvrthkacf4))
+* Hardware: [NodeMCU](https://www.nodemcu.com/index_en.html)(In this example we choice [NodeMCU CP2102](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.271a2e8ddxUY1V&id=540886181835&_u=e1kvrthkacf4))
 * Software:Arduino IDE
     * We need change additional Boards Manages URL ,and it will help us to install ESP8266 libraries
     * Arduino IDE-File-Preference (this is for windows,if your PC is MAC,you can choice Arduino-Preference)
@@ -9,7 +11,7 @@
     
 
 * Arduino IDE's libraries
-  * ESP8266WiFi:Open in <font color=Blue size=14 >Arduino IDE-TOOLs-board-board Manager</font>, and search esp8266 ,then istall(need several minutes). If success,open TOOLS-borads and find "NodeMCU1.0(ESP-12E Module)"
+  * ESP8266WiFi:Open in <font color=Blue size=14 >Arduino IDE-Tools-Board-Boards Manager</font>, and search esp8266 ,then istall(need several minutes). If success,open TOOLS-borads and find "NodeMCU1.0(ESP-12E Module)"
     ![](https://gitlab.com/picbed/bed/uploads/1255223b829332b006d0a45d024bb6c9/esp8266pic.png)
 
     ![](https://gitlab.com/picbed/bed/uploads/4600dd4c09ced79bd7ee90ddd0839f9f/esp12e.png)
@@ -117,6 +119,7 @@ OK ,we can upload data and test example.
 * [NodeMCU](https://nodemcu.readthedocs.io/en/master/)
 * [NodeMCU driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers#windows) 
 * [Arduino coding](https://drive.google.com/open?id=1cAExMnKYho5SH_uD8sBeWB3pvG46BIUa)
-
 * [Reference blog](https://blog.csdn.net/ziqi5543/article/details/88710552)
 * [reference video](https://www.bilibili.com/video/BV15E411o73P?t=270)
+* [Github:NodoMCU](https://github.com/nodemcu/nodemcu-firmware)
+* [NodeMCU Documentation](https://nodemcu.readthedocs.io/en/release/)
