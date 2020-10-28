@@ -54,7 +54,7 @@ You should remind Identifier here and we would use it in Arduino programing
 
 ## 3.Arduino programming
 
-Download arduino coding in [google drive](https://drive.google.com/open?id=1cAExMnKYho5SH_uD8sBeWB3pvG46BIUa)
+Download arduino coding in [this link](reference_coding.md)
 
 
 get Alibaba Cloud's  device information(Product key,Device name,Device secrect)
