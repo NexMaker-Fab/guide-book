@@ -26,7 +26,6 @@
     * [Assessment](doc/2cad/Assessment.md)
     * [Fusion 360 prepare](doc/2cad/Fusion360prepare.md)
     * [Fusion 360-Guidebook](doc/2cad/3D_Design_Fusion360.md)
-    * [Solidworks setting](doc/2cad/Solidworks_download&installing.md)
     * [Solidworks-guidebook](doc/2cad/Solidworks.md)
     * [Parameter design](doc/2cad/parameterdesign.md) 
 
