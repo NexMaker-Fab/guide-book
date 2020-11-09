@@ -28,6 +28,7 @@
     * [Fusion 360-Guidebook](doc/2cad/3D_Design_Fusion360.md)
     * [Solidworks-guidebook](doc/2cad/Solidworks.md)
     * [Parameter design](doc/2cad/parameterdesign.md) 
+    * [Sheet metal](doc/2cad/fusion360-sheetmetal.md)
 
 * [3. 3D printer](doc/3_3dprinter/assignment.md)
     * [Assessnment](doc/3_3dprinter/assignment.md)
