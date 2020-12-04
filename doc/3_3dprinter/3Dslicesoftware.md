@@ -1,12 +1,9 @@
-# 3D slice software install
-
-
-## 1. Software
+#   3D Slice Software
 There are many different kind of 3D slice software which connect CAD to 3D printer 
 
 | No | Software |cost | OS |  
 | ----- |----- |----- |----- |----- |----- |----- |----- |----- |
-| 1 | [Simplify3D](https://www.simplify3d.com/)  | $150 | Windows,   Mac | 
+| 1 | [Simplify3D](https://www.simplify3d.com/software/)  | $150 | [Windows,   Mac](https://drive.google.com/open?id=1ASPt7xwi8XatqlAV28snRRS21nCXHon6) | 
 | 2 | [Cura](https://ultimaker.com/software/ultimaker-cura) |free  | Windows,   Mac, Linux | 
 | 2 | [Magics](https://www.materialise.com/en/software/magics) |charge  | Windows,   Mac, Linux | 
 | 5 | [Repetier](https://www.repetier.com/) | free | Windows,   Mac, Linux | 
@@ -26,30 +23,3 @@ There are many different kind of 3D slice software which connect CAD to 3D print
 | 17 | [Z-Suite](https://zortrax.com/pl/software/) | free | Windows,   Mac | 
 | 18 | [flash   print](https://www.flashprint.com/) | free | Windows,   Mac, Linux | 
 | 19 | [OctoPrint](https://octoprint.org/) | free | Raspberry   Pi, Windows, Mac Linux | 
-
-
-## 2.[Simplify 3D](https://www.simplify3d.com/)
-This part will introduce how to install simplify 3D
-![](https://gitlab.com/picbed/bed/uploads/7a4b896fcf4376818ad251891a17890f/WX20200401-101726_2x.png
-)
-
-We can get professional guide from [official web](https://www.simplify3d.com/support/)
-
-
-* Download software from [official channel](https://www.simplify3d.com/software/)
-* Download software from [Google drive link](https://drive.google.com/open?id=1ASPt7xwi8XatqlAV28snRRS21nCXHon6)
-
-* Uncompress the software and copy to hardware
-![](https://gitlab.com/picbed/bed/uploads/4cacc62612981f173134c45962037099/simplify3d1.png)
-![](https://gitlab.com/picbed/bed/uploads/900036fefc537e06596fe9427c5710d1/WX20200401-153134.png)
-* Install
-  ![](https://gitlab.com/picbed/bed/uploads/0a431febbc36c5be33c86b7e4a3c3a1f/simplify3d5.png)
-
-  ![](https://gitlab.com/picbed/bed/uploads/c93ab4553bf784f60621181ae6d541f5/WX20200401-153310.png)
-
-
-  * Copy icon to taskbar
-  ![](https://gitlab.com/picbed/bed/uploads/4be6b2e902b97f277450f6fd5d92d2b4/simplify3d6.png)
-## Cura
-Download from [official channel](https://ultimaker.com/software/ultimaker-cura)and install it 
-![](https://gitlab.com/picbed/bed/uploads/e2814af502985f0dce910de1187d7074/WX20200401-153644.png)
