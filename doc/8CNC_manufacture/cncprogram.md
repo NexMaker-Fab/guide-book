@@ -156,4 +156,4 @@ We finish the NC data program. In next step,we need use CNC to manufacture it.
 
 *****
 
-**This document support by Bob Wu and Ciel Luo 20201020**
+**This document support by Bob Wu and Ciel Luo；thanks for XiaoWu's kind support 20201020**
