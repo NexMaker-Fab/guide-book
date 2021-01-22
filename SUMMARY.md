@@ -57,7 +57,8 @@
     * [Arduino IOT](doc/9IOT/NodeMCUESP8266_ALiYun.md)
     * [Library](https://www.arduino.cc/en/Tutorial/LibraryExamples)
     * [Processing](doc/5arduino/processing.md)
-   
+    * [Mechancial arm](doc/5arduino/robot-mycobot.md)
+      
 * [6. Laser cutting](doc/6laser_cutter/basic.md)
     * [Assessment](doc/6laser_cutter/Assessment.md)
     * [Safety](doc/6laser_cutter/Safety.md)
