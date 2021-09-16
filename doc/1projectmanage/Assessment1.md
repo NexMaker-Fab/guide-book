@@ -7,6 +7,8 @@
 * Team  assessment
   * Confirm your team's name
   * Build your team's webpage
+    * Confirm the layout of webpage, at least the following: every course's practice(one course's practice one page),final project, team's introduction
+    * Simple to introduce how to build your webpage
   * Discuss your team's final project and post it in your webpage;
-  * Confirm the layout of webpage, at least the following: every course's practice(one course's practice one page),final project, team's introduction
-  * Simple to introduce how to build your webpage
+    * Solve problem；
+    * Key point;
