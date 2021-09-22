@@ -108,11 +108,7 @@
   * [Orkun](https://nex-fab.gitlab.io/fab-02/orkun )
   * [Candy]( https://nex-fab.gitlab.io/fab-02/candy/)
 
-<<<<<<< HEAD
-* [ZJU Design Enngineering2020 -NexMaker](fab-zju2020/README.md)
-=======
-* [ZJU D E 2020 -NexMaker](fab-zju2020/README.md)
->>>>>>> c8e900c7ccd9cccbe88a0ccccc7823c2982bb747
+* [ZJU Design Enngineering2020](fab-zju2020/README.md)
   * [924](http://team-924.gitlab.io/zjucst924/)
   * [Duck Dog](https://1909097669.wixsite.com/duck-dog)
   * [Terminus](http://www.0xing.cn/home/blog/)
@@ -125,19 +121,13 @@
   * [Morning](https://1348328828.wixsite.com/mysite-2)
   * [Natural](http://natural.designist.cn)
 
-<<<<<<< HEAD
 * [ZJU Design Enngineering2021 -NexMaker](fab-zju2021/README.md)
   * [Group1]()
   * [Group2]()
   * [Group3]()
   * [Group4]()
-=======
-* [ZJU D E2021 -NexMaker](fab-zju2021/README.md)
-  * [group1]()
-  * [group2]()
-  * [group3]()
->>>>>>> c8e900c7ccd9cccbe88a0ccccc7823c2982bb747
- 
+  * [Group5]()
+
 
 ## OTHERS
 
