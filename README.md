@@ -5,10 +5,11 @@ We have online guidebook. [www.nexmaker.com](www.nexmaker.com) and offline lab i
 It's cool if you can give us any advice. We would update the lab one by one. Thank you for your kindly support.
 
 
-Email: [bob@nexpcb.com](bob@nexpcb.com)
+Email: [bobwu0214@gmail.com](bobwu0214@gmail.com)
 
 
 
 *****
 
 Update time:20200304
+Update time:20210921:email

@@ -1,4 +1,4 @@
-As a part of Design Engineering,This workshop was lanched for ZJU industry design master.
+As a part of Design Engineering 2021,This workshop was lanched for ZJU industry design master.
 The following is the schedule.
 
 | Date        | Course Content           | 
@@ -22,11 +22,9 @@ The following is the schedule.
 | 1.6 | Q&A     |  
 | 1.13 | Final presentation    |  
 
-60 students form 12 groups.
-<<<<<<< HEAD
+40 students form 8 groups.
+We would list some key points every group need improve before final presentation.
 
 
 
 
-=======
->>>>>>> c8e900c7ccd9cccbe88a0ccccc7823c2982bb747

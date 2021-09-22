@@ -121,12 +121,15 @@
   * [Morning](https://1348328828.wixsite.com/mysite-2)
   * [Natural](http://natural.designist.cn)
 
-* [ZJU Design Enngineering2021 -NexMaker](fab-zju2021/README.md)
+* [ZJU Design Enngineering2021 ](fab-zju2021/README.md)
   * [Group1]()
   * [Group2]()
   * [Group3]()
   * [Group4]()
   * [Group5]()
+  * [Group6]()
+  * [Group7]()
+  * [Group8]()
 
 
 ## OTHERS
