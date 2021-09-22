@@ -1,14 +1,10 @@
 ## Assessment
 
-* Person assessment
-  * Write document to introduce yourself
-  * Post your document in your team's webpage 
- 
-* Team  assessment
-  * Confirm your team's name
-  * Build your team's webpage
-    * Confirm the layout of webpage, at least the following: every course's practice(one course's practice one page),final project, team's introduction
-    * Simple to introduce how to build your webpage
-  * Discuss your team's final project and post it in your webpage;
+* Confirm your team's name and team member
+* Build webpage inculding"Team introduce"， "team member", "Final project","Course practice";
+
+* Write document to introduce team member ,every one need one page;
+* Simple to introduce how to build your webpage
+* Discuss your team's final project and post it in your webpage;
     * Solve problem；
     * Key point;
