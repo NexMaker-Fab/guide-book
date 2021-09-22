@@ -23,7 +23,10 @@ The following is the schedule.
 | 1.13 | Final presentation    |  
 
 60 students form 12 groups.
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> c8e900c7ccd9cccbe88a0ccccc7823c2982bb747

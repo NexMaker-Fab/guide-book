@@ -22,8 +22,23 @@ The following is the schedule.
 | 1.21 | Q&A     |  
 | 1.28 | Final presentation    |  
 
+<<<<<<< HEAD
 60 students form 12 groups.
 
 
+=======
+60 students form 11 groups. The following is the team‘s link
+* [924](http://team-924.gitlab.io/zjucst924/)
+* [Duck Dog](https://1909097669.wixsite.com/duck-dog)
+* [Terminus](http://www.0xing.cn/home/blog/)
+* [D&L](http://dlight.designist.cn)
+* [Happyplanet](https://happyplanet196.wixsite.com/happyplanet)
+* [2.4GHZ](http://49.235.203.145)
+* [Coffe Bit](https://manatee257.github.io)
+* [33Designer](https://yyniao.github.io)
+* [YYclub](http://yyclub.designist.cn)
+* [Morning](https://1348328828.wixsite.com/mysite-2)
+* [Natural](http://natural.designist.cn)
+>>>>>>> c8e900c7ccd9cccbe88a0ccccc7823c2982bb747
 
 
