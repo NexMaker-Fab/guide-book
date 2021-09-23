@@ -14,7 +14,7 @@
 ## Tutorials
 * [1.Project manage](https://git-scm.com/)
     * [Assessment](doc/1projectmanage/Assessment1.md)
-    * [Gitlab-Gitbook](doc/1projectmanage/git_gitbook.md)
+    * [Gitlab-Gitbook](doc/1projectmanage/gitbook.md)
     * Gitlab-html
     * VuePress
     * [Wordpress web servier](doc/1projectmanage/wordpresswebservier.md)
@@ -22,7 +22,7 @@
     * Notion/wolai
     * [Wix](https://www.wix.com/)/起飞页
     * [Tool](doc/1projectmanage/Tool1.md)
-      * [Git](http://fabacademy.org/2018/recitations/version-control.html#1)
+      * [Git](doc/1projectmanage/git.md)
       * [Gitlab](https://gitlab.com/)
       * [Github](https://github.com/)
       * [Markdown](doc/1projectmanage/markdown.md)

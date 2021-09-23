@@ -167,9 +167,12 @@ The following is the structure of local operation
 coming soon , click [the page](http://fabacademy.org/2018/recitations/version-control.html#60) for reference
 
 
-## GET
+
 After this class's learn , I basic konw the git system ,and the operation ,in the future i would practice more to get it
 
 
-
+### Reference
+* [guide from fab academy ](http://fabacademy.org/2018/recitations/version-control.html#60) 
+* [SSH key](https://docs.gitlab.com/ce/ssh/README.html)
+* [Git Cheat Sheet 中文版](https://github.com/sindresorhus/awesome) 
 
