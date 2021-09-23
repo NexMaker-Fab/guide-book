@@ -163,6 +163,80 @@ The following is the structure of local operation
 ![](https://ws4.sinaimg.cn/large/006tKfTcgy1fo87qzfvpzj30jg081mx3.jpg)
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1fo87rio118j30m80c90sy.jpg)
 
+## FAQ
+1. git push Please make sure you have the correct access rights
+
+```
+sh-3.2$ git config user.name "user name"
+sh-3.2$ git config user.email "user email"
+sh-3.2$ git add --all
+sh-3.2$ git commit -m "update "
+[master b0739b3] update summary.md
+ 1 file changed, 1 insertion(+)
+sh-3.2$ git push origin master
+remote: 
+remote: ========================================================================
+remote: 
+remote: You are not allowed to push code to this project.
+remote: 
+remote: ========================================================================
+remote: 
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+There is no ssh key in gitlab . we need build ssh in local and then update in gitlab
+
+
+
+```
+
+sh-3.2$ ssh-keygen -t rsa -C "user email"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/douboy/.ssh/id_rsa): 
+/Users/douboy/.ssh/id_rsa already exists.
+Overwrite (y/n)? y
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/douboy/.ssh/id_rsa.
+Your public key has been saved in /Users/douboy/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:wG7SjdUw8QvremcZeYlHmXDQ/NqdWCNnao/mKn1WdSc bobwu0214@126.com
+The key's randomart image is:
++---[RSA 3072]----+
+|        +..+     |
+|     .   =. +    |
+|      o o oo +   |
+|     o = o .+.E=+|
+|    . = S .+ +Bo*|
+|     o .  + =+.o.|
+|        . .=. +  |
+|       ...+. = . |
+|      .. o..*.   |
++----[SHA256]-----+
+
+sh-3.2$ cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDDk8GjUmfY3OIWeHg3l4PloAjUDP1n4SX317LB3ezLhNnowxkOeH89wUrzkCAa4ZDiiWTPVCov+uvBb4jj8FHhW1q29HP+8Dh9vr1Cofccc3A2TTahhR9Cn3Qxboi7/jPaJ4kzh6iXFC4yqE2wQgxvkkFp1dtBAOTjDEJyjhIVO5lBryUoSLyuGwkzBv0mQgW5Hj131w/fk2EsHUDj1KCPfFryR9kQMarbuZgqpLmAQNgtOL7P+FAPUvdxf9FHXtMD+fooB+PIVCBrne3OejpVQWkMHCm2735SSrmm6+PVWLveWmQsXhJ2AlqnVgxKFj9hI0i3k0WtzJY/AYUb4QzAY4PR/umFtkA4ZYreNAqgf4TejDx1u/C2iGB20OIgeg08kImXCvgqSFEKhURCCzp4+PIP1ZkOv7BPGqrpdQbJQRO7ix+t6+lmYfmwS7YXVmDwcCRaLW7b+BCtfBTNiH+xvlCWFj/dXiaBCKVVT7PAoYt43wlKJeEFDhnSGJmALtE= bobwu0214@126.com
+```
+copy ssh to gitlab ssh key
+![](https://gitlab.com/picbed/bed/uploads/a3cc86b0757d9029cf2f54f86f2f5fc0/WX20210923-210237.png)
+Then run git push again
+
+```
+sh-3.2$ git push origin master
+Enter passphrase for key '/Users/douboy/.ssh/id_rsa': 
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 287 bytes | 287.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+To gitlab.com:king0214/gitbooktestaaa.git
+   65050a4..b0739b3  master -> master
+```
+
+
 ## advantace git
 coming soon , click [the page](http://fabacademy.org/2018/recitations/version-control.html#60) for reference
 
