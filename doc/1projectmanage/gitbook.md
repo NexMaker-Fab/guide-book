@@ -1,4 +1,9 @@
-Gitbook is a simple document manage tool. This part will introduce how to build gitbook with the help of gitlab
+Gitlab and github own similar function,in the following page,we just introduce how to build static websites with gitlab.
+With GitLab Pages, you can publish static websites directly from a repository in GitLab.
+Gitbook is a simple style. This part will introduce how to build gitbook with the help of gitlab
+
+
+
 
 We would use the following tool to build our own webpage
 * [Git](https://git-scm.com/downloads) is used to control our version in gitlab，mac don't need to install,it use to setting git and gitlab;
@@ -45,3 +50,10 @@ We would use the following tool to build our own webpage
 
 * [gitbook from gitlab](https://gitlab.com/pages/gitbook)
 * [gitbook practice from bob](http://archive.fabacademy.org/2018/labs/fablaboshanghai/students/bob-wu/Fabclass/week2_project_management/gitbook.html)
+
+
+
+
+## Reference
+* [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html)
+* [Github Pages](https://docs.github.com/cn/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites)

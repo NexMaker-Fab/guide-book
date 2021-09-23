@@ -15,12 +15,7 @@
 * [1.Project manage](https://git-scm.com/)
     * [Assessment](doc/1projectmanage/Assessment1.md)
     * [Gitlab-Gitbook](doc/1projectmanage/gitbook.md)
-    * Gitlab-html
-    * VuePress
-    * [Wordpress web servier](doc/1projectmanage/wordpresswebservier.md)
-    * [Tech Stack - HTML+CSS+Github](doc/1projectmanage/htmlcssgithub.md)
-    * Notion/wolai
-    * [Wix](https://www.wix.com/)/起飞页
+    * [Web build method](doc/1projectmanage/webmethod.md)
     * [Tool](doc/1projectmanage/Tool1.md)
       * [Git](doc/1projectmanage/git.md)
       * [Gitlab](https://gitlab.com/)
