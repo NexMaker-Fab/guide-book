@@ -14,17 +14,21 @@
 ## Tutorials
 * [1.Project manage](https://git-scm.com/)
     * [Assessment](doc/1projectmanage/Assessment1.md)
-    * [Gitbook for webpage](doc/1projectmanage/git_gitbook.md)
+    * [Gitlab-Gitbook](doc/1projectmanage/git_gitbook.md)
     * Gitlab-html
     * VuePress
     * [Wordpress web servier](doc/1projectmanage/wordpresswebservier.md)
     * [Tech Stack - HTML+CSS+Github](doc/1projectmanage/htmlcssgithub.md)
     * Notion/wolai
-    * Wix/起飞页
+    * [Wix](https://www.wix.com/)/起飞页
     * [Tool](doc/1projectmanage/Tool1.md)
       * [Git](http://fabacademy.org/2018/recitations/version-control.html#1)
+      * [Gitlab](https://gitlab.com/)
+      * [Github](https://github.com/)
       * [Markdown](doc/1projectmanage/markdown.md)
       * [Image uploader service](doc/1projectmanage/imageuploadservice.md)
+      * [HTML](https://www.w3school.com.cn/html/index.asp)
+      * [CSS](https://www.w3school.com.cn/css/index.asp)
 
 *  [2. CAD design](doc/2cad/cad.md)
     * [Assessment](doc/2cad/Assessment.md)
