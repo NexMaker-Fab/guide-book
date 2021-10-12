@@ -2,9 +2,14 @@
   
   
     "plugins": ["chapter-fold"]
-    "plugins": ["-search"]
+    
+    
    
     
 }
 
+{
+
+    "plugins": ["search"]
+}
 
