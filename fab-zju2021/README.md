@@ -2,11 +2,9 @@ As a part of Design Engineering 2021,This workshop was launched for ZJU industry
 The following is the schedule.
 
 
-<style>
-table th:first-of-type {
-	width: 100px;
-}
-</style>
+
+<table width="95%" border="1" cellpadding="2" cellspacing="1">
+
 | Date        | Course Content           |  [CNFD](https://1831626605.wixsite.com/cnfd)| [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)| [XXZZXH](https://xxzzxh.github.io/) | [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)|[X-Lab](https://x-labby.webflow.io/) |  [Group6]()| [Group7]()| [Group8]()| 
 | ------------- | :-----:| :-----:|-----:|	 :-----:| :-----:|:-----:|:-----:| :-----:|-----:|	
 | 9.16      | Introduction of design engineering |  [CNFD](https://1831626605.wixsite.com/cnfd)| [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)| [XXZZXH](https://xxzzxh.github.io/) | [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)|[X-Lab](https://x-labby.webflow.io/) |  [Group6]()| [Group7]()| [Group8]()| 

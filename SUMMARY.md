@@ -40,6 +40,7 @@
     * [FDM design guide](doc/3_3dprinter/3.FDM-designguide.md)
     * [FDM postprocess](doc/3_3dprinter/5.FDM-postprocess.md)
     * [SLA background](doc/3_3dprinter/6.SLAbackground.md)
+    * [HP-MJF](doc/3_3dprinter/7.hpmjf.md)
     * [Slice software](doc/3_3dprinter/3Dslicesoftware.md)
 
 * [4. Electric design ](doc/4electric_design/basicknowledge.md)
