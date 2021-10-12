@@ -1,8 +1,8 @@
-As a part of Design Engineering 2021,This workshop was lanched for ZJU industry design master.
+As a part of Design Engineering 2021,This workshop was launched for ZJU industry design master.
 The following is the schedule.
 
-| Date        | Course Content           | 
-| ------------- | -----:|	
+| Date        | Course Content           |  1 | 2| 3 | 4|5 | 6| 7 | 8| 
+| ------------- | :-----:| :-----:|-----:|	 :-----:| :-----:|:-----:|:-----:| :-----:|-----:|	
 | 9.16      | Introduction of design engineering | 
 | 9.23      | Project management      |  
 | 9.26 | Open source hardware and Arduino basic  |  
@@ -24,6 +24,7 @@ The following is the schedule.
 
 40 students form 8 groups.
 We would list some key points every group need improve before final presentation.
+
 
 
 
