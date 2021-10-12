@@ -2,6 +2,9 @@
   
   
     "plugins": ["chapter-fold"]
+    "plugins": ["-search"]
    
     
 }
+
+

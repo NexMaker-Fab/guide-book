@@ -21,9 +21,6 @@ The following is the schedule.
 | 12.30    | Introduction of patent application |  
 | 1.6 | Q&A     |  
 | 1.13 | Final presentation    |  
-table tr:hover {
-    background: #efefef; 
-}
 
 40 students form 8 groups.
 We would list some key points every group need improve before final presentation.
