@@ -1,7 +1,7 @@
 As a part of Design Engineering 2021,This workshop was launched for ZJU industry design master.
 The following is the schedule.
 
-| Date        | Course Content           |  1 | 2| 3 | 4|5 | 6| 7 | 8| 
+| Date        | Course Content           |  [CNFD](https://1831626605.wixsite.com/cnfd)| [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)| [XXZZXH](https://xxzzxh.github.io/) | [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)|[X-Lab](https://x-labby.webflow.io/) |  [Group6]()| [Group7]()| [Group8]()| 
 | ------------- | :-----:| :-----:|-----:|	 :-----:| :-----:|:-----:|:-----:| :-----:|-----:|	
 | 9.16      | Introduction of design engineering | 
 | 9.23      | Project management      |  
@@ -21,11 +21,10 @@ The following is the schedule.
 | 12.30    | Introduction of patent application |  
 | 1.6 | Q&A     |  
 | 1.13 | Final presentation    |  
+table tr:hover {
+    background: #efefef; 
+}
 
 40 students form 8 groups.
 We would list some key points every group need improve before final presentation.
-
-
-
-
 
