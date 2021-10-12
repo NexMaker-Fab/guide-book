@@ -3,7 +3,11 @@
   
     "plugins": [
         "chapter-fold", 
-        "back-to-top-button"
+        "back-to-top-button",
+        "splitter",
+        "klipse",
+        "pageview-count",
+        "popup"
     ]
    
 
