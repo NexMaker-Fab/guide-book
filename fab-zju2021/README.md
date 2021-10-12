@@ -3,13 +3,13 @@ The following is the schedule.
 
 | Date        | Course Content           |  [CNFD](https://1831626605.wixsite.com/cnfd)| [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)| [XXZZXH](https://xxzzxh.github.io/) | [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)|[X-Lab](https://x-labby.webflow.io/) |  [Group6]()| [Group7]()| [Group8]()| 
 | ------------- | :-----:| :-----:|-----:|	 :-----:| :-----:|:-----:|:-----:| :-----:|-----:|	
-| 9.16      | Introduction of design engineering | 
-| 9.23      | Project management      |  
-| 9.26 | Open source hardware and Arduino basic  |  
-| 9.30      | Arduino (input devices)     |  
-| 10.14 | Arduino (output devices)      |  
+| 9.16      | Introduction of design engineering |  [CNFD](https://1831626605.wixsite.com/cnfd)| [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)| [XXZZXH](https://xxzzxh.github.io/) | [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)|[X-Lab](https://x-labby.webflow.io/) |  [Group6]()| [Group7]()| [Group8]()| 
+| 9.23      | Project management      |   [CNFD](https://1831626605.wixsite.com/cnfd)| [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)| [XXZZXH](https://xxzzxh.github.io/) | [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)|[X-Lab](https://x-labby.webflow.io/) |  [Group6]()| [Group7]()| [Group8]()| 
+| 9.26 | Open source hardware and Arduino basic  |  [CNFD](https://1831626605.wixsite.com/cnfd)| [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)| [XXZZXH](https://xxzzxh.github.io/) | [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)|[X-Lab](https://x-labby.webflow.io/) |  [Group6]()| [Group7]()| [Group8]()|  
+| 9.30      | Arduino (input devices)     |   [CNFD](https://1831626605.wixsite.com/cnfd)| [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)| [XXZZXH](https://xxzzxh.github.io/) | [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)|[X-Lab](https://x-labby.webflow.io/) |  [Group6]()| [Group7]()| [Group8]()| 
+| 10.14 | Arduino (output devices)      |   [CNFD](https://1831626605.wixsite.com/cnfd)| [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)| [XXZZXH](https://xxzzxh.github.io/) | [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)|[X-Lab](https://x-labby.webflow.io/) |  [Group6]()| [Group7]()| [Group8]()| 
 | 10.21     | Arduino IOT     |  
-| 10.28 | Q&A      |  
+| 10.28 | Q&A      |   [CNFD](https://1831626605.wixsite.com/cnfd)| [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)| [XXZZXH](https://xxzzxh.github.io/) | [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)|[X-Lab](https://x-labby.webflow.io/) |  [Group6]()| [Group7]()| [Group8]()| 
 |11.4     |Intelligent materials     |  
 | 11.11 | Computer aided design      |  
 | 11.18     | 3D printing      |  
