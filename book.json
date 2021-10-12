@@ -1,7 +1,11 @@
 {
   
   
-    "plugins": ["chapter-fold"] 
+    "plugins": [
+        "chapter-fold", 
+        "back-to-top-button"
+    ]
+   
 
 }
 
