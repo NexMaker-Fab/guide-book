@@ -155,4 +155,4 @@ The following is the schedule.
 | Interface application programming  | |	|	|	 
 | Video editing      |  |	|	|	
 | Introduction of patent application |  |	|	|	
-| Final presentation    |  |	|	|	
+
