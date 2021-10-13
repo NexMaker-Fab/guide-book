@@ -34,12 +34,27 @@ The following is the schedule.
 
 #### [CNFD](https://1831626605.wixsite.com/cnfd)
 
+
+
+
+| Topic       | Question        |  |Bulk density of powder | Application| 
+| ------------- | :-----:|:-----:|:-----:|-----:|
+| PA 11 | 202℃/396℉|54um|0.48g/cm³| producing ductile,quality parts|
+| PA 12| 187℃/369℉|60um|0.425g/cm³| producing strong, low-costquality parts|
+| PA 12 Glass Beads| 186℃/367℉|58um|0.48g/cm³|  producing stiff, dimensionally stable, quality parts|
+| PP enabled by BASF| 138℃/280℉|62um|0.34g/cm³|  producing chemical resistant, weldable, low moisture absorption, functional parts|
+| TPA enabled by Evonik| 152℃/305℉|77um|0.42g/cm³|  easy-to-process, flexible, lightweight parts|
+
+
+
+
+
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|	
 | Introduction of design engineering | |	|	|	
-| Project management      | |	|	|	 
-| Computer aided design    | |	|	|	 
-| Open source hardware and Arduino basic  | |	|	|	
+| Project management      |1Update team introduce；2Update team member introduce，3Introduce how to  build web;Layout evry project and final project |20211013	|	wait|	 
+| Computer aided design    | noting here|20211013	|	wait|	 
+| Open source hardware and Arduino basic  | noting here |	20211013|	wait|	
 |     Arduino (input devices)    | |	|	|	
 |   Arduino (output devices)   | |	|	|	 
 |Intelligent materials     |  |	|	|	
@@ -51,7 +66,7 @@ The following is the schedule.
 | Interface application programming  | |	|	|	 
 | Video editing      |  |	|	|	
 | Introduction of patent application |  |	|	|	
-| Final presentation    |  |	|	|	
+| Final presentation    | 1 |2	|	3|	
 
 #### [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)
 
