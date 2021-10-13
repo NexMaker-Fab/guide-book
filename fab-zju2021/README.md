@@ -10,7 +10,7 @@ The following is the schedule.
 
 
 | Date        | Course Content           |  
-| ------------- | -----:|	
+| ------------- | :-----:|	
 | 9.16      | Introduction of design engineering | 
 | 9.23      | Project management      |  
 | 9.26 | Computer aided design    |  
@@ -35,7 +35,7 @@ The following is the schedule.
 #### [CNFD](https://1831626605.wixsite.com/cnfd)
 
 |Topic|    Question        | Update time           | Condation  |	
-| ------------- | -----:|	-----:|	-----:|	
+| ------------- | :-----:|	:-----:|	:-----:|	
 | Introduction of design engineering | |	|	|	
 | Project management      | |	|	|	 
 | Computer aided design    | |	|	|	 
@@ -56,7 +56,7 @@ The following is the schedule.
 #### [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)
 
 |Topic|    Question        | Update time           | Condation  |	
-| ------------- | -----:|	-----:|	-----:|	
+| ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	|	
 | Project management      | |	|	|	 
 | Computer aided design    | |	|	|	 
@@ -77,7 +77,7 @@ The following is the schedule.
 #### [XXZZXH](https://xxzzxh.github.io/)
 
 |Topic|    Question        | Update time           | Condation  |	
-| ------------- | -----:|	-----:|	-----:|	
+| ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	|	
 | Project management      | |	|	|	 
 | Computer aided design    | |	|	|	 
@@ -98,7 +98,7 @@ The following is the schedule.
 #### [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)
 
 |Topic|    Question        | Update time           | Condation  |	
-| ------------- | -----:|	-----:|	-----:|	
+| ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	|	
 | Project management      | |	|	|	 
 | Computer aided design    | |	|	|	 
@@ -118,7 +118,7 @@ The following is the schedule.
 
 #### [X-Lab](https://x-labby.webflow.io/)
 |Topic|    Question        | Update time           | Condation  |	
-| ------------- | -----:|	-----:|	-----:|	
+| ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	|	
 | Project management      | |	|	|	 
 | Computer aided design    | |	|	|	 
@@ -139,7 +139,7 @@ The following is the schedule.
 #### [Get1688](https://1175138076.wixsite.com/get1688)
 
 |Topic|    Question        | Update time           | Condation  |	
-| ------------- | -----:|	-----:|	-----:|	
+| ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	|	
 | Project management      | |	|	|	 
 | Computer aided design    | |	|	|	 
