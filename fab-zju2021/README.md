@@ -39,13 +39,23 @@ The following is the schedule.
 
 | Topic       | Question        |  |Bulk density of powder | Application| 
 | ------------- | :-----:|:-----:|:-----:|-----:|
-| PA 11 | 202℃/396℉|54um|0.48g/cm³| producing ductile,quality parts|
-| PA 12| 187℃/369℉|60um|0.425g/cm³| producing strong, low-costquality parts|
-| PA 12 Glass Beads| 186℃/367℉|58um|0.48g/cm³|  producing stiff, dimensionally stable, quality parts|
-| PP enabled by BASF| 138℃/280℉|62um|0.34g/cm³|  producing chemical resistant, weldable, low moisture absorption, functional parts|
-| TPA enabled by Evonik| 152℃/305℉|77um|0.42g/cm³|  easy-to-process, flexible, lightweight parts|
-
-
+| Introduction of design engineering | ||| |
+| Project management  | ||| |
+| Computer aided design | ||| |
+| Open source hardware and Arduino basic | ||| |
+|  Arduino (input devices)  | ||| |
+|  Arduino (output devices) | ||| |
+| Intelligent materials | ||| |
+|  Arduino IOT  | ||| |
+| 3D printing  | ||| |
+| CNC machine  | ||| |
+| Midterm presentation ，Q&A | ||| |
+| Computer-controlled cutting | ||| |
+| Interface application programming | ||| |
+| Introduction of design engineering | ||| |
+| Video editing | ||| |
+| Introduction of patent application | ||| |
+| Final presentation | ||| |
 
 
 
