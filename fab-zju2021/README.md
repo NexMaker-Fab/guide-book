@@ -36,124 +36,123 @@ The following is the schedule.
 
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | -----:|	-----:|	-----:|	
-| Introduction of design engineering | 
-| Project management      |  
-| Computer aided design    |  
-| Open source hardware and Arduino basic  | 
-|     Arduino (input devices)    | 
-|   Arduino (output devices)   |  
-|Intelligent materials     |  
-|  Arduino IOT    |  
-| 3D printing      |  
-| CNC machine      |   
-| Midterm presentation ，Q&A     |  
-| Computer-controlled cutting      |  
-| Interface application programming  |  
-| Video editing      |  
-| Introduction of patent application |  
-| Final presentation    |  
+| Introduction of design engineering | |	|	|	
+| Project management      | |	|	|	 
+| Computer aided design    | |	|	|	 
+| Open source hardware and Arduino basic  | |	|	|	
+|     Arduino (input devices)    | |	|	|	
+|   Arduino (output devices)   | |	|	|	 
+|Intelligent materials     |  |	|	|	
+|  Arduino IOT    |  |	|	|	
+| 3D printing      |  |	|	|	
+| CNC machine      |   |	|	|	
+| Midterm presentation ，Q&A     |  |	|	|	
+| Computer-controlled cutting      | |	|	|	 
+| Interface application programming  | |	|	|	 
+| Video editing      |  |	|	|	
+| Introduction of patent application |  |	|	|	
+| Final presentation    |  |	|	|	
 
 #### [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)
 
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | -----:|	-----:|	-----:|	
-| Introduction of design engineering | 
-| Project management      |  
-| Computer aided design    |  
-| Open source hardware and Arduino basic  | 
-|     Arduino (input devices)    | 
-|   Arduino (output devices)   |  
-|Intelligent materials     |  
-|  Arduino IOT    |  
-| 3D printing      |  
-| CNC machine      |   
-| Midterm presentation ，Q&A     |  
-| Computer-controlled cutting      |  
-| Interface application programming  |  
-| Video editing      |  
-| Introduction of patent application |  
-| Final presentation    | 
+| Introduction of design engineering | |	|	|	
+| Project management      | |	|	|	 
+| Computer aided design    | |	|	|	 
+| Open source hardware and Arduino basic  | |	|	|	
+|     Arduino (input devices)    | |	|	|	
+|   Arduino (output devices)   | |	|	|	 
+|Intelligent materials     |  |	|	|	
+|  Arduino IOT    |  |	|	|	
+| 3D printing      |  |	|	|	
+| CNC machine      |   |	|	|	
+| Midterm presentation ，Q&A     |  |	|	|	
+| Computer-controlled cutting      | |	|	|	 
+| Interface application programming  | |	|	|	 
+| Video editing      |  |	|	|	
+| Introduction of patent application |  |	|	|	
+| Final presentation    |  |	|	|	
 
 #### [XXZZXH](https://xxzzxh.github.io/)
 
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | -----:|	-----:|	-----:|	
-| Introduction of design engineering | 
-| Project management      |  
-| Computer aided design    |  
-| Open source hardware and Arduino basic  | 
-|     Arduino (input devices)    | 
-|   Arduino (output devices)   |  
-|Intelligent materials     |  
-|  Arduino IOT    |  
-| 3D printing      |  
-| CNC machine      |   
-| Midterm presentation ，Q&A     |  
-| Computer-controlled cutting      |  
-| Interface application programming  |  
-| Video editing      |  
-| Introduction of patent application |  
-| Final presentation    |
+| Introduction of design engineering | |	|	|	
+| Project management      | |	|	|	 
+| Computer aided design    | |	|	|	 
+| Open source hardware and Arduino basic  | |	|	|	
+|     Arduino (input devices)    | |	|	|	
+|   Arduino (output devices)   | |	|	|	 
+|Intelligent materials     |  |	|	|	
+|  Arduino IOT    |  |	|	|	
+| 3D printing      |  |	|	|	
+| CNC machine      |   |	|	|	
+| Midterm presentation ，Q&A     |  |	|	|	
+| Computer-controlled cutting      | |	|	|	 
+| Interface application programming  | |	|	|	 
+| Video editing      |  |	|	|	
+| Introduction of patent application |  |	|	|	
+| Final presentation    |  |	|	|	
 
 #### [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)
 
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | -----:|	-----:|	-----:|	
-| Introduction of design engineering | 
-| Project management      |  
-| Computer aided design    |  
-| Open source hardware and Arduino basic  | 
-|     Arduino (input devices)    | 
-|   Arduino (output devices)   |  
-|Intelligent materials     |  
-|  Arduino IOT    |  
-| 3D printing      |  
-| CNC machine      |   
-| Midterm presentation ，Q&A     |  
-| Computer-controlled cutting      |  
-| Interface application programming  |  
-| Video editing      |  
-| Introduction of patent application |  
-| Final presentation    |  
+| Introduction of design engineering | |	|	|	
+| Project management      | |	|	|	 
+| Computer aided design    | |	|	|	 
+| Open source hardware and Arduino basic  | |	|	|	
+|     Arduino (input devices)    | |	|	|	
+|   Arduino (output devices)   | |	|	|	 
+|Intelligent materials     |  |	|	|	
+|  Arduino IOT    |  |	|	|	
+| 3D printing      |  |	|	|	
+| CNC machine      |   |	|	|	
+| Midterm presentation ，Q&A     |  |	|	|	
+| Computer-controlled cutting      | |	|	|	 
+| Interface application programming  | |	|	|	 
+| Video editing      |  |	|	|	
+| Introduction of patent application |  |	|	|	
+| Final presentation    |  |	|	|	
 
 #### [X-Lab](https://x-labby.webflow.io/)
-
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | -----:|	-----:|	-----:|	
-| Introduction of design engineering | 
-| Project management      |  
-| Computer aided design    |  
-| Open source hardware and Arduino basic  | 
-|     Arduino (input devices)    | 
-|   Arduino (output devices)   |  
-|Intelligent materials     |  
-|  Arduino IOT    |  
-| 3D printing      |  
-| CNC machine      |   
-| Midterm presentation ，Q&A     |  
-| Computer-controlled cutting      |  
-| Interface application programming  |  
-| Video editing      |  
-| Introduction of patent application |  
-| Final presentation    |  
+| Introduction of design engineering | |	|	|	
+| Project management      | |	|	|	 
+| Computer aided design    | |	|	|	 
+| Open source hardware and Arduino basic  | |	|	|	
+|     Arduino (input devices)    | |	|	|	
+|   Arduino (output devices)   | |	|	|	 
+|Intelligent materials     |  |	|	|	
+|  Arduino IOT    |  |	|	|	
+| 3D printing      |  |	|	|	
+| CNC machine      |   |	|	|	
+| Midterm presentation ，Q&A     |  |	|	|	
+| Computer-controlled cutting      | |	|	|	 
+| Interface application programming  | |	|	|	 
+| Video editing      |  |	|	|	
+| Introduction of patent application |  |	|	|	
+| Final presentation    |  |	|	|	
 
 #### [Get1688](https://1175138076.wixsite.com/get1688)
 
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | -----:|	-----:|	-----:|	
-| Introduction of design engineering | 
-| Project management      |  
-| Computer aided design    |  
-| Open source hardware and Arduino basic  | 
-|     Arduino (input devices)    | 
-|   Arduino (output devices)   |  
-|Intelligent materials     |  
-|  Arduino IOT    |  
-| 3D printing      |  
-| CNC machine      |   
-| Midterm presentation ，Q&A     |  
-| Computer-controlled cutting      |  
-| Interface application programming  |  
-| Video editing      |  
-| Introduction of patent application |  
-| Final presentation    |  
+| Introduction of design engineering | |	|	|	
+| Project management      | |	|	|	 
+| Computer aided design    | |	|	|	 
+| Open source hardware and Arduino basic  | |	|	|	
+|     Arduino (input devices)    | |	|	|	
+|   Arduino (output devices)   | |	|	|	 
+|Intelligent materials     |  |	|	|	
+|  Arduino IOT    |  |	|	|	
+| 3D printing      |  |	|	|	
+| CNC machine      |   |	|	|	
+| Midterm presentation ，Q&A     |  |	|	|	
+| Computer-controlled cutting      | |	|	|	 
+| Interface application programming  | |	|	|	 
+| Video editing      |  |	|	|	
+| Introduction of patent application |  |	|	|	
+| Final presentation    |  |	|	|	
