@@ -60,7 +60,7 @@ The following is the schedule.
 
 
 
-#### [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)
+#### [NBD](https://duckweed2222.wixsite.com/my-site-3)
 
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
