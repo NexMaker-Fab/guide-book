@@ -1,7 +1,9 @@
 As a part of Design Engineering 2021,This workshop was launched for ZJU industry design master.
 40 students form 8 groups.
+This project was launched in Sept 2021
 We would list some key points every group need improve before final presentation.
 The following is the schedule.
+
 
 
 
@@ -37,9 +39,9 @@ The following is the schedule.
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
 | Introduction of design engineering | ||To-do| 
-| Project management  | 1Update team introduce；2Update team member introduce;3Introduce how to  build web;4Layout evry project and final project|20211013|wait| 
-| Computer aided design |noting here |20211013|Doing| 
-| Open source hardware and Arduino basic |noting here |20211013|Doing| 
+| Project management  | 1Update team introduce；2Update team member introduce;3Introduce how to  build web;4Layout evry project,5 final project|20211013|Doing| 
+| Computer aided design | |20211013|To-do| 
+| Open source hardware and Arduino basic | |20211013|To-do| 
 |  Arduino (input devices)  | ||To-do| 
 |  Arduino (output devices) | ||To-do| 
 | Intelligent materials | ||To-do| 
@@ -63,8 +65,8 @@ The following is the schedule.
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	To-do|	
-| Project management      | |	|	To-do|	 
-| Computer aided design    | |	|	To-do|	 
+| Project management      | 1. Introduce your potential final project; 2. Check person link for home page |20211014	|	Doing |	 
+| Computer aided design    | 1. Introduce how to assemble the model with simple page or gif; 2 Simple introduce how to do rend  and  animation; 3.if possible attach  stp or solidworks data; 4.Simple introduce the solidwoks tool|20211014	|	Doing|	 
 | Open source hardware and Arduino basic  | |	|To-do	|	
 |     Arduino (input devices)    | |	|	To-do|	
 |   Arduino (output devices)   | |	|	To-do|	 
@@ -84,11 +86,11 @@ The following is the schedule.
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	To-do|	
-| Project management      | |	|	To-do|	 
-| Computer aided design    | |	|	To-do|	 
-| Open source hardware and Arduino basic  | |	|To-do	|	
-|     Arduino (input devices)    | |	|	To-do|	
-|   Arduino (output devices)   | |	|	To-do|	 
+| Project management      | 1.Delete useless social media link; 2.Check the homepage link(home ,project, team, blog); 3.Simple introduce final project; 4.Simpl introduce HTML,CSS,BOOTSTRAP  GITHUB relation and how to publish with  GitHub|	20211014|	Doing|	 
+| Computer aided design    | 1.How to make the model； 2.The method inside luckin coffee picture; 3.Method add fusion data to github page|		20211014|	Doing|	 
+| Open source hardware and Arduino basic  |1.  Add circuit diagram； 2.Check video 3.Simple introduce the Arduino IDE you used|20211014|	Doing|	 
+| Arduino (input devices)    | |	|	To-do|	
+| Arduino (output devices)   | |	|	To-do|	 
 |Intelligent materials     |  |	|	To-do|	
 |  Arduino IOT    |  |	|	To-do|	
 | 3D printing      |  |	|	To-do|	
@@ -105,9 +107,9 @@ The following is the schedule.
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	To-do|	
-| Project management      | |	|	To-do|	 
-| Computer aided design    | |	|	To-do|	 
-| Open source hardware and Arduino basic  | |	|To-do	|	
+| Project management      | 1.Final project potential result 2. build notion web method|	20211014	|Doing	|	
+| Computer aided design    | 1. How to make model （at least bird，gear）2.how to setting the motion|	20211014|	Doing|	 
+| Open source hardware and Arduino basic  | 1.Update coding； 2.Update  gif pic for result；3.Simple introduce the Arduino IDE you used|20211014	|Doing	|	
 |     Arduino (input devices)    | |	|	To-do|	
 |   Arduino (output devices)   | |	|	To-do|	 
 |Intelligent materials     |  |	|	To-do|	
@@ -124,9 +126,9 @@ The following is the schedule.
 #### [X-Lab](https://x-labby.webflow.io/)
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
-| Introduction of design engineering | |	|	To-do|	
-| Project management      | |	|	To-do|	 
-| Computer aided design    | |	|	To-do|	 
+| Introduction of design engineering | |	To-do|	 
+| Project management      | 1.Delete useless information  2. Potential final project;3.How to build website|20211014	|Doing	|	
+| Computer aided design    | 1.Add design link|20211014  2.Introdcue the tool	|Doing	|	
 | Open source hardware and Arduino basic  | |	|To-do	|	
 |     Arduino (input devices)    | |	|	To-do|	
 |   Arduino (output devices)   | |	|	To-do|	 
@@ -145,9 +147,9 @@ The following is the schedule.
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	To-do|	
-| Project management      | |	|	To-do|	 
-| Computer aided design    | |	|	To-do|	 
-| Open source hardware and Arduino basic  | |	|To-do	|	
+| Project management      |1"our programs" 2.concept 3. the link for “张宇琦” 4. the layout for designer 4. from part1，part2 to project name； 5.the link for part1 is useless; 6.Delete useless information  |20211014	|Doing	|	
+| Computer aided design    | 1.Introudce how to do it one by one; 2. The layout for video|20211014	|Doing	|
+| Open source hardware and Arduino basic  | Arduino IDE how to use it|20211014	|Doing	|
 |     Arduino (input devices)    | |	|	To-do|	
 |   Arduino (output devices)   | |	|	To-do|	 
 |Intelligent materials     |  |	|	To-do|	
@@ -160,6 +162,49 @@ The following is the schedule.
 | Video editing      |  |	|	To-do|	
 | Introduction of patent application |  |	|To-do	|	
 | Final presentation    |  |	|	To-do|
+
+
+#### [WooHoo](https://richengaa.wixsite.com/woohoo)
+|Topic|    Question        | Update time           | Condation  |	
+| ------------- | :-----:|	:-----:|	:-----:|
+| Introduction of design engineering | |	|	To-do|	
+| Project management      | 1.Simple how to build web; 2.Potential final proejet |	20211014	|Doing	|
+| Computer aided design    |1. how to design model in creo and fusion 360 |	20211014	|Doing	|
+| Open source hardware and Arduino basic  | 1. introduce the tool you have used 2.Coding for text; 3. Arduino IDE simple introduce|20211014	|Doing	|
+|     Arduino (input devices)    | |	|	To-do|	
+|   Arduino (output devices)   | |	|	To-do|	 
+|Intelligent materials     |  |	|	To-do|	
+|  Arduino IOT    |  |	|	To-do|	
+| 3D printing      |  |	|	To-do|	
+| CNC machine      |   |	|	To-do|	
+| Midterm presentation ，Q&A     |  |	|	To-do|	
+| Computer-controlled cutting      | |	|	To-do|	 
+| Interface application programming  | |	|To-do	|	 
+| Video editing      |  |	|	To-do|	
+| Introduction of patent application |  |	|To-do	|	
+| Final presentation    |  |	|	To-do|
+
+
+#### [OUTLAST Zone](https://wjqbugkiller.github.io/)
+|Topic|    Question        | Update time           | Condation  |	
+| ------------- | :-----:|	:-----:|	:-----:|
+| Introduction of design engineering | |	|	To-do|	
+| Project management      | 1.team introduce; 2.Potential final project; 3. how to build github web page; 4.Another page |20211014	|Doing	|	 
+| Computer aided design    |1.Simple introduce how to make model， assemble and find standard part； 2. Attach stp link if possible  |20211014	|Doing	|
+| Open source hardware and Arduino basic  | 1.try to add video to web|20211014	|Doing	|
+|     Arduino (input devices)    | |	|	To-do|	
+|   Arduino (output devices)   | |	|	To-do|	 
+|Intelligent materials     |  |	|	To-do|	
+|  Arduino IOT    |  |	|	To-do|	
+| 3D printing      |  |	|	To-do|	
+| CNC machine      |   |	|	To-do|	
+| Midterm presentation ，Q&A     |  |	|	To-do|	
+| Computer-controlled cutting      | |	|	To-do|	 
+| Interface application programming  | |	|To-do	|	 
+| Video editing      |  |	|	To-do|	
+| Introduction of patent application |  |	|To-do	|	
+| Final presentation    |  |	|	To-do|
+
 
 
 
