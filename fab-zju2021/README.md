@@ -39,7 +39,7 @@ The following is the schedule.
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
 | Introduction of design engineering | ||To-do| 
-| Project management  | 1Update team introduce；2Update team member introduce;3Introduce how to  build web;4Layout evry project,5 final project|20211013|Doing| 
+| Project management  | 1Update team introduce；<br />2Update team member introduce;<br />3Introduce how to  build web;<br />4.Layout evry project,5 final project|20211013|Doing| 
 | Computer aided design | |20211013|To-do| 
 | Open source hardware and Arduino basic | |20211013|To-do| 
 |  Arduino (input devices)  | ||To-do| 
