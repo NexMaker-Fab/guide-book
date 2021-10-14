@@ -32,15 +32,12 @@ The following is the schedule.
 
 
 
-#### [CNFD](https://1831626605.wixsite.com/cnfd)
-
-
-
+#### [1](https://1831626605.wixsite.com/cnfd)
 
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
 | Introduction of design engineering | ||| 
-| Project management  | 1Update team introduce；2Update team member introduce，3Introduce how to  build web;Layout evry project and final project|20211013|wait| 
+| Project management  | 1Update team introduce；2Update team member introduce;3Introduce how to  build web;4Layout evry project and final project|20211013|wait| 
 | Computer aided design |noting here |20211013|wait| 
 | Open source hardware and Arduino basic |noting here |20211013|wait| 
 |  Arduino (input devices)  | ||| 
@@ -59,24 +56,52 @@ The following is the schedule.
 
 
 
-|Topic|    Question        | Update time           | Condation  |	
-| ------------- | :-----:|	:-----:|	:-----:|	
-| Introduction of design engineering | |	|	|	
-| Project management      | |	|	|	 
-| Computer aided design    | noting here|20211013	|	wait|	 
-| Open source hardware and Arduino basic  | noting here |	20211013|	wait|	
-|     Arduino (input devices)    | |	|	|	
-|   Arduino (output devices)   | |	|	|	 
-|Intelligent materials     |  |	|	|	
-|  Arduino IOT    |  |	|	|	
-| 3D printing      |  |	|	|	
-| CNC machine      |   |	|	|	
-| Midterm presentation ，Q&A     |  |	|	|	
-| Computer-controlled cutting      | |	|	|	 
-| Interface application programming  | |	|	|	 
-| Video editing      |  |	|	|	
-| Introduction of patent application |  |	|	|	
-| Final presentation    |  |	|	|	
+#### [2](https://1831626605.wixsite.com/cnfd)
+
+| Topic       | Question        |  Update time   | Condation | 
+| ------------- | :-----:|:-----:|-----:|
+| Introduction of design engineering | ||| 
+| Project management  | 1Update team introduce；2Update team member introduce;3Introduce how to  build web;4Layout evry project and final project|20211013|wait| 
+| Computer aided design |noting here |20211013|wait| 
+| Open source hardware and Arduino basic |noting here |20211013|wait| 
+|  Arduino (input devices)  | ||| 
+|  Arduino (output devices) | ||| 
+| Intelligent materials | ||| 
+|  Arduino IOT  | ||| 
+| 3D printing  | ||| 
+| CNC machine  | ||| 
+| Midterm presentation ，Q&A | ||| 
+| Computer-controlled cutting | ||| 
+| Interface application programming | ||| 
+| Introduction of design engineering | ||| 
+| Video editing | ||| 
+| Introduction of patent application | ||| 
+| Final presentation |2||| 
+
+#### [2](https://1831626605.wixsite.com/cnfd)
+
+| Topic       | Question        |  Update time   | Condation | 
+| ------------- | :-----:|:-----:|-----:|
+| Introduction of design engineering | ||| 
+| Project management  | 1Update team introduce；2Update team member introduce;3Introduce how to  build web;4Layout evry project and final project|20211013|wait| 
+| Computer aided design |noting here |20211013|wait| 
+| Open source hardware and Arduino basic |noting here |20211013|wait| 
+|  Arduino (input devices)  | ||| 
+|  Arduino (output devices) | ||| 
+| Intelligent materials | ||| 
+|  Arduino IOT  | ||| 
+| 3D printing  | ||| 
+| CNC machine  | ||| 
+| Midterm presentation ，Q&A | ||| 
+| Computer-controlled cutting | ||| 
+| Interface application programming | ||| 
+| Introduction of design engineering | ||| 
+| Video editing | ||| 
+| Introduction of patent application | ||| 
+| Final presentation |2||3| 
+
+
+
 
 #### [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)
 
