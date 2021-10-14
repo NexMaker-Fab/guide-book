@@ -127,7 +127,7 @@
 
 * [Design Enngineering2021 ](fab-zju2021/README.md)
   * [CNFD](https://374737390.wixsite.com/my-site)
-  * [NBD](https://duckweed2222.wixsite.com/my-site-3)
+  * [NBD](https://notblinddesign.wixsite.com/nbdesign)
   * [XXZZXH](https://xxzzxh.github.io/)
   * [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)
   * [X-Lab](https://x-labby.webflow.io/)

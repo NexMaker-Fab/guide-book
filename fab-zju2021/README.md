@@ -60,7 +60,7 @@ The following is the schedule.
 
 
 
-#### [NBD](https://duckweed2222.wixsite.com/my-site-3)
+#### [NBD](https://notblinddesign.wixsite.com/nbdesign)
 
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
