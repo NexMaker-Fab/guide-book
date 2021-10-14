@@ -126,14 +126,14 @@
   * [Natural](http://natural.designist.cn)
 
 * [Design Enngineering2021 ](fab-zju2021/README.md)
-  * [CNFD](https://1831626605.wixsite.com/cnfd)
+  * [CNFD](https://374737390.wixsite.com/my-site)
   * [Not Blind team](https://duckweed2222.wixsite.com/my-site-3)
   * [XXZZXH](https://xxzzxh.github.io/)
   * [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)
   * [X-Lab](https://x-labby.webflow.io/)
   * [Get1688](https://1175138076.wixsite.com/get1688)
-  * [Group7]()
-  * [Group8]()
+  * [WooHoo](https://richengaa.wixsite.com/woohoo)
+  * [OUTLAST Zone](https://wjqbugkiller.github.io/)
 
 
 ## OTHERS

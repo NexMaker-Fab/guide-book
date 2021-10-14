@@ -34,7 +34,7 @@ The following is the schedule.
 
 
 
-#### [CNFD](https://1831626605.wixsite.com/cnfd)
+#### [CNFD](https://374737390.wixsite.com/my-site)
 
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
