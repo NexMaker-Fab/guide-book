@@ -2,7 +2,19 @@
 
 
 ## Reference tool
-  
+
+* Blogs, wikis, documentation, content management systems
+  * [WorldPress](https://wordpress.org/), [Wordpress web servier](doc/1projectmanage/wordpresswebservier.md)
+  * [Wix](https://www.wix.com/)
+  * [Webflow](https://webflow.com/)
+  * [Gitlab-html](https://pages.gitlab.io/plain-html/),[Tech Stack - HTML+CSS+Github](doc/1projectmanage/htmlcssgithub.md)
+  * [GitBook](https://www.gitbook.com)
+  * [VuePress](https://vuepress.vuejs.org/)
+  * [Yuque](https://www.yuque.com/) 
+  * [Mubu](https://mubu.com/home)
+  * [Notion](https://www.notion.so/)
+  * [wolai](https://www.wolai.com/)
+
 *  Version control
    *  [Git](http://git-scm.com/) 
    *  [GitHub](https://github.com/) 
@@ -26,9 +38,7 @@
   * [Bootstrap](http://getbootstrap.com)
   * [Markdown](https://www.markdownguide.org/)
 
-* Blogs, wikis, documentation, content management systems
-  * [GitBook](https://www.gitbook.com)
-  * [WordPress](http://wordpress.org/)
+
 
 * Remote desktop
   * [ zoom](https://zoom.us/)
