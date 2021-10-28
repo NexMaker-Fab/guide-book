@@ -11,3 +11,10 @@
   * Market(similar product,price ,market channel);
   * Key tech analyse,and Potential tech problem；
   * Material and how to make it;
+
+
+
+
+*****
+
+Update time:20211028
