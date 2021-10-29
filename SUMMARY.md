@@ -128,13 +128,20 @@
 * [Design Enngineering2021 ](fab-zju2021/README.md)
   * [CNFD](https://374737390.wixsite.com/my-site)
   * [NBD](https://notblinddesign.wixsite.com/nbdesign)
-  * [XXZZXH](https://xxzzxh.github.io/)
+  * [UNDEFINED]](https://xxzzxh.github.io/)
   * [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)
   * [X-Lab](https://x-labby.webflow.io/)
   * [Get1688](https://1175138076.wixsite.com/get1688)
   * [WooHoo](https://richengaa.wixsite.com/woohoo)
   * [OUTLAST Zone](https://wjqbugkiller.github.io/)
 
+* [Design Manufacture2021](fab-zjuf2021/README.md)
+  * [Group1]()
+  * [Group2]()
+  * [Group3]()
+  * [Group4]()
+  * [Group5]()
+  * [Group6]()
 
 ## OTHERS
 
