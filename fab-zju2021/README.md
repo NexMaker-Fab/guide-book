@@ -20,9 +20,9 @@ The following is the schedule.
 | 10.14 |     Arduino (output devices)    | 
 | 10.21     |  Arduino (input devices)    |  
 | 10.28 | Q&A      | 
-|11.4     |Intelligent materials     |  
-| 11.11 |  Arduino IOT    |  
-| 11.18     | 3D printing      |  
+|11.4     |3D printing    |  
+| 11.11 |  Intelligent materials    |  
+| 11.18     |Arduino IOT        |  
 | 11.25| CNC machine      |   
 | 12.2     | Midterm presentation ，Q&A     |  
 | 12.9 | Computer-controlled cutting      |  
@@ -44,9 +44,9 @@ The following is the schedule.
 | Open source hardware and Arduino basic |1.delete useless information; <br>2.check the layout of web; <br>3.describle the function |20211020|Doing| 
 |  Arduino (output devices) | ||To-do| 
 |  Arduino (input devices)  | ||To-do| 
+|  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
-|  Arduino IOT  | ||To-do| 
-| 3D printing  | ||To-do| 
+|  Arduino IOT | ||To-do| 
 | CNC machine  | ||To-do| 
 | Midterm presentation ，Q&A | ||To-do| 
 | Computer-controlled cutting | ||To-do| 
@@ -70,9 +70,9 @@ The following is the schedule.
 | Open source hardware and Arduino basic  |~~1. wrong resistance data;~~<br>~~2. Coding with text not picture； ~~ |20211020	|Doing	|	
 | Arduino  (output devices)   | wrong link|	20211020|	Doing|	
 | Arduino (input devices)   | |	|	To-do|	 
-|Intelligent materials     |  |	|	To-do|	
-|  Arduino IOT    |  |	|	To-do|	
-| 3D printing      |  |	|	To-do|	
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 
 | CNC machine      |   |	|	To-do|	
 | Midterm presentation ，Q&A     |  |	|	To-do|	
 | Computer-controlled cutting      | |	|	To-do|	 
@@ -91,9 +91,9 @@ The following is the schedule.
 | Open source hardware and Arduino basic  |~~1.  Add circuit diagram；~~ <br> ~~2.Check video~~ <br>~~3.Simple introduce the Arduino IDE you used~~|20211020|	Doing|	 
 | Arduino  (Output devices)   | |20211020|	To-do|	
 | Arduino (Input devices)   | |	|	To-do|	 
-|Intelligent materials     |  |	|	To-do|	
-|  Arduino IOT    |  |	|	To-do|	
-| 3D printing      |  |	|	To-do|	
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 
 | CNC machine      |   |	|	To-do|	
 | Midterm presentation ，Q&A     |  |	|	To-do|	
 | Computer-controlled cutting      | |	|	To-do|	 
@@ -112,9 +112,9 @@ The following is the schedule.
 | Open source hardware and Arduino basic  | ~~1.Update coding；~~ <br>~~2.Update  gif pic for result；~~<br>3.Simple introduce the Arduino IDE you used|20211020	|Doing	|	
 |     Arduino(Output devices)    | |	|	To-do|	
 |   Arduino (Input devices)    | |	|	To-do|	 
-|Intelligent materials     |  |	|	To-do|	
-|  Arduino IOT    |  |	|	To-do|	
-| 3D printing      |  |	|	To-do|	
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 	
 | CNC machine      |   |	|	To-do|	
 | Midterm presentation ，Q&A     |  |	|	To-do|	
 | Computer-controlled cutting      | |	|	To-do|	 
@@ -132,10 +132,9 @@ The following is the schedule.
 | Open source hardware and Arduino basic  |~~1.Add coding with text not picture;~~<br>2.Simple introduce the Arduino IDE you used;<br>3.Update  gif pic for result；|	20211020|To-do	|	
 |     Arduino   (Output devices)  | |	|	To-do|	
 |   Arduino  (Input devices)  
-| |	|	To-do|	 
-|Intelligent materials     |  |	|	To-do|	
-|  Arduino IOT    |  |	|	To-do|	
-| 3D printing      |  |	|	To-do|	
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 	
 | CNC machine      |   |	|	To-do|	
 | Midterm presentation ，Q&A     |  |	|	To-do|	
 | Computer-controlled cutting      | |	|	To-do|	 
@@ -153,9 +152,9 @@ The following is the schedule.
 | Open source hardware and Arduino basic  | Arduino IDE how to use it|20211014	|Doing	|
 |     Arduino (Output devices)   | |	|	To-do|	
 |   Arduino (Input devices)    | |	|	To-do|	 
-|Intelligent materials     |  |	|	To-do|	
-|  Arduino IOT    |  |	|	To-do|	
-| 3D printing      |  |	|	To-do|	
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 
 | CNC machine      |   |	|	To-do|	
 | Midterm presentation ，Q&A     |  |	|	To-do|	
 | Computer-controlled cutting      | |	|	To-do|	 
@@ -174,9 +173,9 @@ The following is the schedule.
 | Open source hardware and Arduino basic  | 1.introduce the tool you have used;<br>2.Coding for text; <br>3. Arduino IDE simple introduce|20211014	|Doing	|
 |     Arduino  (Output devices)   | |	|	To-do|	
 |   Arduino   (Input devices) | |	|	To-do|	 
-|Intelligent materials     |  |	|	To-do|	
-|  Arduino IOT    |  |	|	To-do|	
-| 3D printing      |  |	|	To-do|	
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 	
 | CNC machine      |   |	|	To-do|	
 | Midterm presentation ，Q&A     |  |	|	To-do|	
 | Computer-controlled cutting      | |	|	To-do|	 
@@ -195,9 +194,9 @@ The following is the schedule.
 | Open source hardware and Arduino basic  | Try to add video to web|20211014	|Doing	|
 |     Arduino  (Output devices)   | |	|	To-do|	
 |   Arduino (Input devices)   | |	|	To-do|	 
-|Intelligent materials     |  |	|	To-do|	
-|  Arduino IOT    |  |	|	To-do|	
-| 3D printing      |  |	|	To-do|	
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 
 | CNC machine      |   |	|	To-do|	
 | Midterm presentation ，Q&A     |  |	|	To-do|	
 | Computer-controlled cutting      | |	|	To-do|	 
