@@ -1,11 +1,12 @@
 ## 1.DESCRIPTION
 
-![](https://gitlab.com/picbed/bed/uploads/8877b2dc19a1b09395c2f0f49c93d779/wixlogo.png)
+<div align=center>![](https://gitlab.com/picbed/bed/uploads/8877b2dc19a1b09395c2f0f49c93d779/wixlogo.png)
+
 [Wix.com Ltd.](https://www.wix.com/)  is an Israeli software company, providing cloud-based web development services. It allows users to create HTML5 websites and mobile sites through the use of online drag and drop tools. Along with its headquarters and other offices in Israel, Wix also has offices in Brazil, Canada, Germany, India, Ireland, Lithuania, the United States, and Ukraine.Users can add social plug-ins, e-commerce, online marketing, contact forms, e-mail marketing, and community forums to their web sites using a variety of Wix-developed and third-party applications. The Wix website builder is built on a freemium business model, earning its revenues through premium upgrades.
 
 Users must purchase premium packages to connect their sites to their own domains, remove Wix ads, access the form builder, add e-commerce capabilities, or buy extra data storage and bandwidth.Wix provides customizable website templates and a drag-and-drop HTML5 web site builder that includes apps, graphics, image galleries, fonts, vectors, animations and other options. Users also may opt to create their web sites from scratch. In October 2013, Wix introduced a mobile editor to allow users to adjust their sites for mobile viewing.
 
-## Method
+## 2.Method
 
 1.Sign up for a free wix account
 * go to the Wix.com sign up page.

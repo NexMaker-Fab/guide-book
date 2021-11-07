@@ -42,7 +42,7 @@ The following is the schedule.
 | Project management  | ~~1.Update team introduce；~~<br>~~2.Update team member introduce;~~<br>~~3Introduce how to  build web;~~<br>~~4.Layout evry project;~~<br>5.delete useless social media link|20211107|Doing| 
 | Computer aided design |~~ 1.need detail how to design;<br>2.animation;<br> 3. how to setting assembly constraints and motion simulation~~|20211107|Done| 
 | Open source hardware and Arduino basic |~~1.delete useless information; <br>2.check the layout of web; <br>3.describle the function ~~ |20211107|Done| 
-|  Arduino (output devices) | ||To-do| 
+|  Arduino (output devices) | |20211107|Done| 
 |  Arduino (input devices)  | check the coding|20211107|To-do| 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
