@@ -64,7 +64,7 @@ The following is the schedule.
 
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
-| Introduction of design engineering |~~ Introduce your potential final project~~|20211107	|	Doing|	
+| Introduction of design engineering |~~Introduce your potential final project~~|20211107	|	Doing|	
 | Project management      |   ~~1. Check person link for home page~~<br> 2.The link for project in homepage is wrong<br>3.Change the name for project in home page |20211107	|	Doing|	 
 | Computer aided design    | ~~1. Introduce how to assemble the model with simple page or gif;~~<br> ~~2.Simple introduce how to do rend  and  animation;~~ <br>~~3.if possible attach  stp or solidworks data;~~<br>~~4.Simple introduce the solidwoks tool~~|20211107	|	Doing|	 
 | Open source hardware and Arduino basic  |~~1. wrong resistance data;~~<br>~~2.Coding with text not picture~~ |20211107	|Done	|	
@@ -127,7 +127,7 @@ The following is the schedule.
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | Final project introduce |20211107|	Doing|	 
-| Project management      | ~~1.Delete useless information;~~ <<br>~~2.How to build website~~|20211014	|Done	|	
+| Project management      | ~~1.Delete useless information;~~ <br>~~2.How to build website~~|20211014	|Done	|	
 | Computer aided design    | 1.Add design plugin link; <br>~~2.Introdcue the tool~~ <br>3.show design data if possible|20211020	|Doing	|	
 | Open source hardware and Arduino basic  |~~1.Add coding with text not picture;~~<br>2.Simple introduce the Arduino IDE you used;<br>3.Update  gif pic for result；|	20211020|To-do	|	
 |     Arduino   (Output devices)  | |	|	To-do|	
