@@ -5,8 +5,8 @@
 * Hardware: [NodeMCU](https://www.nodemcu.com/index_en.html)(In this example we choice [NodeMCU CP2102](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.271a2e8ddxUY1V&id=540886181835&_u=e1kvrthkacf4))
 * Software:Arduino IDE
     * We need change additional Boards Manages URL ,and it will help us to install ESP8266 libraries
-    * Arduino IDE-File-Preference (this is for windows,if your PC is MAC,you can choice Arduino-Preference)
-  * Change additional Boards Manages URL(http://arduino.esp8266.com/stable/package_esp8266com_index.json)
+      * Arduino IDE-File-Preference (this is for windows,if your PC is MAC,you can choice Arduino-Preference
+      * Change additional Boards Manages URL(http://arduino.esp8266.com/stable/package_esp8266com_index.json)
     ![](https://gitlab.com/picbed/bed/uploads/e83219459f6b001752e076784c08eec5/url.png)
     
 

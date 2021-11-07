@@ -38,12 +38,12 @@ The following is the schedule.
 
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
-| Introduction of design engineering | ||To-do| 
-| Project management  | ~~1.Update team introduce；~~<br>~~2.Update team member introduce;~~<br>~~3Introduce how to  build web;~~<br>~~4.Layout evry project;~~<br>5. final project|20211013|Doing| 
-| Computer aided design |~~ 1.need detail how to design;<br>2.animation;<br> 3. how to setting assembly constraints and motion simulation~~|20211020|Doing| 
-| Open source hardware and Arduino basic |1.delete useless information; <br>2.check the layout of web; <br>3.describle the function |20211020|Doing| 
+| Introduction of design engineering | final project introduce||Doing| 
+| Project management  | ~~1.Update team introduce；~~<br>~~2.Update team member introduce;~~<br>~~3Introduce how to  build web;~~<br>~~4.Layout evry project;~~<br>5.delete useless social media link|20211107|Doing| 
+| Computer aided design |~~ 1.need detail how to design;<br>2.animation;<br> 3. how to setting assembly constraints and motion simulation~~|20211107|Done| 
+| Open source hardware and Arduino basic |~~1.delete useless information; <br>2.check the layout of web; <br>3.describle the function ~~ |20211107|Done| 
 |  Arduino (output devices) | ||To-do| 
-|  Arduino (input devices)  | ||To-do| 
+|  Arduino (input devices)  | check the coding|20211107|To-do| 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 
@@ -86,7 +86,7 @@ The following is the schedule.
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	To-do|	
-| Project management      | ~~1.Delete useless social media link;~~<br> ~~2.Check the homepage link(home ,project, team, blog);~~ <br>3.Simple introduce final project; <br>4.Simpl introduce HTML,CSS,BOOTSTRAP  GITHUB relation and how to publish with  GitHub|	20211014|	Doing|	 
+| Project management      | ~~1.Delete useless social media link;~~<br> ~~2.Check the homepage link(home ,project, team, blog);~~ <br>3.Simple introduce final project; <br>4.Simpl introduce HTML,CSS,BOOTSTRAP  GITHUB relation and how to publish with  GitHub|	20211014|	Doing|	 
 | Computer aided design    | ~~1.How to make the model；~~ <br>~~2.The method inside luckin coffee picture; ~~<br>~~3.Method add fusion data to github page~~|		20211014|	Doing|	 
 | Open source hardware and Arduino basic  |~~1.  Add circuit diagram；~~ <br> ~~2.Check video~~ <br>~~3.Simple introduce the Arduino IDE you used~~|20211020|	Doing|	 
 | Arduino  (Output devices)   | |20211020|	To-do|	
@@ -168,7 +168,7 @@ The following is the schedule.
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | |	|	To-do|	
-| Project management      | 1.Simple how to build web; <br>2.Potential final proejet |	20211014	|Doing	|
+| Project management      | 1.Simple how to build web; <br>2.Potential final proejet |	20211014	|Doing	|
 | Computer aided design    |1. how to design model in creo and fusion 360 |	20211014	|Doing	|
 | Open source hardware and Arduino basic  | 1.introduce the tool you have used;<br>2.Coding for text; <br>3. Arduino IDE simple introduce|20211014	|Doing	|
 |     Arduino  (Output devices)   | |	|	To-do|	
