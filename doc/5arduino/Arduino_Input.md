@@ -469,7 +469,7 @@ void loop(void)
 
 
 
-### [9.Digital infrared sensor]from 2021CNFD](https://374737390.wixsite.com/my-site/autocat)
+### [9.Digital infrared sensor](https://374737390.wixsite.com/my-site/autocat)
 * Aim:Use the infrared sensor to control the switching state of RGB LED. When the infrared sensor detects an object within the range, the RGB LED turns on and flashes in red, yellow and green. At the same time, the button switch can also control the on state of RGB LED.
 * Digital infrared sensor: The sensor module has a strong ability to adapt to environmental light, it has a pair of infrared transmitting and receiving tubes, transmitting tubes emit a certain frequency of infrared light, when the detection direction encounters an obstacle (reflective surface), the infrared light is reflected back to be received by the receiving tube, after the comparator circuit processing, the green indicator will light up, while the signal output interface output digital signal (a low-level signal), can be adjusted through the potentiometer The detection distance of the sensor can be adjusted by potentiometer, the effective distance range 2s30m working voltage is 3.3V-5V. The detection distance of the sensor can be adjusted by potentiometer, with small interference, easy to assemble, easy to use and other characteristics, the mouth is widely used in robot obstacle avoidance, obstacle avoidance car, assembly line counting and black and white line tracing and many other occasions.
    ![](https://gitlab.com/picbed/bed/uploads/5caa064736324b031b24e679a94d57e5/3929200363_1065888284.jpeg)
@@ -477,19 +477,19 @@ void loop(void)
 
 ![](https://gitlab.com/picbed/bed/uploads/b4b7c92565274612e59681179ab8a373/微信图片_20211013225434.webp)
 
-* Coding
-* Result
+* Coding(coming soon)
+* Result(coming  soon)
+  
+[The above Digital infrared sensor from CNFD- team](https://374737390.wixsite.com/my-site/autocat)
+
 
 
 ## Reference
 
-[Arduino:HC-SR04  ultrasonic sensor](https://www.qutaojiao.com/8643.html)
-
-[Arduino in W3CSCHOOL](https://www.w3cschool.cn/arduino/arduino_ultrasonic_sensor.html)
-
-[Arduino PIR sensor](https://www.w3cschool.cn/arduino/arduino_pir_sensor.html)
-
-
+* [Arduino:HC-SR04  ultrasonic sensor](https://www.qutaojiao.com/8643.html)
+* [Arduino in W3CSCHOOL](https://www.w3cschool.cn/arduino/arduino_ultrasonic_sensor.html)
+* [Arduino PIR sensor](https://www.w3cschool.cn/arduino/arduino_pir_sensor.html)
+* [Digital infrared sensor ](https://374737390.wixsite.com/my-site/autocat)
 
 
 
