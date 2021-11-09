@@ -11,19 +11,21 @@ The following is our schedule.
 | 12.1-12.3      | Open source hardware and Arduino basic  | 
 | 12.8-12.10 |     Arduino (output devices)    | 
 |  12.15-12.17    |  Arduino (input devices)    |  
-|  12.22-12.24| Q&A      | 
-|    |Arduino IOT     |  
-|  |  Intelligent materials    |  
-|      | 3D printing      |  
-| | ~~CNC machine~~      |   
-|      | Midterm presentation ，Q&A     |  
-|  | Computer-controlled cutting      |  
-|       | Interface application programming  |  
-|  | ~~Video editing~~      |  
-|   | ~~Introduction of patent application~~ |  
-|  | Q&A     |  
-|  | Final presentation    |  
+|  12.22-12.24|  Arduino IOT    | 
+|   12.29-1.4 | Q&A     |  
+| 2.23-2.25 |  Intelligent materials    |  
+| 3.2-3.4     | 3D printing      |  
+|  3.9-3.11    | Midterm presentation ，Q&A     |  
+| 3.16-3.18 | Computer-controlled cutting      |  
+|  3.23-3.25     | Interface application programming  |  
+| 3.30-4.1 | Introduction of patent application      |  
+|  4.6-4.8 |  Q&A  |  
+| 4.13-4.15 | Final presentation   |  
+
 
 Our students come from  19 countries.
 ![](https://gitlab.com/picbed/bed/uploads/8e59a0f3777b96ce520aea90359a048e/2021map.png)
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d31109882.0510587!2d46.64834281911582!3d17.857703330765776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2shk!4v1636479720748!5m2!1sen!2shk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+
+<img src="https://gitlab.com/picbed/bed/uploads/8e59a0f3777b96ce520aea90359a048e/2021map.png" width="100%">
