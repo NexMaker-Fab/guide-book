@@ -25,7 +25,3 @@ The following is our schedule.
 
 Our students come from  19 countries.
 ![](https://gitlab.com/picbed/bed/uploads/8e59a0f3777b96ce520aea90359a048e/2021map.png)
-
-
-
-<img src="https://gitlab.com/picbed/bed/uploads/8e59a0f3777b96ce520aea90359a048e/2021map.png" width="100%">
