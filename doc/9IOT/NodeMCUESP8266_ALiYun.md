@@ -20,8 +20,8 @@
 
   * PubSubClient:dowload in [google drive](https://drive.google.com/open?id=1pJhtYuMFT3AmbOuwvFcjD2AhxBNycaWU) and install in Arduino IDE(Sketch-Include  Library-Add .ZIP Library)
     ![](https://gitlab.com/picbed/bed/uploads/b492119b4e49ced062c280024f87ca42/addlib.png)
-  * ArduinoJson v5:dowload in [google drive](https://drive.google.com/open?id=1B6HYMifYFhIFdC6_gnJQDl0BOi6KxO9E)(some with PubSubClient method)
-  * Aliyun:download in[google drive](https://drive.google.com/open?id=1KgQqhhFs2PZr72o1Cfhy-LJQKAi2LyBd)(some with PubSubClient method)
+  * ArduinoJson v5:dowload in [google drive](https://drive.google.com/open?id=1B6HYMifYFhIFdC6_gnJQDl0BOi6KxO9E)(same with PubSubClient method)
+  * Aliyun:download in [google drive](https://drive.google.com/open?id=1KgQqhhFs2PZr72o1Cfhy-LJQKAi2LyBd)(same with PubSubClient method)
 * NodeMCU driver:Open the following [NodeMCU link](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers#windows) and install the version you need ,we can't find NodeMCU in PC's port if we dont't install it 
   
 * IOT platform: [aliyun](www.aliyun.com),register by yourself
