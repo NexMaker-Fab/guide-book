@@ -92,5 +92,5 @@ There are three main types of lasers used in laser cutting.
 
 
 ## 5. Reference
-* [Recording from fablalb 2018](http://fab.academany.org/2018/lectures/fab-20180207.html)
+* [Recording from fablab 2018](http://fab.academany.org/2018/lectures/fab-20180207.html)
 * [Basic infromation about laser cutter](http://academy.cba.mit.edu/classes/computer_cutting/index.html)
