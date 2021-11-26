@@ -14,8 +14,13 @@ Open source products include permission to use the source code, design documents
 ![](https://gitlab.com/picbed/bed/uploads/d617f6a9c86081a24e26d4290e69d31a/PERMISSIVE-VS-COPYLEFT-LICENSES-2.jpg)
 
 
+## 3.Programming language
 
-## 3. Reference
+![](https://gitlab.com/picbed/bed/uploads/8720a2d0224f0f4a18fae651ef7ecbc3/ieee_spectrum_2017.png)
+
+
+
+## 4. Reference
 * Software
   * [linux](https://www.linux.org/)
   * [Android](https://www.android.com/)
