@@ -31,6 +31,7 @@
     * [Solidworks-guidebook](doc/2cad/Solidworks.md)
     * [Parameter design](doc/2cad/parameterdesign.md) 
     * [Sheet metal](doc/2cad/fusion360-sheetmetal.md)
+ 
 
 * [3. 3D printer](doc/3_3dprinter/assignment.md)
     * [Assessnment](doc/3_3dprinter/assignment.md)
@@ -77,14 +78,20 @@
 		
 * [8. CNC manufacture](https://astromachineworks.com/what-is-cnc-machining/)
     * [Assessment](doc/8CNC_manufacture/Assessment.md)
-    * [Tool](doc/8CNC_manufacture/tool.md)
-    * [Program](doc/8CNC_manufacture/cncprogram.md)
-    * [Manufacture](doc/8CNC_manufacture/cncmanufacture.md)
+    * [Tolerance]()
+    * [Types of CNC Machines ](cnctype.md)
+    * [NC]()
+    * 
+    * [Desktop Tool](doc/8CNC_manufacture/tool.md)
+    * [Desktop 3xis CNC Program](doc/8CNC_manufacture/cncprogram.md)
+    * [Desktop 3xis CNC Manufacture](doc/8CNC_manufacture/cncmanufacture.md)
 
 *  [9. IOT and Interaction](https://en.wikipedia.org/wiki/Internet_of_Things)
     * [Assessment](doc/9IOT/Assessment.md)
     * [IOT basic introduce](doc/9IOT/IOT_basic.md)
     * [NodeMCU-Aliyun Cloud](doc/9IOT/NodeMCUESP8266_ALiYun.md)
+
+
 
   
 ## FABS
