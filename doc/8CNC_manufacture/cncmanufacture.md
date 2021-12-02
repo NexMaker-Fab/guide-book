@@ -17,7 +17,8 @@ In **Trace1** ,we use Φ0.6mm flat end milling cutter
 
 
 ![](https://gitlab.com/picbed/bed/uploads/d5b8b544d32f3e96cf6490e259a6ce28/ezgif.com-optimize-2.gif)
-Use hand to fix the spindle and then use tool to fix again.
+
+Use hand to fix the spindle and then use wrench to fix again.
 
 
 ## 2. Candle prepare
