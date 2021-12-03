@@ -10,14 +10,15 @@ We need to run the 4 programs one by one ,the method is simiar(only difference i
 
 ![](https://gitlab.com/picbed/bed/uploads/b7dd4c466a8bfe57e76fddb8ed12abb5/installspindle.png)
 
-In **Trace1** ,we use Φ0.6mm flat end milling cutter
+In **Trace1** ,we use Φ0.6mm flat end milling cutter.
 
 
 ![](https://gitlab.com/picbed/bed/uploads/25478e2b6f5423d1c1793f071998a966/ezgif.com-optimize.gif)
 
 
 ![](https://gitlab.com/picbed/bed/uploads/d5b8b544d32f3e96cf6490e259a6ce28/ezgif.com-optimize-2.gif)
-Use hand to fix the spindle and then use tool to fix again.
+
+Use hand to fix the spindle and then use wrench to fix again.
 
 
 ## 2. Candle prepare

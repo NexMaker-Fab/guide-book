@@ -1,5 +1,7 @@
 ## Basic Language Reference
 ### 1. Digital I/O
+![](https://gitlab.com/picbed/bed/uploads/d55faf2d6912be48fd4deb377aae56df/R.jpeg)
+
 
 ```cpp
 int ledPin = 13;  // LED connected to digital pin 13
@@ -14,6 +16,7 @@ void setup() {
 void loop() {
   val = digitalRead(inPin);   // read the input pin
   digitalWrite(ledPin, val);  // sets the LED to the button's value
+}
 ```
 
 * 1.1 digitalRead()

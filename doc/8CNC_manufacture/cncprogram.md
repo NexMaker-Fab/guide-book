@@ -126,6 +126,7 @@ About height, reference 3.1.3 ,and choice one by one ,the following is for refer
 ![](https://gitlab.com/picbed/bed/uploads/b2870260cc9960e2415485f59dbe43e1/WX20201020-093248_2x.png)
 
 In this step, the method of Passs,Simulate,Output NC programis same with "3.1", so just reference  "3.1.4Passs"," 3.1.5 Simulate", "3.1.6Output NC program"
+
 #### 3.3 Step3: Milling the profile
 Ever time we can just cut the deep less than 1mm, but the thickness of our board is 1.5mm, so we need process two times(first 0.8mm, second 1.5mm) and output 2 NC programs.
 

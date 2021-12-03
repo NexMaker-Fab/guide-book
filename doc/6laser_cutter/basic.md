@@ -72,7 +72,7 @@ There are three main types of lasers used in laser cutting.
 
 
 
-## 4.The laser cutter in our lab
+## 5.The laser cutter in our lab
 
 ![](https://gitlab.com/picbed/bed/uploads/1940a8cbe0f567c4b2e3adc15fee716a/WechatIMG80.jpeg
 )
@@ -87,10 +87,10 @@ There are three main types of lasers used in laser cutting.
 |Resolution ratio|0.025mm|
 |The min word|Chinese Character2mm /letter1mm|
 |Power|AC220V±10%,50HZ,<2500W|
-|Formate|AI, BMP、GIF、JPEG、PCX、TGA、CDR、DWG、TIFF、PLT、DXF|
+|Formate|AI, BMP、JPEG、PCX、TGA、CDR、DWG、TIFF、PLT、DXF|
 	
 
 
-## 5. Reference
-* [Recording from fablalb 2018](http://fab.academany.org/2018/lectures/fab-20180207.html)
+## 6. Reference
+* [Recording from fablab 2018](http://fab.academany.org/2018/lectures/fab-20180207.html)
 * [Basic infromation about laser cutter](http://academy.cba.mit.edu/classes/computer_cutting/index.html)

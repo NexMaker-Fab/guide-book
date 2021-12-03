@@ -4,8 +4,8 @@
 
 |Product|HX960      | 
 | ------------- |-----:|	
-|Working area|900*600mm|
-|Machine size |1500*1200*1100mm    | 
+|Working area|900x600mm|
+|Machine size |1500x1200x1100mm    | 
 | Engraving speed|0-600mm/s|   	
 | Laser power|80W  |
 |Resolution ratio|0.025mm|
