@@ -6,7 +6,7 @@ Some key parameter is the following
 | ------------- |-----:|	
 | Working voltage| AC220/110V |
 | Spindle speed  | 1000rpm     |  	
-| working Dimensions| 300 * 200 * 45 mm     |
-| Product Dimensions| 417 * 417 * 300 mm |
+| working Dimensions| 300 x 200 x 45 mm     |
+| Product Dimensions| 417 x 417 x 300 mm |
 | Cooling method| No|
 
