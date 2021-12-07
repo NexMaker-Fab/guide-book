@@ -29,12 +29,13 @@ My [finial project Flexible PCB digital machine](http://fabacademy.org/2018/labs
 
 I would show the design steps of my pen box to introduce the basic of Fusion 360 operation
 ![](https://ws4.sinaimg.cn/large/006tNc79gy1fog3f4zz8sj30zk0jen4f.jpg)
-####Build project
+
+#### Build project
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1fog3nbbngoj31kw0wptmv.jpg)
 ![](https://ws2.sinaimg.cn/large/006tNc79gy1fog3o1914dj310m0ty48y.jpg)
-Open `data panel`, we can  build our fusion 360 project(in this case I name the folder as "fabalb"),and then build `New design`.
+Open `data panel`, we can  build our Fusion 360 project(in this case I name the folder as "fabalb"),and then build `New design`.
 
-####Sketch
+#### Sketch
 1. Create a sketch on a selected plane or face.
 	* `Sculpt > Sketch > Create Sketch` 
 	* `Model > Sketch > Create Sketch`   
@@ -57,14 +58,14 @@ In this case I choice * origin planes*
 ![](https://ws2.sinaimg.cn/large/006tNc79gy1fog49kzxrmj31kw0xk7de.jpg)
 
 
-####MODEL
+#### MODEL
 The MODEL workspace allows we to create and edit solid 3D geometry. This workspace is most like a traditional 3D CAD environment. In addition to standard modeling features, like extrude or revolve, we can also access the sculpting workspace from within the MODEL workspace. 
 
 In the `Creat` part we can find many command and it based on the abrove sketch,and in this case I show the simple command of `Extrude`
 
 ![](https://ws2.sinaimg.cn/large/006tNc79gy1fog4hnaes5j31kw0zgngc.jpg)
 
-####Assemble
+#### Assemble
 
 1. Build a  file for assemble data and save it in certain folder(it's better in same folder, so I save it in "fablab" folder)
     ![](https://ws2.sinaimg.cn/large/006tNc79gy1fog6fzfkmrj31kw0zdakk.jpg)
@@ -84,7 +85,7 @@ In the `Creat` part we can find many command and it based on the abrove sketch,a
 *In this part ,we need to make sure the size design and assemble tolerance to make sure we can manufacture it ,and I will introduce it in Laser "cutter -kerf"part.*
 
 
-####DRAWING
+#### DRAWING
 Create standard 2D drawings from your 3D geometry by entering the DRAWING workspace. See the Drawings section of the help for more information.
 * Choice  ` Drawing>from design` 
 * In creating drawing,we can determine the size and other information , I choice `IOS` standard, unit is `mm`sheet size `A4`,etc
@@ -98,7 +99,7 @@ Create standard 2D drawings from your 3D geometry by entering the DRAWING worksp
 ![](https://ws3.sinaimg.cn/large/006tNc79gy1fogaoq79hyj31ca15244h.jpg)
 
 ![](https://ws2.sinaimg.cn/large/006tNc79gy1fogaqq0b7cj31kw0ziwlv.jpg)
-####Output from dwg>dxf
+#### Output from dwg>dxf
 
 Becasue laser cutter software need dxf format, but fusion 360 can only put dwg(I have communicate with autodesk development team ,they are research laser cutter format)
 
@@ -124,29 +125,29 @@ The PATCH workspace allows you to create and edit 2D or 3D surface geometry. Wor
 
 *The detail information will coming soon in another case*
 
-####MESH
+#### MESH
 Using the MESH workspace, you can repair and remesh mesh bodies. This workspace must be enabled in the Preview section of the Preferences dialog. A mesh body is a representation of a solid volume using many short line segments arranged in triangles or quadrilaterals to form the faces. Use meshes for 3D printing. You can also manipulate meshed bodies in the SCULPT workspace.
 *The detail information will coming soon in another case*
 
-####RENDER
+#### RENDER
 The RENDER workspace is used to generate realistic pictures of your designs. Using capabilities like lighting and adding decals, you can show your design as if it were already a live prototype. 
 *The detail information will coming soon in another case*
 
-####ANIMATION
+#### ANIMATION
 The ANIMATION workspace provides tools for creating videos. Easily share your videos to communicate your design features and functionality. Videos provide needed insight about your designs and can assist others in understanding and evaluating them. 
 *The detail information will coming soon in another case*
 
-####SIMULATION
+#### SIMULATION
 The SIMULATION workspace allows you to use finite element analysis to simulate how the design performs under various loads and conditions. Understanding the physical limitations of your design (with regard to stress and temperature) is invaluable. Knowing if a design is in danger of failure, or is possibly over-engineered, helps you to make informed decisions about design changes. Creating a more efficient and better design on the first manufacturing pass is always a good idea. Simulation can also minimize or eliminate the necessity of building prototypes and performing destructive testing. 
 *The detail information will coming soon in another case*
 
 
-####CAM
+#### CAM
 When the time comes to take your design from digital to fabricated, take advantage of Computer-Aided Manufacturing capabilities in the CAM workspace. You can produce toolpath strategies for fabricating your designs. Export your toolpaths to CNC (Computer Numerically Controlled) machines to make your design a reality.
 
 
 ***
-####Attachment design data
+#### Attachment design data
 fusion 360 data:[Assemble](http://a360.co/2szsiZC),[Sheet1](http://a360.co/2C8J7yH),[Sheet2](http://a360.co/2sIUJEM),[Sheet3](http://a360.co/2GqtnoM),[Sheet4](http://a360.co/2sFJOeU),[Sheet5](http://a360.co/2G8PvUs),[Sheet6](http://a360.co/2BCFVdy)
 
 
