@@ -78,10 +78,7 @@
 		
 * [8. CNC manufacture](https://astromachineworks.com/what-is-cnc-machining/)
     * [Assessment](doc/8CNC_manufacture/Assessment.md)
-    * [Tolerance]()
     * [Types of CNC Machines ](cnctype.md)
-    * [NC]()
-    * 
     * [Desktop Tool](doc/8CNC_manufacture/tool.md)
     * [Desktop 3xis CNC Program](doc/8CNC_manufacture/cncprogram.md)
     * [Desktop 3xis CNC Manufacture](doc/8CNC_manufacture/cncmanufacture.md)
