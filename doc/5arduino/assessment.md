@@ -12,7 +12,7 @@
 
 
 ## Arduino Output
-* Do project which contain LED, relay, motor ,1602 screen
+* Do project which contain LED, motor ,1602 screen
 
 ## Arduino Input
 * Do one project which contain switch, sensor(photosensitive sensor, temperature ,etc);
