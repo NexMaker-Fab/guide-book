@@ -141,8 +141,8 @@
 * [Design Manufacture2021](fab-zjuf2021/README.md)
   * [The Flash team](https://turatsinzecmu2020.wixsite.com/theflash)
   * [The Crescent](https://bitenotes.wixsite.com/the-crescent)
-  * [lushomo19](https://lushomo19.wixsite.com/estimate)
-  * [Group4 wait]()
+  * [Lushomo19](https://lushomo19.wixsite.com/estimate)
+  * [Kltkawsar](https://kltkawsar.wixsite.com/website)
   * [Group5 wait]()
 
 
