@@ -89,14 +89,14 @@ The following is the schedule.
 | Project management      | ~~1.Delete useless social media link;~~<br> ~~2.Check the homepage link(home ,project, team, blog);~~ <br>~~3.Simpl introduce HTML,CSS,BOOTSTRAP  GITHUB relation and how to publish with  GitHub~~|	20211107|	Done|	 
 | Computer aided design    | ~~1.How to make the model；~~ <br>~~2.The method inside luckin coffee picture; ~~<br>~~3.Method add fusion data to github page~~|		20211014|	Done|	 
 | Open source hardware and Arduino basic  |~~1.  Add circuit diagram；~~ <br> ~~2.Check video~~ <br>~~3.Simple introduce the Arduino IDE you used~~|20211020|	Done|	 
-| Arduino  (Output devices)   | |20211020|	To-do|	
-| Arduino (Input devices)   | |	|	To-do|	 
+| Arduino  (Output devices)   | |20211209|	Done|	
+| Arduino (Input devices)   | |	20211209|Done|	 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 
 | CNC machine      |   |	|	To-do|	
 | Midterm presentation ，Q&A     |  |	|	To-do|	
-| Computer-controlled cutting      | |	|	To-do|	 
+| Computer-controlled cutting      |1.Introduce design software;2.Attach dxf data |	20211209|	To-do|	 
 | Interface application programming  | |	|To-do	|	 
 | Video editing      |  |	|	To-do|	
 | Introduction of patent application |  |	|To-do	|	
@@ -110,7 +110,7 @@ The following is the schedule.
 | Project management      | <br>~~1. build notion web method~~|	20211107	|Done	|	
 | Computer aided design    | ~~1. How to make model （at least bird，gear~~<br>~~2.how to setting the motion~~|	20211014|	Done|	 
 | Open source hardware and Arduino basic  | ~~1.Update coding；~~ <br>~~2.Update  gif pic for result；~~<br>3.~~Simple introduce the Arduino IDE you used~~<br>4.Write the data for resistance|20211107|Doing|	
-|     Arduino(Output devices)    | 1.arduino 2.0 write the data for resistance<br>2.From Chinese to English|20211107	|	Doing|	
+|     Arduino(Output devices)    | 1.arduino 2.0 write the data for resistance<br>~~2.From Chinese to English~~|20211107	|	Doing|	
 |   Arduino (Input devices)    | |	|	To-do|	 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
@@ -154,10 +154,10 @@ The following is the schedule.
 |   Arduino (Input devices)    | |20211107	|	Done|	 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
-|  Arduino IOT | ||To-do| 
+|  Arduino IOT | |20211209|Done| 
 | CNC machine      |   |	|	To-do|	
 | Midterm presentation ，Q&A     |  |	|	To-do|	
-| Computer-controlled cutting      | |	|	To-do|	 
+| Computer-controlled cutting      | |	20211209|	Done|	 
 | Interface application programming  | |	|To-do	|	 
 | Video editing      |  |	|	To-do|	
 | Introduction of patent application |  |	|To-do	|	
