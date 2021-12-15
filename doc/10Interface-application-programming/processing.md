@@ -360,8 +360,7 @@ void mouseClicked(){
 int upPin = 3;
 int downPin = 4;
 int leftPin = 5;
-int rightPin = 6; //分别控制上下左右
-
+int rightPin = 6; 
 int up1,down1,left1,right1;
 
 void setup() {
@@ -369,7 +368,7 @@ void setup() {
   pinMode(downPin,INPUT_PULLUP);
   pinMode(leftPin,INPUT_PULLUP);
   pinMode(rightPin,INPUT_PULLUP);
-  Serial.begin(9600);  //比特率设置为一致方可通信
+  Serial.begin(9600);  
 }
 
 void loop() {
@@ -377,8 +376,7 @@ void loop() {
   up1 = digitalRead(upPin);
   down1 = digitalRead(downPin);
   left1 = digitalRead(leftPin);
-  right1 = digitalRead(rightPin);  //按下开关对应的模拟针脚电平会发送改变
-  
+  right1 = digitalRead(rightPin);  
   if(up1 == 0)
   {
     delay(500);
@@ -408,7 +406,7 @@ void loop() {
 import processing.serial.*;
 Serial port;
 int a = 300;
-int b = 300;  //ab为圆心的坐标
+int b = 300;  
 
 void setup(){
   size(600,600);
