@@ -353,6 +353,7 @@ void mouseClicked(){
 
 
 #### 3.2 Using Arduino  to control Processing
+![](https://gitlab.com/picbed/bed/uploads/ae08dcc49e8b1cdb1ba769f379c9069c/pta.png)
 
 **Arduino coding**
 ```
@@ -456,6 +457,7 @@ void draw()
   }
 }
 ```
+**3Processing communication with Arduino reference from  [web](https://blog.csdn.net/weixin_45037820/article/details/95666523) **
 
 ## 4. Reference
 * [Official website](http://www.processing.org)
