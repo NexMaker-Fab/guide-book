@@ -90,7 +90,7 @@
 * [10. Interface Application Programming](http://fabacademy.org/2018/docs/FabAcademy-Tutorials/week16_interface_and_application_programming/processing_resources.html)
   * [Assessment](doc/10Interface-application-programming/Assessment.md)
   * [Processing](doc/10Interface-application-programming/processing.md)
-  * [Processing with Arduino](processingwitharduino.md)
+  * [Processing with Arduino](doc/10Interface-application-programming/processingwitharduino.md)
   * [Touch designer](https://derivative.ca/showcase)
   
 ## FABS
