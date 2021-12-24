@@ -143,14 +143,14 @@
 * [Design Manufacture2021](fab-zjuf2021/README.md)
   * [The Flash team](https://turatsinzecmu2020.wixsite.com/theflash)
   * [The Crescent](https://bitenotes.wixsite.com/the-crescent)
-  * [Lushomo19](https://lushomo19.wixsite.com/estimate)
+  * [Estimate](https://lushomo19.wixsite.com/estimate)
   * [Kltkawsar](https://kltkawsar.wixsite.com/website)
   * [Rahmansezad](https://rahmansezad.wixsite.com/website)
 
 
 ## OTHERS
 
-* [XR](XR/readme.md)
+* [XR](X
   * [How to star](XR/how_to_star/aim.md)
     * [Software](XR/how_to_star/Software.md)
     * [Optical](XR/how_to_star/Optical.md)

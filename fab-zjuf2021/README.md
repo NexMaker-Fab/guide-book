@@ -25,3 +25,124 @@ The following is our schedule.
 
 Our students come from  19 countries.
 ![](https://gitlab.com/picbed/bed/uploads/8e59a0f3777b96ce520aea90359a048e/2021map.png)
+
+
+
+#### [The flash team](https://turatsinzecmu2020.wixsite.com/theflash)
+
+| Topic       | Question        |  Update time   | Condation | 
+| ------------- | :-----:|:-----:|-----:|
+| Introduction of design engineering | show potential final project idea |20211224|Doing| 
+| Project management  | 1. show how to build your webpage<br>2.manage the blog method to show project|20211224|Doing| 
+| Open source hardware and Arduino basic |show coding wiht text not picture|20211224|Doing| 
+|  Arduino (output devices) | ||To-do| 
+|  Arduino (input devices)  | ||To-do| 
+| Computer aided design ||Done| 
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 
+| CNC machine  | ||To-do| 
+| Midterm presentation ，Q&A | ||To-do| 
+| Computer-controlled cutting | ||To-do| 
+| Interface application programming | ||To-do| 
+| Introduction of design engineering | ||To-do| 
+| Video editing | ||| 
+| Introduction of patent application | ||To-do| 
+| Final presentation | ||To-do| 
+
+
+
+#### [The Crescent](https://bitenotes.wixsite.com/the-crescent)
+
+| Topic       | Question        |  Update time   | Condation | 
+| ------------- | :-----:|:-----:|-----:|
+| Introduction of design engineering | show potential final project idea |20211224|Doing| 
+| Project management  |1. show how to build your webpage;<br>2.check the picture  and text in your personal's introduction<br>3.delete useless information |20211224|Doing|
+| Open source hardware and Arduino basic |||To-do| 
+|  Arduino (output devices) | ||To-do| 
+|  Arduino (input devices)  | ||To-do| 
+| Computer aided design ||Done| 
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 
+| CNC machine  | ||To-do| 
+| Midterm presentation ，Q&A | ||To-do| 
+| Computer-controlled cutting | ||To-do| 
+| Interface application programming | ||To-do| 
+| Introduction of design engineering | ||To-do| 
+| Video editing | ||| 
+| Introduction of patent application | ||To-do| 
+| Final presentation | ||To-do| 
+
+
+
+#### [Estimate](https://lushomo19.wixsite.com/estimate)
+
+| Topic       | Question        |  Update time   | Condation | 
+| ------------- | :-----:|:-----:|-----:|
+| Introduction of design engineering | show potential final project idea |20211224|Doing| 
+| Project management  |1.show how to build this webpage<br>2.3 member can add personal introduction|20211224 |Doing| 
+| Open source hardware and Arduino basic |show the data of resistance for "AUTOMATIC LIGHT SYSTEM"|20211224|Doing| 
+|  Arduino (output devices) | |20211224|Done| 
+|  Arduino (input devices)  | ||To-do| 
+| Computer aided design |1.show the detail how to make the sketch especial about "mirrrow";<br> 2.show the detail of "extrude"(the logo,how to choice in the command board);<br>3.show the detail about "draft";<br>4,for 3d dragonball show how to revolve in command board;5,for 3d dragonball,show how to change appearance|Doing| 
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 
+| CNC machine  | ||To-do| 
+| Midterm presentation ，Q&A | ||To-do| 
+| Computer-controlled cutting | ||To-do| 
+| Interface application programming | ||To-do| 
+| Introduction of design engineering | ||To-do| 
+| Video editing | ||| 
+| Introduction of patent application | ||To-do| 
+| Final presentation | ||To-do| 
+
+
+#### [kltkawsar](https://kltkawsar.wixsite.com/website)
+
+| Topic       | Question        |  Update time   | Condation | 
+| ------------- | :-----:|:-----:|-----:|
+| Introduction of design engineering |show potential final project idea |20211224|Doing| 
+| Project management  |1. optimize the layout of web,determine how many pages for second class;<br>2.show how to build the webpage; <br>3. introduce team and team member<br>every class in one page ,not all in home page |20211224|Doing| 
+| Open source hardware and Arduino basic |||To-do| 
+|  Arduino (output devices) | ||To-do| 
+|  Arduino (input devices)  | ||To-do| 
+| Computer aided design ||Done| 
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 
+| CNC machine  | ||To-do| 
+| Midterm presentation ，Q&A | ||To-do| 
+| Computer-controlled cutting | ||To-do| 
+| Interface application programming | ||To-do| 
+| Introduction of design engineering | ||To-do| 
+| Video editing | ||| 
+| Introduction of patent application | ||To-do| 
+| Final presentation | ||To-do| 
+
+
+
+#### [Rahmansezad](https://rahmansezad.wixsite.com/website)
+
+| Topic       | Question        |  Update time   | Condation | 
+| ------------- | :-----:|:-----:|-----:|
+| Introduction of design engineering | show potential final project idea |20211224|Doing| 
+| Project management  | show to build your webpage|20211224|Doing| 
+| Open source hardware and Arduino basic |1.change the color of VCC and GND<br>2. optimize the connection|20211224|Doing| 
+|  Arduino (output devices) | |20211224|Done| 
+|  Arduino (input devices)  | |20211224|Done|
+| Computer aided design |1.delete arduino picture;<br>2.show how to make sketch ,,confirm the size and  position;<br>3.show how to extrude 4. design the model in component 1 not ubed|20211224 |Doing| 
+|  3D printing  | ||To-do| 
+| Intelligent materials | ||To-do| 
+|  Arduino IOT | ||To-do| 
+| CNC machine  | ||To-do| 
+| Midterm presentation ，Q&A | ||To-do| 
+| Computer-controlled cutting | ||To-do| 
+| Interface application programming | ||To-do| 
+| Introduction of design engineering | ||To-do| 
+| Video editing | ||| 
+| Introduction of patent application | ||To-do| 
+| Final presentation | ||To-do| 
+
+
