@@ -37,7 +37,7 @@ Our students come from  19 countries.
 | Open source hardware and Arduino basic |show coding wiht text not picture|20211224|Doing| 
 |  Arduino (output devices) | ||To-do| 
 |  Arduino (input devices)  | ||To-do| 
-| Computer aided design ||Done| 
+| Computer aided design |||To-do| 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 
@@ -61,7 +61,7 @@ Our students come from  19 countries.
 | Open source hardware and Arduino basic |||To-do| 
 |  Arduino (output devices) | ||To-do| 
 |  Arduino (input devices)  | ||To-do| 
-| Computer aided design ||Done| 
+| Computer aided design |||To-do| 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 
@@ -108,7 +108,7 @@ Our students come from  19 countries.
 | Open source hardware and Arduino basic |||To-do| 
 |  Arduino (output devices) | ||To-do| 
 |  Arduino (input devices)  | ||To-do| 
-| Computer aided design ||Done| 
+| Computer aided design |||To-do| 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 
