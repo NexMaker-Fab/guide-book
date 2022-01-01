@@ -167,21 +167,21 @@ The following is the schedule.
 #### [WooHoo](https://richengaa.wixsite.com/woohoo)
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
-| Introduction of design engineering |Final project introduce |	20211107|	To-do|	
+| Introduction of design engineering |Final project introduce |	20220101|	Doing|	
 | Project management      | ~~Simple how to build web~~ |	20211107	|Done	|
 | Computer aided design    |~~1. how to design model in creo and fusion 360~~ |	20211107	|Done	|
-| Open source hardware and Arduino basic  | ~~1.introduce the tool you have used;~~<br>~~2.Coding for text; ~~<br> ~~3.Arduino IDE simple introduce~~;<br>4.Show the result for mpu6050|20211107	|Doing	|
+| Open source hardware and Arduino basic  | ~~1.introduce the tool you have used;~~<br>~~2.Coding for text; ~~<br> ~~3.Arduino IDE simple introduce~~;<br>~~4.Show the result for mpu6050~~|20220101	|Done	|
 |     Arduino  (Output devices)   | |	20211107|	Done|	
 |   Arduino   (Input devices) | |20211107	|	Done|	 
-|  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
+|  3D printing  |1.show the detail 3d printing setting in software,expecial the parameter setting; <br>2.show the detail of cross profile which can express why can rotate;|20220101|Doing| 
+| Intelligent materials | ||Done| 
 |  Arduino IOT | ||To-do| 	
-| CNC machine      |   |	|	To-do|	
-| Midterm presentation ，Q&A     |  |	|	To-do|	
-| Computer-controlled cutting      | |	|	To-do|	 
-| Interface application programming  | |	|To-do	|	 
-| Video editing      |  |	|	To-do|	
-| Introduction of patent application |  |	|To-do	|	
+| CNC machine      |   |	|	Done|	
+| Midterm presentation ，Q&A     |  |	|	Done|	
+| Computer-controlled cutting      | 1.Show how to export data from Rhino to Ai<br>2. Show the detail parameter  which influence the assembly;<br>Show Rhino 3D model and compare with acutal model|20220101	|Doing|	 
+| Interface application programming  | 1. Show how to connect arduino with component in Tinker cad or another method;<br>2.Simple introduce "CapacitiveSensor.h"|20220101	|Doing	|	 
+| Video editing      |  |	|	Done|	
+| Introduction of patent application |  |	Done	|	
 | Final presentation    |  |	|	To-do|
 
 
