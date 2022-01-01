@@ -43,17 +43,16 @@ The following is the schedule.
 | Computer aided design |~~1.need detail how to design;~~<br>~~2.animation;~~<br> ~~3. how to setting assembly constraints and motion simulation~~|20211107|Done| 
 | Open source hardware and Arduino basic |~~1.delete useless information;~~ <br>~~2.check the layout of web;~~ <br> ~~3.Describle the function~~ |20211107|Done| 
 |  Arduino (output devices) | |20211107|Done| 
-|  Arduino (input devices)  | check the coding|20211107|To-do| 
-|  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
+|  Arduino (input devices)  |~~1. Check the coding;~~<br>2.Check the word "Arduino input "and "Arduino output"in the link https://374737390.wixsite.com/my-site/toki-top|20220101|Doing| 
+|  3D printing  | 1..show the detail 3d printing setting in software,expecial the parameter setting;<br>2. Attach the 3d model data in web;<br>3.Show how to assemble and connect the circuit|20220101|Doing| 
+| Intelligent materials | ||Done| 
 |  Arduino IOT | ||To-do| 
-| CNC machine  | ||To-do| 
-| Midterm presentation ，Q&A | ||To-do| 
-| Computer-controlled cutting | ||To-do| 
-| Interface application programming | ||To-do| 
-| Introduction of design engineering | ||To-do| 
-| Video editing | ||| 
-| Introduction of patent application | ||To-do| 
+| CNC machine  | ||Done| 
+| Midterm presentation ，Q&A | ||Done| 
+| Computer-controlled cutting |1. Attach the data;<br>Show some key step how to assemble,especial how to assemble with arduino and sensor;<br> **3.Show the parameter setting,how to transport data,run the machine**|20220101|Doing| 
+| Interface application programming |1.Test some case communicate processing with arduino |20220101|Doing| 
+| Video editing | ||Doning| 
+| Introduction of patent application | ||Doing| 
 | Final presentation | ||To-do| 
 
 
@@ -70,15 +69,15 @@ The following is the schedule.
 | Open source hardware and Arduino basic  |~~1. wrong resistance data;~~<br>~~2.Coding with text not picture~~ |20211107	|Done	|	
 | Arduino  (output devices)   | ~~wrong link~~|	20211107|	Done|	
 | Arduino (input devices)   | |	20211107|	Done|	 
-|  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
+|  3D printing  |1.Show how to operate in software(load model, setting parameter,etc); |20220101|Doing| 
+| Intelligent materials | ||Done| 
 |  Arduino IOT | ||To-do| 
-| CNC machine      |   |	|	To-do|	
-| Midterm presentation ，Q&A     |  |	|	To-do|	
-| Computer-controlled cutting      | |	|	To-do|	 
-| Interface application programming  | |	|To-do	|	 
-| Video editing      |  |	|	To-do|	
-| Introduction of patent application |  |	|To-do	|	
+| CNC machine      |   |	|	Done|	
+| Midterm presentation ，Q&A     |  |	|	Done|	
+| Computer-controlled cutting      | 1.Show the detail parameter about assemble;<br>2.first step open water tank and fan and then running machine;<br>3.not "打印"，use processing or cutting better|20220101	|Doing|	 
+| Interface application programming  |1.Show the reason why different button;<br>2."5.Precessing 代码" |20220101	|Doing	|	 
+| Video editing      |  |	|	Done|	
+| Introduction of patent application |  |	|Done	|	
 | Final presentation    |  |	|	To-do|	
 
 #### [UNDEFINED](https://xxzzxh.github.io/)
@@ -92,14 +91,14 @@ The following is the schedule.
 | Arduino  (Output devices)   | |20211209|	Done|	
 | Arduino (Input devices)   | |	20211209|Done|	 
 |  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
+| Intelligent materials | ||Done| 
 |  Arduino IOT | ||To-do| 
-| CNC machine      |   |	|	To-do|	
-| Midterm presentation ，Q&A     |  |	|	To-do|	
-| Computer-controlled cutting      |1.Introduce design software;2.Attach dxf data |	20211209|	To-do|	 
-| Interface application programming  | |	|To-do	|	 
-| Video editing      |  |	|	To-do|	
-| Introduction of patent application |  |	|To-do	|	
+| CNC machine      |   |	|	Done|	
+| Midterm presentation ，Q&A     |  |	|	Done|	
+| Computer-controlled cutting      |1.Introduce design software;2.Attach dxf data |	20211209|	Doing|	 
+| Interface application programming  | |20220101	|Done	|	 
+| Video editing      |  |	|	Done|	
+| Introduction of patent application |  |	|Done	|	
 | Final presentation    |  |	|	To-do|	
 
 #### [2021toast](https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1)
@@ -110,28 +109,28 @@ The following is the schedule.
 | Project management      | <br>~~1. build notion web method~~|	20211107	|Done	|	
 | Computer aided design    | ~~1. How to make model （at least bird，gear~~<br>~~2.how to setting the motion~~|	20211014|	Done|	 
 | Open source hardware and Arduino basic  | ~~1.Update coding；~~ <br>~~2.Update  gif pic for result；~~<br>3.~~Simple introduce the Arduino IDE you used~~<br>4.Write the data for resistance|20211107|Doing|	
-|     Arduino(Output devices)    | 1.arduino 2.0 write the data for resistance<br>~~2.From Chinese to English~~|20211107	|	Doing|	
-|   Arduino (Input devices)    | |	|	To-do|	 
+|     Arduino(Output devices)    | 1.arduino 2.0 write the data for resistance<br>~~2.From Chinese to English~~|20220101	|	Done|	
+|   Arduino (Input devices)    | |20220101	|	Done|	 
 |  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
+| Intelligent materials | ||Done| 
 |  Arduino IOT | ||To-do| 	
-| CNC machine      |   |	|	To-do|	
-| Midterm presentation ，Q&A     |  |	|	To-do|	
-| Computer-controlled cutting      | |	|	To-do|	 
-| Interface application programming  | |	|To-do	|	 
-| Video editing      |  |	|	To-do|	
-| Introduction of patent application |  |	|To-do	|	
+| CNC machine      |   |	|	Done|	
+| Midterm presentation ，Q&A     |  |	|	Done|	
+| Computer-controlled cutting      |add software and machine operate  |20220101	|	Doing|	 
+| Interface application programming  | add a case communicate processing with arduino|	20220101|Doing	|	 
+| Video editing      |  |	|	Done|	
+| Introduction of patent application |  |	|Done	|	
 | Final presentation    |  |	|	To-do|
 
 #### [X-Lab](https://x-labby.webflow.io/)
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | Final project introduce |20211107|	Doing|	 
-| Project management      | ~~1.Delete useless information;~~ <br>~~2.How to build website~~|20211014	|Done	|	
+| Project management      | ~~1.Delete useless information;~~ <br>~~2.How to build website~~|20211014|Done	|	
 | Computer aided design    | 1.Add design plugin link; <br>~~2.Introdcue the tool~~ <br>3.show design data if possible|20211020	|Doing	|	
-| Open source hardware and Arduino basic  |~~1.Add coding with text not picture;~~<br>2.Simple introduce the Arduino IDE you used;<br>3.Update  gif pic for result；|	20211020|To-do	|	
-|     Arduino   (Output devices)  | |	|	To-do|	
-|   Arduino  (Input devices)  ||	|	To-do|	
+| Open source hardware and Arduino basic  |~~1.Add coding with text not picture;~~<br>~~2.Simple introduce the Arduino IDE you used;~~<br>3.Update  gif pic for result；<br>4. show the data for resistance;<br>5. Delete useless picture(robot)|	20220101|Doing	|	
+|     Arduino   (Output devices)  | |	20220101|	Done|	
+|   Arduino  (Input devices)  ||20220101	|	Done|	
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 	
@@ -153,14 +152,14 @@ The following is the schedule.
 |     Arduino (Output devices)   | |20211107	|	Done|	
 |   Arduino (Input devices)    | |20211107	|	Done|	 
 |  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
-|  Arduino IOT | |20211209|Done| 
-| CNC machine      |   |	|	To-do|	
-| Midterm presentation ，Q&A     |  |	|	To-do|	
+| Intelligent materials | ||Done| 
+|  Arduino IOT | 1. clear picture for" 2. 阿里云IOT平台设置";<br>2. aliyun setting for clock|20220101|Doing| 
+| CNC machine      |   |	|	Done|	
+| Midterm presentation ，Q&A     |  |	|	Done|	
 | Computer-controlled cutting      | |	20211209|	Done|	 
 | Interface application programming  | |	|To-do	|	 
-| Video editing      |  |	|	To-do|	
-| Introduction of patent application |  |	|To-do	|	
+| Video editing      |  |	|	Done|	
+| Introduction of patent application |  |	|Done	|	
 | Final presentation    |  |	|	To-do|
 
 
