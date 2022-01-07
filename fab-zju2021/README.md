@@ -184,7 +184,7 @@ The following is the schedule.
 | Final presentation    |  |	|	To-do|
 
 
-#### [OUTLAST Zone](http://121.41.45.236:8001/)
+#### [OUTLAST Zone](121.41.45.236)
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering | Final project introduce|20211107	|	To-do|	
