@@ -50,7 +50,7 @@ The following is the schedule.
 | CNC machine  | ||Done| 
 | Midterm presentation ，Q&A | ||Done| 
 | Computer-controlled cutting |~~1. Attach the data;<br>Show some key step how to assemble,especial how to assemble with arduino and sensor;<br> **3.Show the parameter setting,how to transport data,run the machine**~~|20220113|Done| 
-| Interface application programming |~~1.Test some case communicate processing with arduino ~~|20220113|Done| 
+| Interface application programming |~~1.Test some case communicate processing with arduino~~|20220113|Done| 
 | Video editing | ||Done| 
 | Introduction of patent application | ||Done| 
 | Final presentation | ||Done| 
@@ -69,7 +69,7 @@ The following is the schedule.
 | Open source hardware and Arduino basic  |~~1. wrong resistance data;~~<br>~~2.Coding with text not picture~~ |20211107	|Done	|	
 | Arduino  (output devices)   | ~~wrong link~~|	20211107|	Done|	
 | Arduino (input devices)   | |	20211107|	Done|	 
-|  3D printing  |~~1.Show how to operate in software(load model, setting parameter,etc); ~~|20220113|Done| 
+|  3D printing  |~~1.Show how to operate in software(load model, setting parameter,etc);~~|20220113|Done| 
 | Intelligent materials | ||Done| 
 |  Arduino IOT | ||Done| 
 | CNC machine      |   |	|	Done|	
@@ -86,7 +86,7 @@ The following is the schedule.
 | ------------- | :-----:|	:-----:|	:-----:|
 | Introduction of design engineering |~~Final project introduce~~ |	20220113|	Done|	
 | Project management      | ~~1.Delete useless social media link;~~<br> ~~2.Check the homepage link(home ,project, team, blog);~~ <br>~~3.Simpl introduce HTML,CSS,BOOTSTRAP  GITHUB relation and how to publish with  GitHub~~|	20211107|	Done|	 
-| Computer aided design    | ~~1.How to make the model；~~ <br>~~2.The method inside luckin coffee picture; ~~<br>~~3.Method add fusion data to github page~~|		20211014|	Done|	 
+| Computer aided design    | ~~1.How to make the model~~ <br>~~2.The method inside luckin coffee picture;~~<br> ~~3.Method add fusion data to github page~~|		20211014|	Done|	 
 | Open source hardware and Arduino basic  |~~1.  Add circuit diagram；~~ <br> ~~2.Check video~~ <br>~~3.Simple introduce the Arduino IDE you used~~|20211020|	Done|	 
 | Arduino  (Output devices)   | |20211209|	Done|	
 | Arduino (Input devices)   | |	20211209|Done|	 
@@ -111,7 +111,7 @@ The following is the schedule.
 | Open source hardware and Arduino basic  | ~~1.Update coding；~~ <br>~~2.Update  gif pic for result；~~<br>3.~~Simple introduce the Arduino IDE you used~~<br>~~4.Write the data for resistance~~|20220113|Done|	
 |     Arduino(Output devices)    | ~~1.arduino 2.0 write the data for resistance~~<br>~~2.From Chinese to English~~|20220101	|	Done|	
 |   Arduino (Input devices)    | |20220101	|	Done|	 
-|  3D printing  | get "prototype" in final project  to the part of daily homewokr|20220113|Doing| 
+|  3D printing  | get "prototype" in final project  to the part of daily homework|20220113|Doing| 
 | Intelligent materials | ||Done| 
 |  Arduino IOT | ||Done| 	
 | CNC machine      |   |	|	Done|	
@@ -180,15 +180,15 @@ The following is the schedule.
 | Computer-controlled cutting      | ~~1.Show how to export data from Rhino to dxf~~<br>~~2. Show the detail parameter  which influence the assembly;<br>Show Rhino 3D model and compare with acutal model~~|20220113	|Done|	 
 | Interface application programming  | ~~1. Show how to connect arduino with component in Tinker cad or another method;<br>2.Simple introduce "CapacitiveSensor.h"~~|20220101	|Done	|	 
 | Video editing      |  |	|	Done|	
-| Introduction of patent application |  |	Done	|	
+| Introduction of patent application |  ||	Done	|	
 | Final presentation    |  |	|	Done|
 
 
 #### [OUTLAST Zone](121.41.45.236)
 |Topic|    Question        | Update time           | Condation  |	
 | ------------- | :-----:|	:-----:|	:-----:|
-| Introduction of design engineering | ~~Final project introduce|20211107~~	|20220113|	Done|	
-| Project management      | ~~1.team introduce;<br>2.Potential final project;~~<br>3. how to build github web page; <br>~~4.Another page ~~|20220113	|Doing	|	 
+| Introduction of design engineering | ~~Final project introduce~~	|20220113|	Done|	
+| Project management      | ~~1.team introduce;<br>2.Potential final project;~~<br>3. how to build github web page; <br>~~4.Another page~~|20220113	|Doing	|	 
 | Computer aided design    |1.Simple introduce how to make model， assemble and find standard part；<br>2. Attach stp link if possible  |20211014	|Doing	|
 | Open source hardware and Arduino basic  | ~~Try to add video to web~~|20211014	|Done	|
 |     Arduino  (Output devices)   | |	20220113|	Done|	
