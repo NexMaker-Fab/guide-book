@@ -90,7 +90,7 @@ The following is the schedule.
 | Open source hardware and Arduino basic  |~~1.  Add circuit diagram；~~ <br> ~~2.Check video~~ <br>~~3.Simple introduce the Arduino IDE you used~~|20211020|	Done|	 
 | Arduino  (Output devices)   | |20211209|	Done|	
 | Arduino (Input devices)   | |	20211209|Done|	 
-|  3D printing  | 20220113||Done| 
+|  3D printing  | |20220113|Done| 
 | Intelligent materials | ||Done| 
 |  Arduino IOT | more detail about webpage (how to build and commuincate)|20220113|Doing| 
 | CNC machine      |   |	|	Done|	
