@@ -28,20 +28,19 @@ Our students come from  19 countries.
 
 
 
-#### [The flash team](https://turatsinzecmu2020.wixsite.com/theflash)
+#### [The Flash team](https://turatsinzecmu2020.wixsite.com/theflash)
 
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
 | Introduction of design engineering | show potential final project idea |20211224|Doing| 
-| Project management  | ~~1. show how to build your webpage~~<br>~~2.manage the blog method to show project~~<br>~~3.the github webpage is useless,please check it;<br>~~4. the github webpage is different with your team's webpage~~|20220107|Done| 
+| Project management  | ~~1. show how to build your webpage~~<br>~~2.manage the blog method to show project~~<br>~~3.the github webpage is useless,please check it;~~<br>~~4. the github webpage is different with your team's webpage~~|20220107|Done| 
 | Open source hardware and Arduino basic |~~show coding wiht text not picture~~|20211231|Done| 
 |  Arduino (output devices) | |20211231|Done| 
 |  Arduino (input devices)  | |20211231|Done| 
-| Computer aided design |1,Cup design :Add every step's screenshot to show how to run the following revolve,shell, fillet,pipe,combine;<br>2.Cup design:show how to add materail to you design;<br>3.Project:show how to use the function of "Revolve" and "sweep"|20220107|Doing| 
+| Computer aided design |~~1,Cup design :Add every step's screenshot to show how to run the following revolve,shell, fillet,pipe,combine;~~<br>~~2.Cup design:show how to add materail to you design;~~<br>~~3.Project:show how to use the function of "Revolve" and "sweep"~~|20220120|Done| 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 
-| CNC machine  | ||To-do| 
 | Midterm presentation ，Q&A | ||To-do| 
 | Computer-controlled cutting | ||To-do| 
 | Interface application programming | ||To-do| 
@@ -57,15 +56,14 @@ Our students come from  19 countries.
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
 | Introduction of design engineering | show potential final project idea |20211224|Doing| 
-| Project management  |1. show how to build your webpage;<br>~~2.check the picture  and text in your personal's introduction~~<br>3.delete useless information<br>~~4. no link for homework~~ |20220107|Doing|
+| Project management  |1. show how to build your webpage;<br>~~2.check the picture  and text in your personal's introduction~~<br>~~3.delete useless information~~<br>~~4. no link for homework~~ |20220107|Doing|
 | Open source hardware and Arduino basic |edit the layout from person's link to team's link which help others' to learn||Doing| 
-|  Arduino (output devices) | |20220107|To-do| 
-|  Arduino (input devices)  | |20220107|To-do| 
-| Computer aided design ||20220107|To-do| 
+|  Arduino (output devices) | |20220120|Done| 
+|  Arduino (input devices)  | |20220120|Done| 
+| Computer aided design ||20220120|Done| 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 
-| CNC machine  | ||To-do| 
 | Midterm presentation ，Q&A | ||To-do| 
 | Computer-controlled cutting | ||To-do| 
 | Interface application programming | ||To-do| 
@@ -81,15 +79,14 @@ Our students come from  19 countries.
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
 | Introduction of design engineering | show potential final project idea |20211224|Doing| 
-| Project management  |1.~~show how to build this webpage~~,especial how  to  build the button and link,(for example how to design and build  team member's introduction)<br>~~2.3 member can add personal introduction~~<br>~~3.Delete AVATAR~~<br>4. check the project mangement's button ,if no information just delete|20211224 |Doing| 
+| Project management  |1.~~show how to build this webpage~~;2.especial how  to  build the button and link,(for example how to design and build  team member's introduction)<br>~~3 member can add personal introduction~~<br>~~3.Delete AVATAR~~<br>~~4. check the project mangement's button ,if no information just delete|20211224~~ |Doing| 
 | Open source hardware and Arduino basic |~~1.show the data of resistance for "LED LIGHT" and "LED screen"~~<br>~~2.show the gif for AUTOMATIC LIGHT SYSTEM ~~|20220107|Done| 
 |  Arduino (output devices) |~~1.Check the connection of arduino~~<br>~~2.delete class's example or you have new idea ~~|20220107|Done| 
 |  Arduino (input devices)  | ||Done| 
-| Computer aided design |1.for "3D BATARANG"show the detail how to make the sketch especial about "mirrror";<br> 2."3D BATARANG",show the detail of "extrude"(the logo,how to choice in the command board);<br>3.for "3D BATARANG",show the detail about "draft";<br>4,for "3d dragonball" show how to revolve in command board;<br>5,for 3d dragonball,show how to change appearance<br>for "3D Screwdriver",check sketch,how to build model from 2d  to 3d|20220107|Doing| 
+| Computer aided design |~~1.for "3D BATARANG"show the detail how to make the sketch especial about "mirrror";~~<br> ~~2."3D BATARANG",show the detail of "extrude"(the logo,how to choice in the command board);~~<br>~~3.for "3D BATARANG",show the detail about "draft";~~<br>~~4,for "3d dragonball" show how to revolve in command board;~~<br>5,for 3d dragonball,show how to change appearance<br>6.for "3D Screwdriver",check sketch,how to build model from 2d  to 3d|20220107|Doing| 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 
-| CNC machine  | ||To-do| 
 | Midterm presentation ，Q&A | ||To-do| 
 | Computer-controlled cutting | ||To-do| 
 | Interface application programming | ||To-do| 
@@ -104,15 +101,14 @@ Our students come from  19 countries.
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
 | Introduction of design engineering |show potential final project idea |20211224|Doing| 
-| Project management  |1. optimize the layout of web,determine how many pages for second class;<br>2.show how to build the webpage; <br>3. introduce team and team member<br>4.every class in one page ,not all in home page <br>5. check "get in touch "button <br>checking the function"forum and blank page"|202120107|Doing| 
-| Open source hardware and Arduino basic |||To-do| 
-|  Arduino (output devices) | ||To-do| 
-|  Arduino (input devices)  | ||To-do| 
-| Computer aided design |||To-do| 
+| Project management  |1. optimize the layout of web,determine how many pages for second class;<br>2.show how to build the webpage; <br>~~3. introduce team and team member~~<br>4.every class in one page ,not all in home page <br>5. check "get in touch "button <br>6.checking the function"forum and blank page"<br>7.delete useless information|202120107|Doing| 
+| Open source hardware and Arduino basic |1.change the color of wire;<br>2. make sure the connect wire in vertical  and horizon|20220118|Doing| 
+|  Arduino (output devices) |confirm the data of resistance |20220118|Doing| 
+|  Arduino (input devices)  | wait for updating|20220118|To-do| 
+| Computer aided design |wait for updating|20220118|To-do| 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 
-| CNC machine  | ||To-do| 
 | Midterm presentation ，Q&A | ||To-do| 
 | Computer-controlled cutting | ||To-do| 
 | Interface application programming | ||To-do| 
@@ -129,14 +125,13 @@ Our students come from  19 countries.
 | ------------- | :-----:|:-----:|-----:|
 | Introduction of design engineering | show potential final project idea |20220107|Doing| 
 | Project management  | show to build your webpage|20211224|Doing| 
-| Open source hardware and Arduino basic |1.Change the color of VCC and GND<br>2. Optimize the connection<br>~~3. try to practice some test about robot here~~<br>4.Show the data of resistance<br>5. add gif to replace jpg;<br>show the coding for arduino Ultrasonic sensor,I find it can't copy the coding |20211231|Doing| 
+| Open source hardware and Arduino basic |~~1.Change the color of VCC and GND~~<br>~~2. Optimize the connection~~<br>~~3. try to practice some test about robot here~~<br>~~4.Show the data of resistance~~<br>~~5. add gif to replace jpg;~~<br>~~7.show the coding for arduino Ultrasonic sensor,I find it can't copy the coding~~ |20220118|Done| 
 |  Arduino (output devices) | |20211224|Done| 
 |  Arduino (input devices)  | |20211231|Done|
-| Computer aided design |1.delete arduino picture;<br>2.show how to make sketch ,confirm the size and  position;<br>3.show how to extrude <br>4. design the model in component 1 not ubed|20211224 |Doing| 
+| Computer aided design |~~1.delete arduino picture;~~<br>~~2.show how to make sketch ,confirm the size and  position;~~<br>~~3.show how to extrude~~ <br>~~4. design the model in component 1 not ubed~~|20220118 |Done| 
 |  3D printing  | ||To-do| 
 | Intelligent materials | ||To-do| 
 |  Arduino IOT | ||To-do| 
-| CNC machine  | ||To-do| 
 | Midterm presentation ，Q&A | ||To-do| 
 | Computer-controlled cutting | ||To-do| 
 | Interface application programming | ||To-do| 
