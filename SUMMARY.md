@@ -98,6 +98,8 @@
   * EE component:[Digi-Key](https://www.digikey.cn/),[Mouser](https://www.mouser.cn/)
 
 * [12.Business plan basic](doc/12BP/README.md)
+  * [1](www.nexmaker.com)
+  * [2](www.nexmaker.com) 
 
 
 ## FABS
@@ -165,7 +167,7 @@
   * [Industry Standard](XR/indusrtstandard.md)
   * [Supply chain](XR/supplychain.md)
 
-* AGV(AGV/readme.md)
+* [AGV](AGV/readme.md)
   * [Application & solution](AGV/agvapplication.md)
   * [Brand](AGV/agvbrand.md)
   * [How to start](AGV/agvhowtostart.md)
