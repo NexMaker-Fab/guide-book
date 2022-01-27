@@ -1,3 +1,11 @@
+Learn and analysis the information about the tech develop (including patent),potential material, etc
+
+
+
+Small, low power,etc
+
+
+
 
 ## 1. 背景
 #### 1.1 5G

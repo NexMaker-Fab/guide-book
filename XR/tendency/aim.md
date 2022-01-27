@@ -1,1 +1,0 @@
-Learn and analysis the information about the tech develop (including patent),potential material, etc

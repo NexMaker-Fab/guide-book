@@ -1,3 +1,113 @@
+ # aim
+ 
+ This part would introduce different kinds of application and solution. Data from market information, some potential tech develop,the third party developers,patent
+
+
+* Software:Some key algorithm 
+* Hardware: Optical method,lightweigh  method,
+* Sensor: camera,
+* Cloud: communication , clould computing
+
+
+In the meantime ,we would list some key patents 
+
+
+
+for example 	[United States Patent and Trademark Office](https://www.uspto.gov/)'s XR iformation ,such as [yivian's list](https://yivian.com/news/77401.html)
+
+
+
+# acore.md
+谷歌在2018年发布了允许跨设备浏览和分享相同AR内容的Cloud Anchors API。自那以后，团队就一直探索允许开发者利用云锚点（Cloud Anchors）来提高AR内容持久性和可发现行的新方式。
+
+谷歌在2019年正式预览了云锚点，允许用户一次又一次地回到共享式AR体验。对于ARCore 1.20，这一功能将正式向Android，iOS和Unity移动端开发者开放
+
+
+案例：REWILD Our Planet是由墨尔本工作室PHORIA制作的AR自然体验，并且是基于Netflix原创纪录片《我们的星球（Our Planet）》改编。REWILD采用了超高清视频和AR内容，用户可以步入独特的栖息地并与濒危野生动物互动。作品最初只支持博物馆，但现在人人都可以通过智能手机将世界各地的自然地点投放到客厅欣赏。随着剧集的发布，Cloud Anchors将允许你在家中感受大自然的变换过程
+
+
+随着开发者正在利用云锚点将更多的AR体验附加到世界，谷歌希望能够提高相关AR内容的可发现性。所以团队正在研究一种全新的Earth Cloud Anchors。这项功能主要是利用AR，以及支持谷歌地图的实时查看功能的底层技术Global Localization来引导用户访问AR内容。
+
+# dog
+美国科技公司Command Sight发明了一款旨在提升训导员和军犬/警犬交流的动物用头戴式显示器，从而帮助执行搜寻毒品和爆炸物，甚至是与敌人作战等任务。
+
+利用这款设备，训导员可以通过数字叠加层的方式显示视觉线索，并在不支持物理或语音指令的情况下引导犬只完成任务。
+在构思与狗狗交流的方式时，Command Sight的创始人AJ佩珀（A.J.Peper）发明了一种美国陆军认为可以革新军犬执行任务的全新通信方式。
+
+这是一种面向犬只的增强现实技术，而且确实可行。
+
+佩珀以已经获得军用的狗狗护目镜Rex Specs作为基础，通过增加一个光电元件来开发出相应的平视显示器。然后，视觉提示可以叠加在真实世界视图并用于指导和引导狗狗。
+美国军方一直通过美国陆军研究实验室及其小微企业创新研究计划（Small Bunsiness Innovation Reserch）计划来支持富有前景的项目，而他们显然对这款头戴式显示器非常感兴趣。
+![](https://gitlab.com/picbed/bed/uploads/5eef71e88fb497ebfccb07fa4e5dded4/44a53af03f73be6cd557cd6b7dba45a2.png)
+![](https://gitlab.com/picbed/bed/uploads/4f9e9e7c2a7cdae881429a09c9b3969e/e8e6fb81931639695b513fe6eed36375.jpg)
+![](https://gitlab.com/picbed/bed/uploads/f19b7badb94a063dc6eaee8972c7506a/c17d591685928ea88fecb3e6d19ec46c.jpg)
+
+# game
+https://yivian.com/news/78750.html
+
+大逃杀类游戏十分有趣，VR同样十分有趣，所以这两者结合起来应该能够产生一款比2D绝地逃生类游戏更为有趣的作品。社区已经进行过多次尝试，但迄今为止都尚未实现理想中的化学反应
+
+目前已有或者将有的产品
+## BigBox VR的《Population：One》
+将于2020年秋季登陆Oculus Store和Steam，支持Valve Index，Oculus Quest，Oculus Rift，HTC Vive和WMR头显。
+《Population：One》完全是围绕大逃杀类游戏的核心概念设计。三人一组的六支队伍将传送到一张大地图中，并在不断缩小的区域内进行生死抓杀，直到其中一队获胜。其中，战利品散落在环境中的各个角落，包括枪械，血包，盾牌，背包和手榴弹等等。
+目前主要难点是游戏如何和vr结合，
+* 武器和物品交互：需要控制简化操作步骤的程度。目前游戏在武器管理上会发现“物品是粘在你的手上”和“这个二维菜单就是你的背包”等尴尬的界面操作
+* VR需要一种创新解决方案
+* 攀爬，建造和飞行等动作
+
+
+
+
+## [Virtuix Omni One]( https://www.virtuix.com) 
+万向移动平台开发商Virtuix日前发布了面向家用市场的消费者产品Omni One，这样消费者就可以自由畅玩喜欢的虚拟现实游戏和体验，无需再担心空间受限问题。产品售价为1995美元，预计在2021年中旬发货。
+Omni One属于一个完整的娱乐系统，配有专门的VR一体机Pico Neo 2，无需PC，可直接开箱即用，从而提供无缝的用户体验。设备专为满足家庭客厅或其他位置的空间约束而设计。OmniOne同时包含第一方的游戏商店，首先推出30款游戏，包括由Virtuix开发的第一方游戏和第三方授权的作品。
+
+
+# hand tracking
+We would introduce hand tracking company's product and some develop method
+
+
+
+##[Ultraleap](https://www.ultraleap.com/)
+Ultraleap was formed when Leap Motion and Ultrahaptics came together in 2019. It is united the world’s most advanced hand tracking with the only haptic technology that creates the sensation of touch in mid-air.
+![](https://gitlab.com/picbed/bed/uploads/9ca0aa2a6b8b19286fcbb4a2a303522c/motion-leap.png)
+![](https://gitlab.com/picbed/bed/uploads/53eb3f4a430f5b305599cdf47ee7bb95/HERO-UltraLeap_Product05342_edit.jpg)
+[Leap motion](https://www.ultraleap.com/product/leap-motion-controller/)The Leap Motion Controller is an optical hand tracking module that captures the movements of your hands with unparalleled accuracy. From XR to touchless kiosks, the Leap Motion Controller makes interaction with digital content natural and effortless.
+
+
+[STRATOS Inspire and STRATOS Explore](https://www.ultraleap.com/haptics/#how-it-works) give you a virtual touch with the help of speak array
+![](https://gitlab.com/picbed/bed/uploads/aa608aadac9bfcd27d59ac586fd48614/WX20200901-104205_2x.png)
+![](https://gitlab.com/picbed/bed/uploads/93ca427cde540fb8f0c40ae559350176/Focal-point_v4.gif)
+
+So leapmotion and STRATOS can interact wiht human in input and output.
+![](https://gitlab.com/picbed/bed/uploads/fe98065532ead2176237e1117019481d/w2b-tracking.png)
+![](https://gitlab.com/picbed/bed/uploads/af235019f876a2811e365dcfb65cd0a2/UHP01296_VISXXX_1-00_U7_Touch_Assembled_02.png)
+
+
+## Facebook FRL Research
+FRL Research正在与康奈尔大学的研究人员开发一种搭载柔性气动执行器、可以“测量局部力”、并为用户提供“触觉反馈”的3D打印型手套。
+
+要求：轻便适应手和手指的灵活运动；足够耐用
+![](https://gitlab.com/picbed/bed/uploads/08c588b48320874088d9c25f6426ee6c/sidns.png)
+
+[参考论文](https://www.nature.com/articles/s41467-020-17816-y.pdf)
+
+# nvidiacloudxr
+2020年10月06日,英伟达日前宣布，NVIDIA CloudXR平台(NVIDIA CloudXR SDK、NVIDIA Virtual Workstation和NVIDIA AI SDKs)将采用支持英伟达V100和T4显卡的Amazon EC2 P3和G4实例，从而允许云用户将高质量的沉浸式体验流式传输到远程VR和AR设备。
+
+# office working
+## Ding talk
+1. [Shadow creator with dingTalk](http://www.shadowcreator.com/)
+2. [Nreal with dingTalk ](https://page.dingtalk.com/smartdevice-nreal?acm=lb-zebra-523189-6889710.1003.4.8229101&scm=1003.4.lb-zebra-523189-6889710.ITEM_618566706043_8229101)
+
+# scan
+通过3d Scanner App创建的3D模型可以以USDZ格式在iMessage和AR Quicklook中轻松共享。此外，你还可以选择导出为其他主流3D模型文件格式，包括OBJ、GLTF、GLB、DAE和STL等。当然，3d Scanner App扫描创建的3D模型还有些不完美，所以你可能需要再编辑修改。
+
+3d Scanner App目前在iPad商店提供免费下载（点击前往），但需要iPad Pro支持。值得一提的是，即将上市的iPhone 12也会搭载激光雷达，相信这款应用也很快就可以在搭载了激光雷达的iPhone 12上使用。
+
+
+# ultrasound
 
 
 ## 一、介绍
@@ -226,6 +336,15 @@ B超机探头常用手法：对于初学者来说，超声之所以难，主要�
 ![](https://gitlab.com/picbed/bed/uploads/73b07cfc174c163bf82e44f788a607c5/welld2.png)
 
 
+
+# vehicle
+车载AR平显技术公司Envisics
+AR平视显示技术属于下一代的汽车数字化功能，其可允许系统将驾驶信息投射到挡风玻璃，并同时匹配前方道路
+
+日前，AR平视显示技术公司Envisics宣布已完成5000万美元的B轮融资，投资者包括现代汽车集团旗下的现代摩比斯，通用汽车集团旗下风投General Motors Ventures，上海汽车集团，以及于2014年被巴菲特收购的美国汽车经销集团Van Tuyl Group旗下的Van Tuyl Companies。
+创始人杰米森·克里斯马斯（Jamieson Christmas ）在接受采访时说，目前公司的估值已经超过2.5亿美元，与上一轮融资时相比“大幅上升”，但这家公司从未披露过具体的估值。
+AR平视显示器主要是通过两种方式实现：几何光学和数字全息。Envisics的数字全息技术利用最先进的全息图实现方法，同时结合了计算机视觉、机器学习、大数据分析和导航等技术，可提供软件定义的宽视场，无需额外的光学设备
+![](https://gitlab.com/picbed/bed/uploads/e4a25e9f6cb3c16eb9f7d58924c0a024/2cd263bb154b21d70d9f7e0c1927628d.jpg)
 
 
 

@@ -157,66 +157,38 @@
 ## OTHERS
 
 * [XR](XR/readme.md)
-  * [How to star](XR/how_to_star/aim.md)
-    * [Software](XR/how_to_star/Software.md)
-    * [Optical](XR/how_to_star/Optical.md)
-    * [Hardware](XR/how_to_star/Hardware.md)
-  * [Application & solution](XR/application_solution/aim.md)
-    * [Officeworking](XR/application_solution/officeworking.md)
-    * [Ultrasound basic knowledge](XR/application_solution/Ultrasound.md)
-    * [Ultrasound patent](XR/application_solution/xrultrasoudpatent.md)
-    * [Hand tracking](XR/application_solution/hand_tracking.md)
+  * [Application & solution](XR/application_solution.md)
   * [Brand](XR/brand/aim.md)
-    * [Oculus](https://developer.oculus.com/documentation/)
-    * [HTC Vive](https://developer.vive.com/resources/?site=us&_ga=2.168114337.1254247147.1597807540-2051330671.1597807540)
-    * [Hololens](XR/brand/Hololens.md)
-    * [Magic leap patent](XR/brand/magicleap.md)
-    * [Google VR](https://developers.google.cn/vr/design/sticker-sheet)
-    * [Apple ](XR/brand/apple.md)
-    * [Nreal](https://www.nreal.ai/)
-    * [Huawei VR](https://consumer.huawei.com/cn/wearables/vr-glass/)
-    * [Pico](XR/brand/pico.md)
-    * [Shadow creator](XR/brand/Shadow_creator.md)
-    * [Emdoor](XR/brand/emdoor.md)
-    * [DPVR](XR/brand/dpvr.md)
-    * [7Invensun](XR/brand/7invensun.md)
-    * [RealWear](XR/brand/realwear.md)
-    * [3Glasses](XR/brand/3glasses.md)
-    * [Ximmerse](XR/brand/XIMMERSE.md)
-    * [Rokid](XR/brand/rokid.md)
-    * [HiAR](XR/brand/hiar.md)
-    * [Pimax](XR/brand/pimax.md)
-  * [Industry Standard](XR/Standard/aim.md)
-    * [OpenXR](XR/Standard/OpenXR.md) 
-    * CCC:China Compulsory Certification
-    * TUV
-    * CE
-    * FCC
-    * RoHS
-    * [LaSAR](XR/Standard/lasar.md)
-  * [Supply chain](XR/supplychain/aim.md)
-    * [Optical](XR/supplychain/Optical.md)
-    * Chip
-    * Memory
-    * Displaymodule
-    * Sensor
-    * Camera
-    * OEM
-    * ODM
-  * [Tendency](XR/tendency/aim.md)
-    * [Analysis](XR/tendency/Analysis.md) 
-  * [Meet up](XR/meetup/aim.md)
-    * [Plan](XR/meetup/plan.md)
+  * [How to start](XR/howtostart.md)
+  * [Patent](XR/xrultrasoudpatent.md)
+  * [Tendency](XR/tendency.md)
+  * [Meet up](XR/meetup.md)
+  * [Industry Standard](XR/indusrtstandard.md)
+  * [Supply chain](XR/supplychain.md)
+
+* AGV(AGV/readme.md)
+  * [Application & solution](AGV/agvapplication.md)
+  * [Brand](AGV/agvbrand.md)
+  * [How to start](AGV/agvhowtostart.md)
+  * [Patent](AGV/agvpatent.md)
+  * [Tendency](AGV/agvtendency.md)
+  * [Meet up](AGV/agvmeetup.md)
+  * [Industry Standard](AGV/agvindusrtstandard.md)
+  * [Supply chain](AGV/agvsupplychain.md)
+
+
+
+ 
 
 
 
 
 *****
 
-Update time:20200724
-Update time:20200818:add candy's project 
-Update time:20200819:add XR summary
-Update time：20210915：add zju2021 team group
-Update time：202101107：add zju2021 dm team group
-update time:20220127: add bp in tutorials
+* 20200724
+* 20200818:add candy's project 
+* 20200819:add XR summary
+* 20210915：add zju2021 team group
+* 202101107：add zju2021 dm team group
+* 20220127: add bp in tutorials,rebuild the structure of XR,build the structure of AGV
 
