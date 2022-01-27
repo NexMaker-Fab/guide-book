@@ -178,16 +178,3 @@
 
 
  
-
-
-
-
-*****
-
-* 20200724
-* 20200818:add candy's project 
-* 20200819:add XR summary
-* 20210915：add zju2021 team group
-* 202101107：add zju2021 dm team group
-* 20220127: add bp in tutorials,rebuild the structure of XR,build the structure of AGV
-

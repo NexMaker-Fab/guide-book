@@ -11,5 +11,9 @@ Email: [bobwu0214@gmail.com](bobwu0214@gmail.com)
 
 *****
 
-Update time:20200304
-Update time:20210921:email and fablab link
+* 20200304:build it
+* 20200819:add XR summary
+* 20210915：add zju2021 team group
+* 20210921:email and fablab link
+* 202101107：add zju2021 dm team group
+* 20220127: add bp in tutorials,rebuild the structure of XR,build the structure of AGV
