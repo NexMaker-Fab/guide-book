@@ -79,9 +79,9 @@ Our students come from  19 countries.
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
 | Introduction of design engineering | show potential final project idea |20211224|Doing| 
-| Project management  |1.~~show how to build this webpage~~;2.especial how  to  build the button and link,(for example how to design and build  team member's introduction)<br>~~3 member can add personal introduction~~<br>~~3.Delete AVATAR~~<br>~~4. check the project mangement's button ,if no information just delete|20211224~~ |Doing| 
-| Open source hardware and Arduino basic |~~1.show the data of resistance for "LED LIGHT" and "LED screen"~~<br>~~2.show the gif for AUTOMATIC LIGHT SYSTEM ~~|20220107|Done| 
-|  Arduino (output devices) |~~1.Check the connection of arduino~~<br>~~2.delete class's example or you have new idea ~~|20220107|Done| 
+| Project management  |1.~~show how to build this webpage~~;<br>2.especial how  to  build the button and link,(for example how to design and build  team member's introduction)<br>~~3 member can add personal introduction~~<br>~~4.Delete AVATAR~~<br>~~5.check the project mangement's button ,if no information just delete|20211224~~ |Doing| 
+| Open source hardware and Arduino basic |~~1.show the data of resistance for "LED LIGHT" and "LED screen"~~<br>~~2.show the gif for AUTOMATIC LIGHT SYSTEM~~|20220107|Done| 
+|  Arduino (output devices) |~~1.Check the connection of arduino~~<br>~~2.delete class's example or you have new idea~~|20220107|Done| 
 |  Arduino (input devices)  | ||Done| 
 | Computer aided design |~~1.for "3D BATARANG"show the detail how to make the sketch especial about "mirrror";~~<br> ~~2."3D BATARANG",show the detail of "extrude"(the logo,how to choice in the command board);~~<br>~~3.for "3D BATARANG",show the detail about "draft";~~<br>~~4,for "3d dragonball" show how to revolve in command board;~~<br>5,for 3d dragonball,show how to change appearance<br>6.for "3D Screwdriver",check sketch,how to build model from 2d  to 3d|20220107|Doing| 
 |  3D printing  | ||To-do| 

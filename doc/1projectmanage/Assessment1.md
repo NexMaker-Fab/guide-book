@@ -9,6 +9,7 @@
   * Market(similar product,price ,market channel);
   * Key tech analyse,and Potential tech problem；
   * Material and how to make it;
+  * Solve some problem in [SDG](https://sdgs.un.org/goals)
 
 
 *********
