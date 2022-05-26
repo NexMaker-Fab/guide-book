@@ -41,15 +41,28 @@ Our students come from  19 countries.
 |  Arduino (input devices)  | |20211231|Done| 
 | Computer aided design |~~1,Cup design :Add every step's screenshot to show how to run the following revolve,shell, fillet,pipe,combine;~~<br>~~2.Cup design:show how to add materail to you design;~~<br>~~3.Project:show how to use the function of "Revolve" and "sweep"~~|20220120|Done| 
 |  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
-|  Arduino IOT | ||To-do| 
-| Midterm presentation ，Q&A | ||To-do| 
+<br>| Intelligent materials | ||To-do|<br>
+<br>|  Arduino IOT | ||To-do|<br> 
+<br>| Midterm presentation ，Q&A | ||To-do|<br> 
 | Computer-controlled cutting | ||To-do| 
-| Interface application programming | ||To-do| 
-| Introduction of design engineering | ||To-do| 
-| Video editing | ||| 
-| Introduction of patent application | ||To-do| 
-| Final presentation | ||To-do| 
+| Interface application programming | 1.show coding for arduino and processing in text not picture; <br> show gif for result in processing; <br>3.show how to test and safety;<br>4.try to find some similar |20220422|doing| 
+<br>| Introduction of design engineering | ||To-do|<br> 
+<br>| Video editing | |||<br> 
+<br>| Introduction of patent application | ||To-do|<br>
+| Final presentation | ||Done| 
+
+
+
+
+Discuss your team's final project
+Topic;
+Solve which problem for your customer；
+Innovation;
+Market(similar product,price ,market channel);
+Key tech analyse,and Potential tech problem；
+Material and how to make it;
+Solve some problem in SDG
+
 
 
 
@@ -64,16 +77,15 @@ Our students come from  19 countries.
 |  Arduino (input devices)  | |20220120|Done| 
 | Computer aided design ||20220120|Done| 
 |  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
-|  Arduino IOT | ||To-do| 
-| Midterm presentation ，Q&A | ||To-do| 
+<br>| Intelligent materials | ||To-do|<br>
+<br>|  Arduino IOT | ||To-do|<br> 
+<br>| Midterm presentation ，Q&A | ||To-do|<br> 
 | Computer-controlled cutting | ||To-do| 
-| Interface application programming | ||To-do| 
-| Introduction of design engineering | ||To-do| 
-| Video editing | ||| 
-| Introduction of patent application | ||To-do| 
-| Final presentation | ||To-do| 
-
+| Interface application programming | 1.show coding for arduino and processing in text not picture; <br> show gif for result in processing; <br>3.show how to test and safety;<br>4.try to find some similar |20220422|doing| 
+<br>| Introduction of design engineering | ||To-do|<br> 
+<br>| Video editing | |||<br> 
+<br>| Introduction of patent application | ||To-do|<br>
+| Final presentation | ||Done| 
 
 
 #### [Estimate](https://lushomo19.wixsite.com/estimate)
@@ -87,16 +99,15 @@ Our students come from  19 countries.
 |  Arduino (input devices)  | ||Done| 
 | Computer aided design |~~1.for "3D BATARANG"show the detail how to make the sketch especial about "mirrror";~~<br> ~~2."3D BATARANG",show the detail of "extrude"(the logo,how to choice in the command board);~~<br>~~3.for "3D BATARANG",show the detail about "draft";~~<br>~~4,for "3d dragonball" show how to revolve in command board;~~<br>5,for 3d dragonball,show how to change appearance<br>6.for "3D Screwdriver",check sketch,how to build model from 2d  to 3d|20220107|Doing| 
 |  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
-|  Arduino IOT | ||To-do| 
-| Midterm presentation ，Q&A | ||To-do| 
+<br>| Intelligent materials | ||To-do|<br>
+<br>|  Arduino IOT | ||To-do|<br> 
+<br>| Midterm presentation ，Q&A | ||To-do|<br> 
 | Computer-controlled cutting | ||To-do| 
-| Interface application programming | ||To-do| 
-| Introduction of design engineering | ||To-do| 
-| Video editing | ||| 
-| Introduction of patent application | ||To-do| 
-| Final presentation | ||To-do| 
-
+| Interface application programming | 1.show coding for arduino and processing in text not picture; <br> show gif for result in processing; <br>3.show how to test and safety;<br>4.try to find some similar |20220422|doing| 
+<br>| Introduction of design engineering | ||To-do|<br> 
+<br>| Video editing | |||<br> 
+<br>| Introduction of patent application | ||To-do|<br>
+| Final presentation | ||Done| 
 
 #### [kltkawsar](https://kltkawsar.wixsite.com/website)
 
@@ -109,15 +120,16 @@ Our students come from  19 countries.
 |  Arduino (input devices)  | wait for updating|20220118|To-do| 
 | Computer aided design |wait for updating|20220118|To-do| 
 |  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
-|  Arduino IOT | ||To-do| 
-| Midterm presentation ，Q&A | ||To-do| 
+|  3D printing  | ||To-do| 
+<br>| Intelligent materials | ||To-do|<br>
+<br>|  Arduino IOT | ||To-do|<br> 
+<br>| Midterm presentation ，Q&A | ||To-do|<br> 
 | Computer-controlled cutting | ||To-do| 
-| Interface application programming | ||To-do| 
-| Introduction of design engineering | ||To-do| 
-| Video editing | ||| 
-| Introduction of patent application | ||To-do| 
-| Final presentation | ||To-do| 
+| Interface application programming | 1.show coding for arduino and processing in text not picture; <br> show gif for result in processing; <br>3.show how to test and safety;<br>4.try to find some similar |20220422|doing| 
+<br>| Introduction of design engineering | ||To-do|<br> 
+<br>| Video editing | |||<br> 
+<br>| Introduction of patent application | ||To-do|<br>
+| Final presentation | ||Done| 
 
 
 
@@ -132,14 +144,13 @@ Our students come from  19 countries.
 |  Arduino (input devices)  | |20211231|Done|
 | Computer aided design |~~1.delete arduino picture;~~<br>~~2.show how to make sketch ,confirm the size and  position;~~<br>~~3.show how to extrude~~ <br>~~4. design the model in component 1 not ubed~~|20220118 |Done| 
 |  3D printing  | ||To-do| 
-| Intelligent materials | ||To-do| 
-|  Arduino IOT | ||To-do| 
-| Midterm presentation ，Q&A | ||To-do| 
+<br>| Intelligent materials | ||To-do|<br>
+<br>|  Arduino IOT | ||To-do|<br> 
+<br>| Midterm presentation ，Q&A | ||To-do|<br> 
 | Computer-controlled cutting | ||To-do| 
-| Interface application programming | ||To-do| 
-| Introduction of design engineering | ||To-do| 
-| Video editing | ||| 
-| Introduction of patent application | ||To-do| 
-| Final presentation | ||To-do| 
-
+| Interface application programming | 1.show coding for arduino and processing in text not picture; <br> show gif for result in processing; <br>3.show how to test and safety;<br>4.try to find some similar |20220422|doing| 
+<br>| Introduction of design engineering | ||To-do|<br> 
+<br>| Video editing | |||<br> 
+<br>| Introduction of patent application | ||To-do|<br>
+| Final presentation | ||Done| 
 
