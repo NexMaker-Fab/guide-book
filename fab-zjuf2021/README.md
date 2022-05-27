@@ -44,27 +44,12 @@ Our students come from  19 countries.
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
 | ~~Midterm presentation ，Q&A ~~| ||~~To-do~~| 
-| Computer-controlled cutting| ||To-do| 
-| Interface application programming | 1.show coding for arduino and processing in text not picture; <br> show gif for result in processing; <br>3.show how to test and safety;<br>4.try to find some similar |20220422|doing| 
+| Computer-controlled cutting| checking assessment 4and 5|20220527|Middle| 
+| Interface application programming | ~~1.show coding  in text not picture;~~ <br> ~~2.show gif for result in processing;~~<br> ~~3.show case arduino with processing~~  |20220527|Well| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
 |~~ Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
 | Final presentation | ||Done| 
-
-
-
-
-Discuss your team's final project
-Topic;
-Solve which problem for your customer；
-Innovation;
-Market(similar product,price ,market channel);
-Key tech analyse,and Potential tech problem；
-Material and how to make it;
-Solve some problem in SDG
-
-
-
 
 #### [The Crescent](https://bitenotes.wixsite.com/the-crescent)
 
@@ -76,12 +61,12 @@ Solve some problem in SDG
 |  Arduino (output devices) | |20220120|Done| 
 |  Arduino (input devices)  | |20220120|Done| 
 | Computer aided design ||20220120|Done| 
-|  3D printing  | ||To-do| 
+|  3D printing  | Show the 3d printing model and  post processing ||Middle| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
 | ~~Midterm presentation ，Q&A ~~| ||~~To-do~~| 
-| Computer-controlled cutting| ||To-do| 
-| Interface application programming | |doing| 
+| Computer-controlled cutting| checking assessment 4and 5|20220527|Middle| 
+| Interface application programming | |to do| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
 |~~ Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
@@ -97,34 +82,12 @@ Solve some problem in SDG
 |  Arduino (output devices) |~~1.Check the connection of arduino~~<br>~~2.delete class's example or you have new idea~~|20220107|Done| 
 |  Arduino (input devices)  | ||Done| 
 | Computer aided design |~~1.for "3D BATARANG"show the detail how to make the sketch especial about "mirrror";~~<br> ~~2."3D BATARANG",show the detail of "extrude"(the logo,how to choice in the command board);~~<br>~~3.for "3D BATARANG",show the detail about "draft";~~<br>~~4,for "3d dragonball" show how to revolve in command board;~~<br>5,for 3d dragonball,show how to change appearance<br>6.for "3D Screwdriver",check sketch,how to build model from 2d  to 3d|20220107|Doing| 
-|  3D printing  | ||To-do| 
+|  3D printing  |1. show software setting<br>2.show how to post processing ||To-do| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
 | ~~Midterm presentation ，Q&A ~~| ||~~To-do~~| 
-| Computer-controlled cutting| ||To-do| 
-| Interface application programming | |doing| 
-| ~~Introduction of design engineering~~ | ||~~To-do~~| 
-|~~ Video editing~~ | ||| 
-| ~~Introduction of patent application~~ | ||~~To-do~~|
-| Final presentation | ||Done| 
-
-
-#### [kltkawsar](https://kltkawsar.wixsite.com/website)
-
-| Topic       | Question        |  Update time   | Condation | 
-| ------------- | :-----:|:-----:|-----:|
-| Introduction of design engineering |show potential final project idea |20211224|Doing| 
-| Project management  |1. optimize the layout of web,determine how many pages for second class;<br>2.show how to build the webpage; <br>~~3. introduce team and team member~~<br>4.every class in one page ,not all in home page <br>5. check "get in touch "button <br>6.checking the function"forum and blank page"<br>7.delete useless information|202120107|Doing| 
-| Open source hardware and Arduino basic |1.change the color of wire;<br>2. make sure the connect wire in vertical  and horizon|20220118|Doing| 
-|  Arduino (output devices) |confirm the data of resistance |20220118|Doing| 
-|  Arduino (input devices)  | wait for updating|20220118|To-do| 
-| Computer aided design |wait for updating|20220118|To-do| 
-|  3D printing  | ||To-do| 
-|~~Intelligent materials~~| ||~~To-do~~|
-|~~Arduino IOT~~ | ||~~To-do~~| 
-| ~~Midterm presentation ，Q&A ~~| ||~~To-do~~| 
-| Computer-controlled cutting| ||To-do| 
-| Interface application programming | |doing| 
+| Computer-controlled cutting| |20220527|Well| 
+| Interface application programming |show the result for "processing demo with arduino" |Middle| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
 |~~ Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
@@ -133,7 +96,7 @@ Solve some problem in SDG
 
 
 
-#### [Rahmansezad](https://rahmansezad.wixsite.com/astro)
+#### [Rahmansezad&kltkawsar](https://rahmansezad.wixsite.com/astro)
 
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
@@ -143,12 +106,12 @@ Solve some problem in SDG
 |  Arduino (output devices) | |20211224|Done| 
 |  Arduino (input devices)  | |20211231|Done|
 | Computer aided design |~~1.delete arduino picture;~~<br>~~2.show how to make sketch ,confirm the size and  position;~~<br>~~3.show how to extrude~~ <br>~~4. design the model in component 1 not ubed~~|20220118 |Done| 
-|  3D printing  | ||To-do| 
+|  3D printing  |show the final model and assemble result |20220527|Middle| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
 | ~~Midterm presentation ，Q&A ~~| ||~~To-do~~| 
-| Computer-controlled cutting| ||To-do| 
-| Interface application programming | |doing| 
+| Computer-controlled cutting| checking assessment 4and 5|20220527|Middle|
+| Interface application programming | |20220527|Well| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
 |~~ Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
