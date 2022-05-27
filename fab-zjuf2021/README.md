@@ -43,11 +43,11 @@ Our students come from  19 countries.
 |  3D printing  | ||To-do| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
-| ~~Midterm presentation ，Q&A ~~| ||~~To-do~~| 
+| ~~Midterm presentation ，Q&A~~| ||~~To-do~~| 
 | Computer-controlled cutting| checking assessment 4and 5|20220527|Middle| 
 | Interface application programming | ~~1.show coding  in text not picture;~~ <br> ~~2.show gif for result in processing;~~<br> ~~3.show case arduino with processing~~  |20220527|Well| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
-|~~ Video editing~~ | ||| 
+|~~Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
 | Final presentation | ||Done| 
 
@@ -64,11 +64,11 @@ Our students come from  19 countries.
 |  3D printing  | Show the 3d printing model and  post processing ||Middle| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
-| ~~Midterm presentation ，Q&A ~~| ||~~To-do~~| 
+| ~~Midterm presentation ，Q&A~~| ||~~To-do~~| 
 | Computer-controlled cutting| checking assessment 4and 5|20220527|Middle| 
-| Interface application programming | |to do| 
+| Interface application programming | ||to do| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
-|~~ Video editing~~ | ||| 
+|~~Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
 | Final presentation | ||Done| 
 
@@ -77,17 +77,17 @@ Our students come from  19 countries.
 | Topic       | Question        |  Update time   | Condation | 
 | ------------- | :-----:|:-----:|-----:|
 | Introduction of design engineering | show potential final project idea |20211224|Doing| 
-| Project management  |1.~~show how to build this webpage~~;<br>2.especial how  to  build the button and link,(for example how to design and build  team member's introduction)<br>~~3 member can add personal introduction~~<br>~~4.Delete AVATAR~~<br>~~5.check the project mangement's button ,if no information just delete|20211224~~ |Doing| 
+| Project management  |1.~~show how to build this webpage~~;<br>2.especial how  to  build the button and link,(for example how to design and build  team member's introduction)<br>~~3 member can add personal introduction~~<br>~~4.Delete AVATAR~~<br>~~5.check the project mangement's button ,if no information just delete~~|~~20211224~~ |Doing| 
 | Open source hardware and Arduino basic |~~1.show the data of resistance for "LED LIGHT" and "LED screen"~~<br>~~2.show the gif for AUTOMATIC LIGHT SYSTEM~~|20220107|Done| 
 |  Arduino (output devices) |~~1.Check the connection of arduino~~<br>~~2.delete class's example or you have new idea~~|20220107|Done| 
 |  Arduino (input devices)  | ||Done| 
 | Computer aided design |~~1.for "3D BATARANG"show the detail how to make the sketch especial about "mirrror";~~<br> ~~2."3D BATARANG",show the detail of "extrude"(the logo,how to choice in the command board);~~<br>~~3.for "3D BATARANG",show the detail about "draft";~~<br>~~4,for "3d dragonball" show how to revolve in command board;~~<br>5,for 3d dragonball,show how to change appearance<br>6.for "3D Screwdriver",check sketch,how to build model from 2d  to 3d|20220107|Doing| 
-|  3D printing  |1. show software setting<br>2.show how to post processing ||To-do| 
+|  3D printing  |1. show software setting<br>2.show how to post processing |20220527|Middle| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
 | ~~Midterm presentation ，Q&A ~~| ||~~To-do~~| 
 | Computer-controlled cutting| |20220527|Well| 
-| Interface application programming |show the result for "processing demo with arduino" |Middle| 
+| Interface application programming |show the result for "processing demo with arduino" |20220527|Middle| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
 |~~ Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
@@ -109,11 +109,11 @@ Our students come from  19 countries.
 |  3D printing  |show the final model and assemble result |20220527|Middle| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
-| ~~Midterm presentation ，Q&A ~~| ||~~To-do~~| 
+| ~~Midterm presentation ，Q&A~~| ||~~To-do~~| 
 | Computer-controlled cutting| checking assessment 4and 5|20220527|Middle|
 | Interface application programming | |20220527|Well| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
-|~~ Video editing~~ | ||| 
+|~~Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
 | Final presentation | ||Done| 
 
