@@ -85,11 +85,11 @@ Our students come from  19 countries.
 |  3D printing  |1. show software setting<br>2.show how to post processing |20220527|Middle| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
-| ~~Midterm presentation ，Q&A ~~| ||~~To-do~~| 
+| ~~Midterm presentation ，Q&A~~| ||~~To-do~~| 
 | Computer-controlled cutting| |20220527|Well| 
 | Interface application programming |show the result for "processing demo with arduino" |20220527|Middle| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
-|~~ Video editing~~ | ||| 
+|~~Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
 | Final presentation | ||Done| 
 
