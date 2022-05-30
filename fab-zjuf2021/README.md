@@ -61,12 +61,12 @@ Our students come from  19 countries.
 |  Arduino (output devices) | |20220120|Done| 
 |  Arduino (input devices)  | |20220120|Done| 
 | Computer aided design ||20220120|Done| 
-|  3D printing  | Show the 3d printing model and  post processing ||Middle| 
+|  3D printing  | 1.no picture for 3d design<br>2.show the real condition for 3d printing in gif for last 3 picture;<br>3.Show the 3d printing model and  post processing |20220530|Low| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
 | ~~Midterm presentation ，Q&A~~| ||~~To-do~~| 
-| Computer-controlled cutting| checking assessment 4and 5|20220527|Middle| 
-| Interface application programming | ||to do| 
+| Computer-controlled cutting|1. checking assessment 4and 5<br>2. mention the reference information<br>3. give the result table for test example |20220530|Middle| 
+| Interface application programming | 1.case from web,mention reference information;<br>2.do your own project; <br>3.process connect with arduino|20220530|Low| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
 |~~Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
@@ -82,12 +82,12 @@ Our students come from  19 countries.
 |  Arduino (output devices) |~~1.Check the connection of arduino~~<br>~~2.delete class's example or you have new idea~~|20220107|Done| 
 |  Arduino (input devices)  | ||Done| 
 | Computer aided design |~~1.for "3D BATARANG"show the detail how to make the sketch especial about "mirrror";~~<br> ~~2."3D BATARANG",show the detail of "extrude"(the logo,how to choice in the command board);~~<br>~~3.for "3D BATARANG",show the detail about "draft";~~<br>~~4,for "3d dragonball" show how to revolve in command board;~~<br>5,for 3d dragonball,show how to change appearance<br>6.for "3D Screwdriver",check sketch,how to build model from 2d  to 3d|20220107|Doing| 
-|  3D printing  |1. show software setting<br>2.show how to post processing |20220527|Middle| 
+|  3D printing  |~~1. show software setting~~<br>~~2.show how to post processing~~ |20220530|High| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
 | ~~Midterm presentation ，Q&A~~| ||~~To-do~~| 
 | Computer-controlled cutting| |20220527|Well| 
-| Interface application programming |show the result for "processing demo with arduino" |20220527|Middle| 
+| Interface application programming |~~1.show the result for "processing demo with arduino";~~<br>2.mention the reference information and attach link |20220530|Middle| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
 |~~Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
@@ -110,8 +110,8 @@ Our students come from  19 countries.
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
 | ~~Midterm presentation ，Q&A~~| ||~~To-do~~| 
-| Computer-controlled cutting| checking assessment 4and 5|20220527|Middle|
-| Interface application programming | |20220527|Well| 
+| Computer-controlled cutting| 1.mention the reference information and attach link<br> 2.checking assessment 4and 5|20220530|Middle|
+| Interface application programming |1.mention the reference information and attach link<br>show example for processing and arduino(radar in vehicle is ok ) |20220530|High| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
 |~~Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
