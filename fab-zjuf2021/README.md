@@ -40,7 +40,7 @@ Our students come from  19 countries.
 |  Arduino (output devices) | |20211231|Done| 
 |  Arduino (input devices)  | |20211231|Done| 
 | Computer aided design |~~1,Cup design :Add every step's screenshot to show how to run the following revolve,shell, fillet,pipe,combine;~~<br>~~2.Cup design:show how to add materail to you design;~~<br>~~3.Project:show how to use the function of "Revolve" and "sweep"~~|20220120|Done| 
-|  3D printing  | ||To-do| 
+|  3D printing  | 1.show the setting in software<br>2.show how to print it <br>3.show how to post process|20220531|Low| 
 |~~Intelligent materials~~| ||~~To-do~~|
 |~~Arduino IOT~~ | ||~~To-do~~| 
 | ~~Midterm presentation ，Q&A~~| ||~~To-do~~| 
@@ -87,7 +87,7 @@ Our students come from  19 countries.
 |~~Arduino IOT~~ | ||~~To-do~~| 
 | ~~Midterm presentation ，Q&A~~| ||~~To-do~~| 
 | Computer-controlled cutting| |20220527|Well| 
-| Interface application programming |~~1.show the result for "processing demo with arduino";~~<br>2.mention the reference information and attach link |20220530|Middle| 
+| Interface application programming |~~1.show the result for "processing demo with arduino";~~<br>2.mention the reference information and attach link |20220530|High| 
 | ~~Introduction of design engineering~~ | ||~~To-do~~| 
 |~~Video editing~~ | ||| 
 | ~~Introduction of patent application~~ | ||~~To-do~~|
