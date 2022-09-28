@@ -1,0 +1,41 @@
+{
+  "name": "nexmaker",
+  "version": "1.0.0",
+  "description": "Guide book",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-klipse": "^1.2.0",
+    "gitbook-plugin-pageview-count": "^1.0.1",
+    "gitbook-plugin-popup": "^0.0.1",
+    "gitbook-plugin-splitter": "^0.0.8",
+    "gulp": "^4.0.2",
+    "graceful-fs": "^4.2.10",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-load-plugins": "^2.0.8",
+    "honkit": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NexMaker-Fab/guide-book.git"
+  },
+  "keywords": [
+    "NexMaker",
+    "Guide",
+    "Book"
+  ],
+  "author": "bobwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NexMaker-Fab/guide-book/issues"
+  },
+  "homepage": "https://github.com/NexMaker-Fab/guide-book#readme"
+}

@@ -8,17 +8,13 @@ cache:
 
 before_script:
   - npm install npm@latest -g # install latest npm
-  - npm install gitbook-cli -g # install gitbook
-  #- gitbook fetch latest # fetch latest stable version
-  - gitbook install # add any requested plugins in book.json
-  - gitbook fetch # fetch latest pre-release version
-  #- gitbook fetch 2.6.7 # fetch specific version
+  - npm install honkit --save-dev # install gitbook
 
 # the 'pages' job will deploy and build your site to the 'public' path
 pages:
   stage: deploy
   script:
-    - gitbook build . public # build to public path
+    - honkit build . public # build to public path
   artifacts:
     paths:
       - public
