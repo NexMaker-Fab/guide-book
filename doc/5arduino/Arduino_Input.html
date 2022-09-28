@@ -1,0 +1,2813 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <title>Arduino Input · HonKit</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="HonKit 4.0.0">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-chapter-fold/chapter-fold.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-back-to-top-button/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-splitter/splitter.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-pageview-count/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/@honkit/honkit-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="Arduino_output.html" />
+    
+    
+    <link rel="prev" href="arduino_code.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book honkit-cloak">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        <li class="header">Lab manage</li>
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../../">
+            
+                <a href="../../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../Fab/FAB.html">
+            
+                <a href="../Fab/FAB.html">
+            
+                    
+                    Fab Lab 
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../0manage/nexmaker-academy.html">
+            
+                <a href="../0manage/nexmaker-academy.html">
+            
+                    
+                    NexMaker Academy
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../0manage/access_safety.html">
+            
+                <a href="../0manage/access_safety.html">
+            
+                    
+                    Access and safety
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../0manage/material.html">
+            
+                <a href="../0manage/material.html">
+            
+                    
+                    Material
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../0manage/tool.html">
+            
+                <a href="../0manage/tool.html">
+            
+                    
+                    Tool
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Tutorials</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" >
+            
+                <a target="_blank" href="https://git-scm.com/">
+            
+                    
+                    1.Project manage
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.1" data-path="../1projectmanage/Assessment1.html">
+            
+                <a href="../1projectmanage/Assessment1.html">
+            
+                    
+                    Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2" data-path="../1projectmanage/gitbook.html">
+            
+                <a href="../1projectmanage/gitbook.html">
+            
+                    
+                    Gitlab-Gitbook
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3" data-path="../1projectmanage/webmethod.html">
+            
+                <a href="../1projectmanage/webmethod.html">
+            
+                    
+                    Web build method
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.4" data-path="../1projectmanage/wix.html">
+            
+                <a href="../1projectmanage/wix.html">
+            
+                    
+                    Wix
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5" data-path="../1projectmanage/Tool1.html">
+            
+                <a href="../1projectmanage/Tool1.html">
+            
+                    
+                    Tool
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.5.1" data-path="../1projectmanage/git.html">
+            
+                <a href="../1projectmanage/git.html">
+            
+                    
+                    Git
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.2" >
+            
+                <a target="_blank" href="https://gitlab.com/">
+            
+                    
+                    Gitlab
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.3" >
+            
+                <a target="_blank" href="https://github.com/">
+            
+                    
+                    Github
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.4" data-path="../1projectmanage/markdown.html">
+            
+                <a href="../1projectmanage/markdown.html">
+            
+                    
+                    Markdown
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.5" data-path="../1projectmanage/imageuploadservice.html">
+            
+                <a href="../1projectmanage/imageuploadservice.html">
+            
+                    
+                    Image uploader service
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.6" >
+            
+                <a target="_blank" href="https://www.w3school.com.cn/html/index.asp">
+            
+                    
+                    HTML
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.5.7" >
+            
+                <a target="_blank" href="https://www.w3school.com.cn/css/index.asp">
+            
+                    
+                    CSS
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="../2cad/cad.html">
+            
+                <a href="../2cad/cad.html">
+            
+                    
+                    2. CAD design
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.2.1" data-path="../2cad/Assessment.html">
+            
+                <a href="../2cad/Assessment.html">
+            
+                    
+                    Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2.2" data-path="../2cad/Fusion360prepare.html">
+            
+                <a href="../2cad/Fusion360prepare.html">
+            
+                    
+                    Fusion 360 prepare
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2.3" data-path="../2cad/3D_Design_Fusion360.html">
+            
+                <a href="../2cad/3D_Design_Fusion360.html">
+            
+                    
+                    Fusion 360-Guidebook
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2.4" data-path="../2cad/Solidworks.html">
+            
+                <a href="../2cad/Solidworks.html">
+            
+                    
+                    Solidworks-guidebook
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2.5" data-path="../2cad/parameterdesign.html">
+            
+                <a href="../2cad/parameterdesign.html">
+            
+                    
+                    Parameter design
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2.6" data-path="../2cad/fusion360-sheetmetal.html">
+            
+                <a href="../2cad/fusion360-sheetmetal.html">
+            
+                    
+                    Sheet metal
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3" data-path="../3_3dprinter/assignment.html">
+            
+                <a href="../3_3dprinter/assignment.html">
+            
+                    
+                    3. 3D printer
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.3.1" data-path="../3_3dprinter/assignment.html">
+            
+                <a href="../3_3dprinter/assignment.html">
+            
+                    
+                    Assessnment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3.2" data-path="../3_3dprinter/1.3Dprintingbackground.html">
+            
+                <a href="../3_3dprinter/1.3Dprintingbackground.html">
+            
+                    
+                    3D printer background
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3.3" data-path="../3_3dprinter/2.FDM3Dprintingbackground.html">
+            
+                <a href="../3_3dprinter/2.FDM3Dprintingbackground.html">
+            
+                    
+                    FDM background
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3.4" data-path="../3_3dprinter/3.FDM-designguide.html">
+            
+                <a href="../3_3dprinter/3.FDM-designguide.html">
+            
+                    
+                    FDM design guide
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3.5" data-path="../3_3dprinter/5.FDM-postprocess.html">
+            
+                <a href="../3_3dprinter/5.FDM-postprocess.html">
+            
+                    
+                    FDM postprocess
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3.6" data-path="../3_3dprinter/6.SLAbackground.html">
+            
+                <a href="../3_3dprinter/6.SLAbackground.html">
+            
+                    
+                    SLA background
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3.7" data-path="../3_3dprinter/7.hpmjf.html">
+            
+                <a href="../3_3dprinter/7.hpmjf.html">
+            
+                    
+                    HP-MJF
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3.8" data-path="../3_3dprinter/3Dslicesoftware.html">
+            
+                <a href="../3_3dprinter/3Dslicesoftware.html">
+            
+                    
+                    Slice software
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4" data-path="../4electric_design/basicknowledge.html">
+            
+                <a href="../4electric_design/basicknowledge.html">
+            
+                    
+                    4. Electric design 
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.4.1" data-path="../4electric_design/Assessment.html">
+            
+                <a href="../4electric_design/Assessment.html">
+            
+                    
+                    Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4.2" data-path="../4electric_design/electricparameter_component.html">
+            
+                <a href="../4electric_design/electricparameter_component.html">
+            
+                    
+                    Electric component
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4.3" >
+            
+                <a target="_blank" href="https://knowledge.autodesk.com/support/eagle/troubleshooting/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-now-included-with-Fusion-360.html">
+            
+                    
+                    EAGLE
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4.4" >
+            
+                <a target="_blank" href="https://www.autodesk.com/products/fusion-360/electronics-engineer">
+            
+                    
+                    Fusion 360 electronics
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4.5" >
+            
+                <a target="_blank" href="https://www.cadence.com/en_US/home.html">
+            
+                    
+                    Cadence
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4.6" >
+            
+                <a target="_blank" href="https://www.altium.com/altium-designer/">
+            
+                    
+                    Altium Designer
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5" >
+            
+                <a target="_blank" href="https://www.arduino.cc/">
+            
+                    
+                    5. Arduino application
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.5.1" data-path="assessment.html">
+            
+                <a href="assessment.html">
+            
+                    
+                    Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5.2" data-path="open_source.html">
+            
+                <a href="open_source.html">
+            
+                    
+                    Open source
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5.3" data-path="arduino_basic.html">
+            
+                <a href="arduino_basic.html">
+            
+                    
+                    Arduino Basic
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5.4" data-path="arduino_code.html">
+            
+                <a href="arduino_code.html">
+            
+                    
+                    Arduino Code
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="2.5.5" data-path="Arduino_Input.html">
+            
+                <a href="Arduino_Input.html">
+            
+                    
+                    Arduino Input
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5.6" data-path="Arduino_output.html">
+            
+                <a href="Arduino_output.html">
+            
+                    
+                    Arduino Output
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5.7" data-path="../9IOT/NodeMCUESP8266_ALiYun.html">
+            
+                <a href="../9IOT/NodeMCUESP8266_ALiYun.html">
+            
+                    
+                    Arduino IOT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5.8" >
+            
+                <a target="_blank" href="https://www.arduino.cc/en/Tutorial/LibraryExamples">
+            
+                    
+                    Library
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5.9" data-path="processing.html">
+            
+                <a href="processing.html">
+            
+                    
+                    Processing
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5.10" data-path="robot-mycobot.html">
+            
+                <a href="robot-mycobot.html">
+            
+                    
+                    Mechancial arm
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6" data-path="../6laser_cutter/basic.html">
+            
+                <a href="../6laser_cutter/basic.html">
+            
+                    
+                    6. Laser cutting
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.6.1" data-path="../6laser_cutter/Assessment.html">
+            
+                <a href="../6laser_cutter/Assessment.html">
+            
+                    
+                    Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6.2" data-path="../6laser_cutter/Safety.html">
+            
+                <a href="../6laser_cutter/Safety.html">
+            
+                    
+                    Safety
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6.3" data-path="../6laser_cutter/AutoCAD.html">
+            
+                <a href="../6laser_cutter/AutoCAD.html">
+            
+                    
+                    AutoCAD
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6.4" data-path="../6laser_cutter/Design_guide.html">
+            
+                <a href="../6laser_cutter/Design_guide.html">
+            
+                    
+                    Design guide
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6.5" data-path="../6laser_cutter/Machine_practice.html">
+            
+                <a href="../6laser_cutter/Machine_practice.html">
+            
+                    
+                    Machine practice
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7" >
+            
+                <a target="_blank" href="https://www.nexpcb.com/blog/smt-pcb-puzzle">
+            
+                    
+                    7. PCB manufacture
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.7.1" data-path="../8CNC_manufacture/Assessment.html">
+            
+                <a href="../8CNC_manufacture/Assessment.html">
+            
+                    
+                    Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7.2" data-path="../4electric_design/electricparameter_component.html">
+            
+                <a href="../4electric_design/electricparameter_component.html">
+            
+                    
+                    PCB
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7.3" data-path="../7PCB_manufacture/SMT.html">
+            
+                <a href="../7PCB_manufacture/SMT.html">
+            
+                    
+                    SMT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7.4" data-path="../7PCB_manufacture/manual.html">
+            
+                <a href="../7PCB_manufacture/manual.html">
+            
+                    
+                    Manual Soldering
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.8" >
+            
+                <a target="_blank" href="https://astromachineworks.com/what-is-cnc-machining/">
+            
+                    
+                    8. CNC manufacture
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.8.1" data-path="../8CNC_manufacture/Assessment.html">
+            
+                <a href="../8CNC_manufacture/Assessment.html">
+            
+                    
+                    Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.8.2" data-path="../../cnctype.html">
+            
+                <a href="../../cnctype.html">
+            
+                    
+                    Types of CNC Machines 
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.8.3" data-path="../8CNC_manufacture/tool.html">
+            
+                <a href="../8CNC_manufacture/tool.html">
+            
+                    
+                    Desktop Tool
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.8.4" data-path="../8CNC_manufacture/cncprogram.html">
+            
+                <a href="../8CNC_manufacture/cncprogram.html">
+            
+                    
+                    Desktop 3xis CNC Program
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.8.5" data-path="../8CNC_manufacture/cncmanufacture.html">
+            
+                <a href="../8CNC_manufacture/cncmanufacture.html">
+            
+                    
+                    Desktop 3xis CNC Manufacture
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.9" >
+            
+                <a target="_blank" href="https://en.wikipedia.org/wiki/Internet_of_Things">
+            
+                    
+                    9. IOT and Interaction
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.9.1" data-path="../9IOT/Assessment.html">
+            
+                <a href="../9IOT/Assessment.html">
+            
+                    
+                    Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.9.2" data-path="../9IOT/IOT_basic.html">
+            
+                <a href="../9IOT/IOT_basic.html">
+            
+                    
+                    IOT basic introduce
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.9.3" data-path="../9IOT/NodeMCUESP8266_ALiYun.html">
+            
+                <a href="../9IOT/NodeMCUESP8266_ALiYun.html">
+            
+                    
+                    NodeMCU-Aliyun Cloud
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.10" >
+            
+                <a target="_blank" href="http://fabacademy.org/2018/docs/FabAcademy-Tutorials/week16_interface_and_application_programming/processing_resources.html">
+            
+                    
+                    10. Interface Application Programming
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.10.1" data-path="../10Interface-application-programming/Assessment.html">
+            
+                <a href="../10Interface-application-programming/Assessment.html">
+            
+                    
+                    Assessment
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.10.2" data-path="../10Interface-application-programming/processing.html">
+            
+                <a href="../10Interface-application-programming/processing.html">
+            
+                    
+                    Processing
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.10.3" data-path="../10Interface-application-programming/processingwitharduino.html">
+            
+                <a href="../10Interface-application-programming/processingwitharduino.html">
+            
+                    
+                    Processing with Arduino
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.10.4" >
+            
+                <a target="_blank" href="https://derivative.ca/showcase">
+            
+                    
+                    Touch designer
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.11" data-path="../11Standard_component/standardcomponentpart.html">
+            
+                <a href="../11Standard_component/standardcomponentpart.html">
+            
+                    
+                    11.Material and tool
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.11.1" >
+            
+                <a target="_blank" href="http://www.misumi.com.cn/">
+            
+                    
+                    ME standard component and tools
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.11.2" >
+            
+                <a target="_blank" href="https://www.digikey.cn/">
+            
+                    
+                    Digi-Key
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.12" data-path="../12BP/">
+            
+                <a href="../12BP/">
+            
+                    
+                    12.Business plan basic
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.12.1" data-path="../../www.nexmaker.com">
+            
+                <span>
+            
+                    
+                    1
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.12.2" data-path="../../www.nexmaker.com">
+            
+                <span>
+            
+                    
+                    2
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+        
+        <li class="header">FABS</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="../../fab-01/">
+            
+                <a href="../../fab-01/">
+            
+                    
+                    NexMaker academy-1
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="3.1.1" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/jiahaoliu/">
+            
+                    
+                    Jiahao Liu
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.2" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/qihaobao/">
+            
+                    
+                    Qihao Bao
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.3" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/jocelin/">
+            
+                    
+                    Jocelin
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.4" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/chenlei/">
+            
+                    
+                    Lei chen
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.5" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/yijunwang/">
+            
+                    
+                    Yijun Wang
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.6" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/luis/">
+            
+                    
+                    luis Li
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.7" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/gl/">
+            
+                    
+                    Liang Guo
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.8" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/jacen/">
+            
+                    
+                    Jacen Wang
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.9" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/marsma/">
+            
+                    
+                    Mars Ma
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.10" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/bo-li/">
+            
+                    
+                    Bo Li
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.1.11" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-01/bobstudent/">
+            
+                    
+                    Bob Wu
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2" data-path="../../fab-02/">
+            
+                <a href="../../fab-02/">
+            
+                    
+                    NexMaker academy-2
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="3.2.1" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-02/june/">
+            
+                    
+                    June
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2.2" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-02/otto">
+            
+                    
+                    Otto
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2.3" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-02/ciel">
+            
+                    
+                    Ciel
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2.4" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-02/jenny">
+            
+                    
+                    Jenny
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2.5" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-02/orkun">
+            
+                    
+                    Orkun
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2.6" >
+            
+                <a target="_blank" href="https://nex-fab.gitlab.io/fab-02/candy/">
+            
+                    
+                    Candy
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3" data-path="../../fab-zju2020/">
+            
+                <a href="../../fab-zju2020/">
+            
+                    
+                    Design Engineering2020
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="3.3.1" >
+            
+                <a target="_blank" href="http://team-924.gitlab.io/zjucst924/">
+            
+                    
+                    924
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3.2" >
+            
+                <a target="_blank" href="https://1909097669.wixsite.com/duck-dog">
+            
+                    
+                    Duck Dog
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3.3" >
+            
+                <a target="_blank" href="http://www.0xing.cn/home/blog/">
+            
+                    
+                    Terminus
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3.4" >
+            
+                <a target="_blank" href="http://dlight.designist.cn">
+            
+                    
+                    D&L
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3.5" >
+            
+                <a target="_blank" href="https://happyplanet196.wixsite.com/happyplanet">
+            
+                    
+                    Happyplanet
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3.6" >
+            
+                <a target="_blank" href="http://49.235.203.145">
+            
+                    
+                    2.4GHZ
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3.7" >
+            
+                <a target="_blank" href="https://manatee257.github.io">
+            
+                    
+                    Coffe Bit
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3.8" >
+            
+                <a target="_blank" href="https://yyniao.github.io">
+            
+                    
+                    33Designer
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3.9" >
+            
+                <a target="_blank" href="http://yyclub.designist.cn">
+            
+                    
+                    YYclub
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3.10" >
+            
+                <a target="_blank" href="https://1348328828.wixsite.com/mysite-2">
+            
+                    
+                    Morning
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3.11" >
+            
+                <a target="_blank" href="http://natural.designist.cn">
+            
+                    
+                    Natural
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4" data-path="../../fab-zju2021/">
+            
+                <a href="../../fab-zju2021/">
+            
+                    
+                    Design Engineering2021 
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="3.4.1" >
+            
+                <a target="_blank" href="https://374737390.wixsite.com/my-site">
+            
+                    
+                    CNFD
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4.2" >
+            
+                <a target="_blank" href="https://notblinddesign.wixsite.com/nbdesign">
+            
+                    
+                    NBD
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4.3" >
+            
+                <a target="_blank" href="https://xxzzxh.github.io/">
+            
+                    
+                    UNDEFINED
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4.4" >
+            
+                <a target="_blank" href="https://perfect-anger-34c.notion.site/2021-Toast-9d52603d5d39409b8337738a551b5df1">
+            
+                    
+                    2021toast
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4.5" >
+            
+                <a target="_blank" href="https://x-labby.webflow.io/">
+            
+                    
+                    X-Lab
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4.6" >
+            
+                <a target="_blank" href="https://1175138076.wixsite.com/get1688">
+            
+                    
+                    Get1688
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4.7" >
+            
+                <a target="_blank" href="https://richengaa.wixsite.com/woohoo">
+            
+                    
+                    WooHoo
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4.8" >
+            
+                <a target="_blank" href="http://121.41.45.236:8001/">
+            
+                    
+                    OUTLAST Zone
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="3.5" data-path="../../fab-zjuf2021/">
+            
+                <a href="../../fab-zjuf2021/">
+            
+                    
+                    Design Manufacture2021
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="3.5.1" >
+            
+                <a target="_blank" href="https://turatsinzecmu2020.wixsite.com/theflash">
+            
+                    
+                    The Flash team
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.5.2" >
+            
+                <a target="_blank" href="https://bitenotes.wixsite.com/thecrescent">
+            
+                    
+                    The Crescent
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.5.3" >
+            
+                <a target="_blank" href="https://lushomo19.wixsite.com/estimate">
+            
+                    
+                    Estimate
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.5.4" >
+            
+                <a target="_blank" href="https://kltkawsar.wixsite.com/website">
+            
+                    
+                    Kltkawsar
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.5.5" >
+            
+                <a target="_blank" href="https://rahmansezad.wixsite.com/astro">
+            
+                    
+                    Rahmansezad
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+        
+        <li class="header">OTHERS</li>
+        
+        
+    
+        <li class="chapter " data-level="4.1" data-path="../../XR/readme.html">
+            
+                <a href="../../XR/readme.html">
+            
+                    
+                    XR
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="4.1.1" data-path="../../XR/application_solution.html">
+            
+                <a href="../../XR/application_solution.html">
+            
+                    
+                    Application & solution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.1.2" data-path="../../XR/brand/aim.html">
+            
+                <a href="../../XR/brand/aim.html">
+            
+                    
+                    Brand
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.1.3" data-path="../../XR/howtostart.html">
+            
+                <a href="../../XR/howtostart.html">
+            
+                    
+                    How to start
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.1.4" data-path="../../XR/xrultrasoudpatent.html">
+            
+                <a href="../../XR/xrultrasoudpatent.html">
+            
+                    
+                    Patent
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.1.5" data-path="../../XR/tendency.html">
+            
+                <a href="../../XR/tendency.html">
+            
+                    
+                    Tendency
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.1.6" data-path="../../XR/meetup.html">
+            
+                <a href="../../XR/meetup.html">
+            
+                    
+                    Meet up
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.1.7" data-path="../../XR/indusrtstandard.html">
+            
+                <a href="../../XR/indusrtstandard.html">
+            
+                    
+                    Industry Standard
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.1.8" data-path="../../XR/supplychain.html">
+            
+                <a href="../../XR/supplychain.html">
+            
+                    
+                    Supply chain
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2" data-path="../../AGV/readme.html">
+            
+                <a href="../../AGV/readme.html">
+            
+                    
+                    AGV
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="4.2.1" data-path="../../AGV/agvapplication.html">
+            
+                <a href="../../AGV/agvapplication.html">
+            
+                    
+                    Application & solution
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2.2" data-path="../../AGV/agvbrand.html">
+            
+                <a href="../../AGV/agvbrand.html">
+            
+                    
+                    Brand
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2.3" data-path="../../AGV/agvhowtostart.html">
+            
+                <a href="../../AGV/agvhowtostart.html">
+            
+                    
+                    How to start
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2.4" data-path="../../AGV/agvpatent.html">
+            
+                <a href="../../AGV/agvpatent.html">
+            
+                    
+                    Patent
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2.5" data-path="../../AGV/agvtendency.html">
+            
+                <a href="../../AGV/agvtendency.html">
+            
+                    
+                    Tendency
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2.6" data-path="../../AGV/agvmeetup.html">
+            
+                <a href="../../AGV/agvmeetup.html">
+            
+                    
+                    Meet up
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2.7" data-path="../../AGV/agvindusrtstandard.html">
+            
+                <a href="../../AGV/agvindusrtstandard.html">
+            
+                    
+                    Industry Standard
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2.8" data-path="../../AGV/agvsupplychain.html">
+            
+                <a href="../../AGV/agvsupplychain.html">
+            
+                    
+                    Supply chain
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://github.com/honkit/honkit" target="blank" class="gitbook-link">
+            Published with HonKit
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../.." >Arduino Input</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h2 id="arduino-input">Arduino Input</h2>
+<h3 id="1-switch">1. Switch</h3>
+<p>We can use swith to control the circuit, in this case we use pin 7 as input port
+<img src="https://gitlab.com/picbed/bed/uploads/52a1ceb83850823feb5775e01e0a5ba5/Screen_Shot_2020-10-23_at_09.07.12.png" alt></p>
+<pre><code class="lang-cpp"><span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> LED1=<span class="hljs-number">12</span>;
+<span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> LED2=<span class="hljs-number">13</span>;
+<span class="hljs-keyword">int</span> val=<span class="hljs-number">0</span>; 
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">setup</span><span class="hljs-params">()</span>
+</span>{ 
+  <span class="hljs-built_in">pinMode</span>(LED1, OUTPUT); 
+  <span class="hljs-built_in">pinMode</span>(LED2, OUTPUT); 
+  <span class="hljs-built_in">pinMode</span>(<span class="hljs-number">7</span>, INPUT);     
+}
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">loop</span><span class="hljs-params">()</span></span>{
+val=<span class="hljs-built_in">digitalRead</span>(<span class="hljs-number">7</span>);
+  <span class="hljs-keyword">if</span>(val==HIGH)
+{
+    <span class="hljs-built_in">digitalWrite</span>(LED1,HIGH);
+    <span class="hljs-built_in">digitalWrite</span>(LED2,LOW);
+}
+<span class="hljs-keyword">else</span>
+{ 
+    <span class="hljs-built_in">digitalWrite</span>(LED2,HIGH);
+    <span class="hljs-built_in">digitalWrite</span>(LED1,LOW);  
+}
+<span class="hljs-built_in">delay</span>(<span class="hljs-number">1000</span>);
+}
+</code></pre>
+<h3 id="2-ultrasonic-sensor">2. Ultrasonic sensor</h3>
+<p><img src="https://gitlab.com/picbed/bed/uploads/75ab6091513646289bb1d6b29de9baef/45e34-7ba12-3228a-edc97-69296-118153703ac9ae.gif" alt></p>
+<p><img src="https://gitlab.com/picbed/bed/uploads/cb2d11556c943940d47e17bbc0404606/997f3-ac7e9-a5dc0-8bc3a-ec0e5-15730a9aa6c424.gif" alt></p>
+<pre><code>Distance=time * speed
+if time is 500us, speed=340m/s=0.034cm/us
+So,real Distance=Distance/2=0.034*500/2=8.5cm
+</code></pre><table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Parameter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Voltage</td>
+<td>DC 5V</td>
+</tr>
+<tr>
+<td>Current</td>
+<td>15mA</td>
+</tr>
+<tr>
+<td>Ultrasonic frequence</td>
+<td>40KHz</td>
+</tr>
+<tr>
+<td>Distance</td>
+<td>20mm~4000mm</td>
+</tr>
+<tr>
+<td>Precision</td>
+<td>3mm</td>
+</tr>
+<tr>
+<td>Degree</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Signal</td>
+<td>10us TTL</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://gitlab.com/picbed/bed/uploads/eb2b5536c5f8a9e503398720c0a1cc4d/Screen_Shot_2020-10-22_at_11.44.00.png" alt></p>
+<pre><code class="lang-cpp"><span class="hljs-comment">// circuit</span>
+
+<span class="hljs-comment">/*
+Arduino        SR04
+5V        ---    VCC
+A0        ---    Trig
+A1        ---    Echo
+GND        ---    GND
+*/</span>
+
+<span class="hljs-comment">// pin setting</span>
+
+<span class="hljs-meta">#<span class="hljs-meta-keyword">define</span> TrigPin A0    </span>
+<span class="hljs-comment">// __|^|_____________</span>
+<span class="hljs-comment">// 10us or more HITH SIGNAL will drive it work for one time</span>
+
+<span class="hljs-meta">#<span class="hljs-meta-keyword">define</span> EchoPin A1    </span>
+<span class="hljs-comment">// ______|^^^^^^^^|__ </span>
+<span class="hljs-comment">// PULSE WIDTH stand for distance(the time of ultrasound transmit, both go and back)</span>
+<span class="hljs-comment">// pulse width WILL NOT long than 38ms, it means timeout</span>
+<span class="hljs-comment">// Distance = Speed x Time</span>
+<span class="hljs-comment">// Speed of sound ~= 340m/s = 0.340mm/us</span>
+
+<span class="hljs-keyword">int</span> count = <span class="hljs-number">0</span>;
+
+<span class="hljs-keyword">long</span> duration;
+<span class="hljs-comment">// PULSE WIDTH</span>
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">setup</span><span class="hljs-params">()</span> </span>{
+    <span class="hljs-comment">// set Serial communication</span>
+    Serial.<span class="hljs-built_in">begin</span>(<span class="hljs-number">115200</span>);
+    <span class="hljs-comment">// set pin mode</span>
+    <span class="hljs-built_in">pinMode</span>(TrigPin, OUTPUT);
+    <span class="hljs-built_in">pinMode</span>(EchoPin, INPUT);
+    <span class="hljs-comment">// init pin</span>
+    <span class="hljs-built_in">digitalWrite</span>(TrigPin, LOW);
+    <span class="hljs-built_in">delay</span>(<span class="hljs-number">1</span>);
+}
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">loop</span><span class="hljs-params">()</span> </span>{
+    Serial.<span class="hljs-built_in">println</span>(count++);
+    Serial.<span class="hljs-built_in">println</span>(<span class="hljs-built_in">getDistance</span>());
+    Serial.<span class="hljs-built_in">println</span>(<span class="hljs-string">&quot;&quot;</span>);
+    Serial.<span class="hljs-built_in">println</span>(<span class="hljs-string">&quot;&quot;</span>);
+    <span class="hljs-built_in">delay</span>(<span class="hljs-number">1000</span>);
+}
+
+<span class="hljs-function"><span class="hljs-keyword">long</span> <span class="hljs-title">getDistance</span><span class="hljs-params">()</span> </span>{
+    <span class="hljs-comment">// trig</span>
+    <span class="hljs-built_in">digitalWrite</span>(TrigPin, LOW);
+    <span class="hljs-built_in">delayMicroseconds</span>(<span class="hljs-number">2</span>);
+    <span class="hljs-built_in">digitalWrite</span>(TrigPin, HIGH);
+    <span class="hljs-built_in">delayMicroseconds</span>(<span class="hljs-number">10</span>);
+    <span class="hljs-built_in">digitalWrite</span>(TrigPin, LOW);
+    <span class="hljs-comment">// echo</span>
+    duration = <span class="hljs-built_in">pulseIn</span>(EchoPin, HIGH);     <span class="hljs-comment">// unit: us</span>
+    <span class="hljs-keyword">return</span> duration * <span class="hljs-number">0.34029</span> / <span class="hljs-number">2</span>;         <span class="hljs-comment">// unit: mm</span>
+}
+</code></pre>
+<h3 id="3-temperature-sensor">3. Temperature sensor</h3>
+<p><img src="https://gitlab.com/picbed/bed/uploads/39121a601bd52777197a4c9b5de46621/temperature_tmp36pinout.gif" alt>
+<img src="https://gitlab.com/picbed/bed/uploads/831b78bcdd7c99281cbcc60f55bf0b5d/TMP36GZ.jpg" alt></p>
+<pre><code class="lang-cpp"><span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> temperaturePin = <span class="hljs-number">0</span>;
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">setup</span><span class="hljs-params">()</span>
+</span>{ 
+  Serial.<span class="hljs-built_in">begin</span>(<span class="hljs-number">9600</span>);
+}
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">loop</span><span class="hljs-params">()</span>
+</span>{
+
+  <span class="hljs-keyword">float</span> voltage, degreesC, degreesF;
+
+  voltage = <span class="hljs-built_in">getVoltage</span>(temperaturePin);
+  degreesC = (voltage - <span class="hljs-number">0.5</span>) * <span class="hljs-number">100.0</span>;
+  degreesF = degreesC * (<span class="hljs-number">9.0</span>/<span class="hljs-number">5.0</span>) + <span class="hljs-number">32.0</span>;
+
+  Serial.<span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;voltage: &quot;</span>);
+  Serial.<span class="hljs-built_in">print</span>(voltage);
+  Serial.<span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;  deg C: &quot;</span>);
+  Serial.<span class="hljs-built_in">print</span>(degreesC);
+  Serial.<span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;  deg F: &quot;</span>);
+  Serial.<span class="hljs-built_in">println</span>(degreesF);
+
+  <span class="hljs-built_in">delay</span>(<span class="hljs-number">1000</span>); <span class="hljs-comment">// repeat once per second (change as you wish!)</span>
+}
+
+<span class="hljs-function"><span class="hljs-keyword">float</span> <span class="hljs-title">getVoltage</span><span class="hljs-params">(<span class="hljs-keyword">int</span> pin)</span>
+</span>{
+
+  <span class="hljs-keyword">return</span> (<span class="hljs-built_in">analogRead</span>(pin) * <span class="hljs-number">0.004882814</span>);
+
+}
+</code></pre>
+<h3 id="4air-sensor">4.Air sensor</h3>
+<p> We use MQ-2 air sensor to do this test</p>
+<p> <img src="https://gitlab.com/picbed/bed/uploads/015c4cc84f7fe84d194f026fff4d20f9/WX20200415-152026_2x.png" alt></p>
+<pre><code class="lang-cpp"> <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">setup</span><span class="hljs-params">()</span>
+</span>{
+    Serial.<span class="hljs-built_in">begin</span>(<span class="hljs-number">9600</span>);
+}
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">loop</span><span class="hljs-params">()</span>
+</span>{
+    <span class="hljs-keyword">int</span> val;
+    val=<span class="hljs-built_in">analogRead</span>(<span class="hljs-number">0</span>);
+    Serial.<span class="hljs-built_in">println</span>(val,DEC);
+    <span class="hljs-built_in">delay</span>(<span class="hljs-number">100</span>);
+}
+</code></pre>
+<h3 id="5-dht-11-humiditytemperature-sensors">5. DHT-11: Humidity/Temperature sensors</h3>
+<p><img src="https://gitlab.com/picbed/bed/uploads/bf7bc916bb1a43e2ab5e2db77ae4bd92/arduinodht11connect.jpeg" alt>
+<img src="https://gitlab.com/picbed/bed/uploads/b4c2cbfc14b4ddb5258cd1d4aea9fbb9/Arduinodht11.png" alt></p>
+<p>Add Library in   Sketch/Include Library/Manage Libraries ,search DHT Sensor library</p>
+<pre><code class="lang-cpp"><span class="hljs-comment">// Example testing sketch for various DHT humidity/temperature sensors</span>
+<span class="hljs-comment">// Written by ladyada, public domain</span>
+
+<span class="hljs-comment">// REQUIRES the following Arduino libraries:</span>
+<span class="hljs-comment">// - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library</span>
+<span class="hljs-comment">// - Adafruit Unified Sensor Lib: https://github.com/adafruit/Adafruit_Sensor</span>
+
+<span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&quot;DHT.h&quot;</span></span>
+
+<span class="hljs-meta">#<span class="hljs-meta-keyword">define</span> DHTPIN A0     <span class="hljs-comment">// Digital pin connected to the DHT sensor</span></span>
+<span class="hljs-comment">// Feather HUZZAH ESP8266 note: use pins 3, 4, 5, 12, 13 or 14 --</span>
+<span class="hljs-comment">// Pin 15 can work but DHT must be disconnected during program upload.</span>
+
+<span class="hljs-comment">// Uncomment whatever type you&apos;re using!</span>
+<span class="hljs-meta">#<span class="hljs-meta-keyword">define</span> DHTTYPE DHT11   <span class="hljs-comment">// DHT 11</span></span>
+<span class="hljs-comment">//#define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321</span>
+<span class="hljs-comment">//#define DHTTYPE DHT21   // DHT 21 (AM2301)</span>
+
+<span class="hljs-comment">// Connect pin 1 (on the left) of the sensor to +5V</span>
+<span class="hljs-comment">// <span class="hljs-doctag">NOTE:</span> If using a board with 3.3V logic like an Arduino Due connect pin 1</span>
+<span class="hljs-comment">// to 3.3V instead of 5V!</span>
+<span class="hljs-comment">// Connect pin 2 of the sensor to whatever your DHTPIN is</span>
+<span class="hljs-comment">// Connect pin 4 (on the right) of the sensor to GROUND</span>
+<span class="hljs-comment">// Connect a 10K resistor from pin 2 (data) to pin 1 (power) of the sensor</span>
+
+<span class="hljs-comment">// Initialize DHT sensor.</span>
+<span class="hljs-comment">// Note that older versions of this library took an optional third parameter to</span>
+<span class="hljs-comment">// tweak the timings for faster processors.  This parameter is no longer needed</span>
+<span class="hljs-comment">// as the current DHT reading algorithm adjusts itself to work on faster procs.</span>
+<span class="hljs-function">DHT <span class="hljs-title">dht</span><span class="hljs-params">(DHTPIN, DHTTYPE)</span></span>;
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">setup</span><span class="hljs-params">()</span> </span>{
+  Serial.<span class="hljs-built_in">begin</span>(<span class="hljs-number">9600</span>);
+  Serial.<span class="hljs-built_in">println</span>(<span class="hljs-built_in">F</span>(<span class="hljs-string">&quot;DHTxx test!&quot;</span>));
+
+  dht.<span class="hljs-built_in">begin</span>();
+}
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">loop</span><span class="hljs-params">()</span> </span>{
+  <span class="hljs-comment">// Wait a few seconds between measurements.</span>
+  <span class="hljs-built_in">delay</span>(<span class="hljs-number">2000</span>);
+
+  <span class="hljs-comment">// Reading temperature or humidity takes about 250 milliseconds!</span>
+  <span class="hljs-comment">// Sensor readings may also be up to 2 seconds &apos;old&apos; (its a very slow sensor)</span>
+  <span class="hljs-keyword">float</span> h = dht.<span class="hljs-built_in">readHumidity</span>();
+  <span class="hljs-comment">// Read temperature as Celsius (the default)</span>
+  <span class="hljs-keyword">float</span> t = dht.<span class="hljs-built_in">readTemperature</span>();
+  <span class="hljs-comment">// Read temperature as Fahrenheit (isFahrenheit = true)</span>
+  <span class="hljs-keyword">float</span> f = dht.<span class="hljs-built_in">readTemperature</span>(<span class="hljs-literal">true</span>);
+
+  <span class="hljs-comment">// Check if any reads failed and exit early (to try again).</span>
+  <span class="hljs-keyword">if</span> (<span class="hljs-built_in">isnan</span>(h) || <span class="hljs-built_in">isnan</span>(t) || <span class="hljs-built_in">isnan</span>(f)) {
+    Serial.<span class="hljs-built_in">println</span>(<span class="hljs-built_in">F</span>(<span class="hljs-string">&quot;Failed to read from DHT sensor!&quot;</span>));
+    <span class="hljs-keyword">return</span>;
+  }
+
+  Serial.<span class="hljs-built_in">print</span>(<span class="hljs-built_in">F</span>(<span class="hljs-string">&quot;Humidity: &quot;</span>));
+  Serial.<span class="hljs-built_in">print</span>(h);
+  Serial.<span class="hljs-built_in">print</span>(<span class="hljs-built_in">F</span>(<span class="hljs-string">&quot;%  Temperature: &quot;</span>));
+  Serial.<span class="hljs-built_in">print</span>(t);
+  Serial.<span class="hljs-built_in">print</span>(<span class="hljs-built_in">F</span>(<span class="hljs-string">&quot;°C &quot;</span>));
+  Serial.<span class="hljs-built_in">print</span>(f);
+  Serial.<span class="hljs-built_in">println</span>(<span class="hljs-built_in">F</span>(<span class="hljs-string">&quot;°F&quot;</span>));
+}
+</code></pre>
+<h4 id="6-ir-remote">6. IR-remote</h4>
+<p><img src="https://gitlab.com/picbed/bed/uploads/eabd8ceb348af1596368633ad55794a6/WechatIMG21.png" alt></p>
+<p><img src="https://gitlab.com/picbed/bed/uploads/e367029fd38ab5be80796359e0f054e2/WechatIMG22.png" alt></p>
+<p>Add Library in   Sketch/Include Library/Manage Libraries ,search IR-remote</p>
+<pre><code class="lang-cpp"><span class="hljs-comment">/*
+ * IRrecvDemo
+ * Receive singal and the PCB LED light
+ */</span>
+
+<span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;IRremote.h&gt;</span></span>
+
+<span class="hljs-keyword">int</span> RECV_PIN = <span class="hljs-number">11</span>;
+<span class="hljs-keyword">int</span> LED_PIN = <span class="hljs-number">13</span>;
+
+<span class="hljs-function">IRrecv <span class="hljs-title">irrecv</span><span class="hljs-params">(RECV_PIN)</span></span>;
+
+decode_results results;
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">setup</span><span class="hljs-params">()</span>
+</span>{
+  Serial.<span class="hljs-built_in">begin</span>(<span class="hljs-number">9600</span>);
+  irrecv.<span class="hljs-built_in">enableIRIn</span>(); <span class="hljs-comment">// Start the receiver</span>
+  <span class="hljs-built_in">pinMode</span>(LED_PIN, OUTPUT);
+  <span class="hljs-built_in">digitalWrite</span>(LED_PIN, HIGH);
+}
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">loop</span><span class="hljs-params">()</span> </span>{
+  <span class="hljs-keyword">if</span> (irrecv.<span class="hljs-built_in">decode</span>(&amp;results)) {
+    Serial.<span class="hljs-built_in">println</span>(results.value, HEX);
+    <span class="hljs-keyword">if</span> (results.value == <span class="hljs-number">0xFFA25D</span>) <span class="hljs-comment">//light on</span>
+    {
+      <span class="hljs-built_in">digitalWrite</span>(LED_PIN, LOW);
+    } <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (results.value == <span class="hljs-number">0xFF629D</span>) <span class="hljs-comment">//light off</span>
+    {
+      <span class="hljs-built_in">digitalWrite</span>(LED_PIN, HIGH);
+    }
+    irrecv.<span class="hljs-built_in">resume</span>(); <span class="hljs-comment">// Receive the next value</span>
+  }
+  <span class="hljs-built_in">delay</span>(<span class="hljs-number">100</span>);
+}
+</code></pre>
+<h3 id="7-keypad">7. Keypad</h3>
+<p><img src="https://gitlab.com/picbed/bed/uploads/521c1059e701576e9521f44873db7dd5/Screen_Shot_2020-10-22_at_12.26.43.png" alt></p>
+<p>Add Library in   Sketch/Include Library/Manage Libraries</p>
+<p><img src="https://gitlab.com/picbed/bed/uploads/06d98b0e17ffa0e3103d49c76a92d632/WX20201022-123119_2x.png" alt></p>
+<pre><code class="lang-cpp">
+<span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;Keypad.h&gt;</span></span>
+
+
+
+<span class="hljs-keyword">const</span> byte ROWS = <span class="hljs-number">4</span>; <span class="hljs-comment">//four rows</span>
+<span class="hljs-keyword">const</span> byte COLS = <span class="hljs-number">4</span>; <span class="hljs-comment">//three columns</span>
+<span class="hljs-keyword">char</span> keys[ROWS][COLS] = {
+  {<span class="hljs-string">&apos;1&apos;</span>,<span class="hljs-string">&apos;2&apos;</span>,<span class="hljs-string">&apos;3&apos;</span>,<span class="hljs-string">&apos;A&apos;</span>},
+  {<span class="hljs-string">&apos;4&apos;</span>,<span class="hljs-string">&apos;5&apos;</span>,<span class="hljs-string">&apos;6&apos;</span>,<span class="hljs-string">&apos;B&apos;</span>},
+  {<span class="hljs-string">&apos;7&apos;</span>,<span class="hljs-string">&apos;8&apos;</span>,<span class="hljs-string">&apos;9&apos;</span>,<span class="hljs-string">&apos;C&apos;</span>},
+  {<span class="hljs-string">&apos;*&apos;</span>,<span class="hljs-string">&apos;0&apos;</span>,<span class="hljs-string">&apos;#&apos;</span>,<span class="hljs-string">&apos;D&apos;</span>}
+};
+byte rowPins[ROWS] = {<span class="hljs-number">5</span>, <span class="hljs-number">4</span>, <span class="hljs-number">3</span>, <span class="hljs-number">2</span>}; <span class="hljs-comment">//connect to the row pinouts of the keypad</span>
+byte colPins[COLS] = {<span class="hljs-number">9</span>,<span class="hljs-number">8</span>, <span class="hljs-number">7</span>, <span class="hljs-number">6</span>}; <span class="hljs-comment">//connect to the column pinouts of the keypad</span>
+
+Keypad keypad = <span class="hljs-built_in">Keypad</span>( <span class="hljs-built_in">makeKeymap</span>(keys), rowPins, colPins, ROWS, COLS );
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">setup</span><span class="hljs-params">()</span></span>{
+  Serial.<span class="hljs-built_in">begin</span>(<span class="hljs-number">9600</span>);
+}
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">loop</span><span class="hljs-params">()</span></span>{
+  <span class="hljs-keyword">char</span> key = keypad.<span class="hljs-built_in">getKey</span>();
+
+  <span class="hljs-keyword">if</span> (key){
+    Serial.<span class="hljs-built_in">println</span>(key);
+  }
+}
+</code></pre>
+<p><a href="https://www.arduino.cc/reference/en/libraries/keypad/" target="_blank">Library information</a></p>
+<h3 id="8sharp-gp2y10">8.Sharp GP2Y10</h3>
+<p><img src="https://gitlab.com/picbed/bed/uploads/6f700260306bc7f920364993e5e7cd44/9770feae06.png" alt></p>
+<pre><code class="lang-cpp"><span class="hljs-meta">#<span class="hljs-meta-keyword">define</span>        COV_RATIO                           0.17           <span class="hljs-comment">// (ug/m3) / mv</span></span>
+<span class="hljs-meta">#<span class="hljs-meta-keyword">define</span>        NO_DUST_VOLTAGE         600            <span class="hljs-comment">// mv</span></span>
+<span class="hljs-meta">#<span class="hljs-meta-keyword">define</span>        SYS_VOLTAGE                     5000          <span class="hljs-comment">// ADC参考电压    </span></span>
+
+<span class="hljs-comment">/*
+I/O define
+*/</span>
+<span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> iled = <span class="hljs-number">3</span>;                                           <span class="hljs-comment">//drive the led of sensor</span>
+<span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> vout = <span class="hljs-number">0</span>;                                           <span class="hljs-comment">//analog input</span>
+
+<span class="hljs-comment">/*
+variable
+*/</span>
+<span class="hljs-keyword">float</span> density, voltage;
+<span class="hljs-keyword">int</span>   adcvalue;
+
+<span class="hljs-comment">/*
+private function
+*/</span>
+<span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">Filter</span><span class="hljs-params">(<span class="hljs-keyword">int</span> m)</span>
+</span>{
+  <span class="hljs-keyword">static</span> <span class="hljs-keyword">int</span> flag_first = <span class="hljs-number">0</span>, _buff[<span class="hljs-number">10</span>], sum;
+  <span class="hljs-keyword">const</span> <span class="hljs-keyword">int</span> _buff_max = <span class="hljs-number">10</span>;
+  <span class="hljs-keyword">int</span> i;
+
+  <span class="hljs-keyword">if</span>(flag_first == <span class="hljs-number">0</span>)
+  {
+    flag_first = <span class="hljs-number">1</span>;
+
+    <span class="hljs-keyword">for</span>(i = <span class="hljs-number">0</span>, sum = <span class="hljs-number">0</span>; i &lt; _buff_max; i++)
+    {
+      _buff[i] = m;
+      sum += _buff[i];
+    }
+    <span class="hljs-keyword">return</span> m;
+  }
+  <span class="hljs-keyword">else</span>
+  {
+    sum -= _buff[<span class="hljs-number">0</span>];
+    <span class="hljs-keyword">for</span>(i = <span class="hljs-number">0</span>; i &lt; (_buff_max - <span class="hljs-number">1</span>); i++)
+    {
+      _buff[i] = _buff[i + <span class="hljs-number">1</span>];
+    }
+    _buff[<span class="hljs-number">9</span>] = m;
+    sum += _buff[<span class="hljs-number">9</span>];
+
+    i = sum / <span class="hljs-number">10.0</span>;
+    <span class="hljs-keyword">return</span> i;
+  }
+}
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">setup</span><span class="hljs-params">(<span class="hljs-keyword">void</span>)</span>
+</span>{
+  <span class="hljs-built_in">pinMode</span>(iled, OUTPUT);
+  <span class="hljs-built_in">digitalWrite</span>(iled, LOW);                                     <span class="hljs-comment">//iled default closed</span>
+  Serial.<span class="hljs-built_in">begin</span>(<span class="hljs-number">9600</span>);                                          <span class="hljs-comment">//send and receive at 9600 baud</span>
+}
+
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">loop</span><span class="hljs-params">(<span class="hljs-keyword">void</span>)</span>
+</span>{
+  <span class="hljs-comment">/*
+  get adcvalue
+  */</span>
+  <span class="hljs-built_in">digitalWrite</span>(iled, HIGH);
+  <span class="hljs-built_in">delayMicroseconds</span>(<span class="hljs-number">280</span>);
+  adcvalue = <span class="hljs-built_in">analogRead</span>(vout);
+  <span class="hljs-built_in">delayMicroseconds</span>(<span class="hljs-number">40</span>);
+  <span class="hljs-built_in">digitalWrite</span>(iled, LOW);
+
+  adcvalue = <span class="hljs-built_in">Filter</span>(adcvalue);
+
+  <span class="hljs-comment">/*
+  covert voltage (mv)
+  */</span>
+  voltage = (SYS_VOLTAGE / <span class="hljs-number">1024.0</span>) * adcvalue * <span class="hljs-number">11</span>;
+
+  <span class="hljs-comment">/*
+  voltage to density
+  */</span>
+  <span class="hljs-keyword">if</span>(voltage &gt;= NO_DUST_VOLTAGE)
+  {
+    voltage -= NO_DUST_VOLTAGE;
+    density = voltage * COV_RATIO;
+  }
+  <span class="hljs-keyword">else</span>
+    density = <span class="hljs-number">0</span>;
+
+
+  Serial.<span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;The current dust concentration is: &quot;</span>);
+  Serial.<span class="hljs-built_in">print</span>(density);
+  Serial.<span class="hljs-built_in">print</span>(<span class="hljs-string">&quot; ug/m3\n&quot;</span>);  
+
+  <span class="hljs-built_in">delay</span>(<span class="hljs-number">1000</span>);
+}
+</code></pre>
+<h3 id="9digital-infrared-sensor"><a href="https://374737390.wixsite.com/my-site/autocat" target="_blank">9.Digital infrared sensor</a></h3>
+<ul>
+<li>Aim:Use the infrared sensor to control the switching state of RGB LED. When the infrared sensor detects an object within the range, the RGB LED turns on and flashes in red, yellow and green. At the same time, the button switch can also control the on state of RGB LED.</li>
+<li>Digital infrared sensor: The sensor module has a strong ability to adapt to environmental light, it has a pair of infrared transmitting and receiving tubes, transmitting tubes emit a certain frequency of infrared light, when the detection direction encounters an obstacle (reflective surface), the infrared light is reflected back to be received by the receiving tube, after the comparator circuit processing, the green indicator will light up, while the signal output interface output digital signal (a low-level signal), can be adjusted through the potentiometer The detection distance of the sensor can be adjusted by potentiometer, the effective distance range 2s30m working voltage is 3.3V-5V. The detection distance of the sensor can be adjusted by potentiometer, with small interference, easy to assemble, easy to use and other characteristics, the mouth is widely used in robot obstacle avoidance, obstacle avoidance car, assembly line counting and black and white line tracing and many other occasions.
+ <img src="https://gitlab.com/picbed/bed/uploads/5caa064736324b031b24e679a94d57e5/3929200363_1065888284.jpeg" alt></li>
+<li>Material:1 x Arduino UNO,1 x Infrared Sensor,1 x RGB LED,1 x Bread board,1 x Button,13 x DuPont line</li>
+</ul>
+<p><img src="https://gitlab.com/picbed/bed/uploads/b4b7c92565274612e59681179ab8a373/微信图片_20211013225434.webp" alt></p>
+<ul>
+<li>Coding(coming soon)</li>
+<li>Result(coming  soon)</li>
+</ul>
+<p><a href="https://374737390.wixsite.com/my-site/autocat" target="_blank">The above Digital infrared sensor from CNFD- team</a></p>
+<h2 id="reference">Reference</h2>
+<ul>
+<li><a href="https://www.qutaojiao.com/8643.html" target="_blank">Arduino:HC-SR04  ultrasonic sensor</a></li>
+<li><a href="https://www.w3cschool.cn/arduino/arduino_ultrasonic_sensor.html" target="_blank">Arduino in W3CSCHOOL</a></li>
+<li><a href="https://www.w3cschool.cn/arduino/arduino_pir_sensor.html" target="_blank">Arduino PIR sensor</a></li>
+<li><a href="https://374737390.wixsite.com/my-site/autocat" target="_blank">Digital infrared sensor </a></li>
+</ul>
+ <link rel="stylesheet" type="text/css" href="https://storage.googleapis.com/app.klipse.tech/css/codemirror.css"> <script>     window.klipse_settings = {         selector: ".language-klipse, .lang-eval-clojure",         selector_eval_js: ".lang-eval-js",         selector_eval_python_client: ".lang-eval-python",         selector_eval_php: ".lang-eval-php",         selector_eval_scheme: ".lang-eval-scheme",         selector_eval_ruby: ".lang-eval-ruby",         selector_reagent: ".lang-reagent",        selector_google_charts: ".lang-google-chart",        selector_es2017: ".lang-eval-es2017",        selector_jsx: ".lang-eval-jsx",        selector_transpile_jsx: ".lang-transpile-jsx",        selector_render_jsx: ".lang-render-jsx",        selector_react: ".lang-react",        selector_eval_markdown: ".lang-render-markdown",        selector_eval_lambdaway: ".lang-render-lambdaway",        selector_eval_cpp: ".lang-eval-cpp",        selector_eval_html: ".lang-render-html",        selector_sql: ".lang-eval-sql",        selector_brainfuck: "lang-eval-brainfuck",        selector_js: ".lang-transpile-cljs"    }; </script> <script src="https://storage.googleapis.com/app.klipse.tech/plugin/js/klipse_plugin.js"></script>
+<script>console.log("plugin-popup....");document.onclick = function(e){ e.target.tagName === "IMG" && window.open(e.target.src,e.target.src)}</script><style>img{cursor:pointer}</style>
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="arduino_code.html" class="navigation navigation-prev " aria-label="Previous page: Arduino Code">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="Arduino_output.html" class="navigation navigation-next " aria-label="Next page: Arduino Output">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Arduino Input","level":"2.5.5","depth":2,"next":{"title":"Arduino Output","level":"2.5.6","depth":2,"path":"doc/5arduino/Arduino_output.md","ref":"doc/5arduino/Arduino_output.md","articles":[]},"previous":{"title":"Arduino Code","level":"2.5.4","depth":2,"path":"doc/5arduino/arduino_code.md","ref":"doc/5arduino/arduino_code.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["chapter-fold","back-to-top-button","splitter","klipse","pageview-count","popup"],"pluginsConfig":{"chapter-fold":{},"splitter":{},"search":{},"popup":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"back-to-top-button":{},"pageview-count":{},"klipse":{"myConfigKey":"it's the default value"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56},"embedFonts":false},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"doc/5arduino/Arduino_Input.md","mtime":"2022-09-27T10:23:13.002Z","type":"markdown"},"gitbook":{"version":"4.0.0","time":"2022-09-28T08:24:53.413Z"},"basePath":"../..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <noscript>
+        <style>
+            .honkit-cloak {
+                display: block !important;
+            }
+        </style>
+    </noscript>
+    <script>
+        // Restore sidebar state as critical path for prevent layout shift
+        function __init__getSidebarState(defaultValue){
+            var baseKey = "";
+            var key = baseKey + ":sidebar";
+            try {
+                var value = localStorage[key];
+                if (value === undefined) {
+                    return defaultValue;
+                }
+                var parsed = JSON.parse(value);
+                return parsed == null ? defaultValue : parsed;
+            } catch (e) {
+                return defaultValue;
+            }
+        }
+        function __init__restoreLastSidebarState() {
+            var isMobile = window.matchMedia("(max-width: 600px)").matches;
+            if (isMobile) {
+                // Init last state if not mobile
+                return;
+            }
+            var sidebarState = __init__getSidebarState(true);
+            var book = document.querySelector(".book");
+            // Show sidebar if it enabled
+            if (sidebarState && book) {
+                book.classList.add("without-animation", "with-summary");
+            }
+        }
+
+        try {
+            __init__restoreLastSidebarState();
+        } finally {
+            var book = document.querySelector(".book");
+            book.classList.remove("honkit-cloak");
+        }
+    </script>
+    <script src="../../gitbook/gitbook.js"></script>
+    <script src="../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../gitbook/gitbook-plugin-chapter-fold/chapter-fold.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-back-to-top-button/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-splitter/splitter.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-pageview-count/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
