@@ -7,7 +7,7 @@ gulp.task('publish', () => {
   console.log('Publish Gitbook (_book) to Github Pages');
   return gulp.src('./_book/**/*')
     .pipe($.ghPages({
-      origin: 'github',
+      origin: 'origin',
       branch: 'master'
     }));
 });
